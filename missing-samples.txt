@@ -1,0 +1,72 @@
+A sample 17-05-30 @ RWA NOT FOUND in B    A is correct: happened on 5/30, not 5/31 as in B
+
+A sample 17-08-22 @ RAB NOT FOUND in B    A is correct: sample days were tuesday 8/22 through friday 8/25 not 8/21 through 8/24
+A sample 17-08-22 @ RCB NOT FOUND in B
+A sample 17-08-22 @ RKS NOT FOUND in B
+A sample 17-08-22 @ RNS NOT FOUND in B
+A sample 17-08-22 @ RPO NOT FOUND in B
+A sample 17-08-22 @ RWA NOT FOUND in B
+
+A sample 17-08-23 @ OLP NOT FOUND in B
+A sample 17-08-23 @ OSF NOT FOUND in B
+A sample 17-08-23 @ PFF NOT FOUND in B
+A sample 17-08-23 @ PLT NOT FOUND in B
+A sample 17-08-23 @ PPU NOT FOUND in B
+
+A sample 17-08-24 @ OCO NOT FOUND in B
+A sample 17-08-24 @ OMM NOT FOUND in B
+A sample 17-08-24 @ OPB NOT FOUND in B
+A sample 17-08-24 @ OPM NOT FOUND in B
+A sample 17-08-24 @ OPP NOT FOUND in B
+A sample 17-08-24 @ OUB NOT FOUND in B
+
+A sample 17-08-25 @ RFN NOT FOUND in B
+A sample 17-08-25 @ RFS NOT FOUND in B
+A sample 17-08-25 @ RHL NOT FOUND in B
+A sample 17-08-25 @ RKO NOT FOUND in B
+A sample 17-08-25 @ RKV NOT FOUND in B
+A sample 17-08-25 @ RON NOT FOUND in B
+
+A sample 18-01-30 @ RAB NOT FOUND in B this week not completely entered by B, only 1/31 and 2/1, not 1/30 or 2/2
+A sample 18-01-30 @ RCB NOT FOUND in B
+A sample 18-01-30 @ RKS NOT FOUND in B
+A sample 18-01-30 @ RNS NOT FOUND in B
+A sample 18-01-30 @ RPO NOT FOUND in B
+A sample 18-01-30 @ RWA NOT FOUND in B
+
+B sample 17-05-31 @ RWA NOT FOUND in A  See above
+
+B sample 17-08-21 @ RAB NOT FOUND in A  See above
+B sample 17-08-21 @ RCB NOT FOUND in A
+B sample 17-08-21 @ RKS NOT FOUND in A
+B sample 17-08-21 @ RNS NOT FOUND in A
+B sample 17-08-21 @ RPO NOT FOUND in A
+B sample 17-08-21 @ RWA NOT FOUND in A
+
+B sample 17-08-22 @ OLP NOT FOUND in A
+B sample 17-08-22 @ OSF NOT FOUND in A
+B sample 17-08-22 @ PFF NOT FOUND in A
+B sample 17-08-22 @ PLH NOT FOUND in A
+B sample 17-08-22 @ PLT NOT FOUND in A
+B sample 17-08-22 @ PPU NOT FOUND in A
+
+B sample 17-08-23 @ OCO NOT FOUND in A
+B sample 17-08-23 @ OMM NOT FOUND in A
+B sample 17-08-23 @ OPB NOT FOUND in A
+B sample 17-08-23 @ OPM NOT FOUND in A
+B sample 17-08-23 @ OPP NOT FOUND in A
+B sample 17-08-23 @ OUB NOT FOUND in A
+
+B sample 17-08-24 @ RFN NOT FOUND in A
+B sample 17-08-24 @ RFS NOT FOUND in A
+B sample 17-08-24 @ RHL NOT FOUND in A
+B sample 17-08-24 @ RKO NOT FOUND in A
+B sample 17-08-24 @ RKV NOT FOUND in A
+B sample 17-08-24 @ RON NOT FOUND in A
+
+B sample 18-02-01 @ OCO NOT FOUND in A   A has not had this data entered yet, only 1/30 and 1/31 (not 2/1 and 2/2)
+B sample 18-02-01 @ OMM NOT FOUND in A
+B sample 18-02-01 @ OPB NOT FOUND in A
+B sample 18-02-01 @ OPM NOT FOUND in A
+B sample 18-02-01 @ OPP NOT FOUND in A
+B sample 18-02-01 @ OUB NOT FOUND in A

@@ -1,0 +1,22 @@
+{
+  "name": "data-check",
+  "version": "1.0.0",
+  "description": "used for checking and processing spread sheet water quality data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brathfon/data-check.git"
+  },
+  "author": "Bill Rathfon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brathfon/data-check/issues"
+  },
+  "homepage": "https://github.com/brathfon/data-check#readme",
+  "dependencies": {
+    "chalk": "^2.3.1"
+  }
+}

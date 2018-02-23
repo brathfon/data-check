@@ -1,0 +1,141 @@
+Fixed problems in the webexport:
+
+Nutrient Data shifted: Some of the nutrient data on 8/24/16 and 8/25/16 was shifted by one row in the spreadsheet. There was one row missing, or blank. It needed to be moved down and the data for PPU (Puamana) needed to be entered (in red, bold). Shifted PPU -> OLP, OLP -> OSF, ..... OBP -> OPP (OPP was blank).   , FIXED in webexport
+
+Session 26 dates are all off by one day.  It sampling started on 8/22/17, not 8/21/17  , FIXED in webexport
+
+In session 22, Wahikuli was taken on 5/30/17, not 5/31/17  , FIXED in webexport
+
+
+Problems with Dana's spread sheets:  extra hidden columns on PLH (Lindsey Hale).  Caused diffs. Removed extra columns and re-exported to .tsv
+
+
+SiteName        Honolua Bay     Honolua  , FIXED in webexport
+Location        RHL     RHL
+Date    11/17/17        11/17/17
+Time    7:50    07:58 DIFF   Probably A   Decision: A
+
+
+SiteName        Papalaua Beach Park     Papalaua , FIXED in webexport
+Location        OPB     OPB
+Date    6/16/16 6/16/16
+Time    9:40    09:17 DIFF last three times need to be shifted up. Ukumehame is now OUB is at 9:17.  Bridge was skipped. A is correct
+
+
+SiteName        Papalaua Beach Park     Papalaua , FIXED in webexport
+Location        OPB     OPB
+Date    6/22/17 6/22/17
+Time    8:50    09:10 DIFF A is correct.   Decision: A
+
+
+SiteName        Peter Martin Hale       Peter Martin Hale , FIXED in webexport
+Location        OPM     OPM
+Date    9/8/16  9/8/16
+Time    7:10    07:10
+.....
+Turbidity       3.03    3.02 DIFF   average of 4 readings, 3.025  Decision: either one, will go with A for ease.
+
+
+SiteName        Launiupoko      Launiupoko , FIXED in webexport
+Location        OLP     OLP
+Date    7/27/16 7/27/16
+Time    9:09    09:09
+Temp    28.1    28 DIFF   can be interpreted 28.1 or 28.0.  I would go with A, but either OK
+
+
+SiteName        Olowalu Shore Front     Olowalu shore front
+Location        OSF     OSF
+Date    1/10/18 1/10/18
+Time    10:19   10:19
+......
+Turbidity       2.85    2.68 DIFF  Not sure if 3 or 4 measurements, 3 is 2.68  Not sure where 2.85 comes from. Decision: B is correct.
+
+
+Swapped entries:
+Field measurements switched due to sampling down out of order and then notated with <--> kind of thing on sheet
+
+------------------ diffs found for PLH on 9/7/16  -----------------------
+SiteName        Lindsey Hale    Lindsey Hale
+Location        PLH     PLH
+Date    9/7/16  9/7/16
+Time    8:46    08:19 DIFF  The switchero with arrows on chart: A is correct Same with one below
+Temp    27.5    27.5
+Salinity        36.5    36.6 DIFF The switchero with arrows on chart: A is correct
+DO      6.07    6.06 DIFF the switchero
+DO%     94.2    94 DIFF the switchero
+pH      7.96    8.01 DIFF the switchero
+Turbidity       6.77    4.33 DIFF the switchero
+TotalN  71.64   71.64
+TotalP  10.36   10.36
+Phosphate       5.46    5.46
+Silicate        99.94   99.94
+NNN     5.97    5.97
+NH4     2.61    2.61
+------------------ diffs found for PLT on 9/7/16  -----------------------
+SiteName        Lahaina Town    Lahaina Town
+Location        PLT     PLT
+Date    9/7/16  9/7/16
+Time    8:19    08:46 DIFF the switchero
+Temp    27.5    27.5
+Salinity        36.6    36.5 DIFF the switchero
+DO      6.06    6.07 DIFF the switchero
+DO%     94.0    94.2 DIFF the switchero
+pH      8.01    7.96 DIFF the switchero
+Turbidity       4.33    6.77 DIFF the switchero
+TotalN  87.18   87.18
+TotalP  11.37   11.37
+Phosphate       7.85    7.85
+Silicate        164.84  164.84
+NNN     5.45    5.45
+NH4     5.25    5.25
+
+
+SiteName        Lahaina Town    Lahaina Town
+Location        PLT     PLT
+Date    10/4/17 10/4/17
+Time    9:00    09:00
+Temp    28.3    29.3 DIFF  B is correct.  Decision: B, but the value seems high given all the other measurements
+                           SHOULD IT BE QA'ed out?
+
+
+SiteName        Airport Beach   Airport Beach , FIXED in webexport
+Location        RAB     RAB
+Date    8/9/16  8/9/16
+Time    8:11    08:11
+Temp    27.1    27 DIFF  Two temps on chart.  Decision: A for ease
+
+
+SiteName        Canoe Beach     Canoe Beach , FIXED in webexport
+Location        RCB     RCB
+Date    10/3/17 10/3/17
+Time    9:36    09:36
+....
+Turbidity       6.08    4.36 DIFF  4 entries, one crossed out, A is correct if only 3 used  A is correct
+                             Two entries on sheet, one crossed out, 5.65 entered on sheet, but 0.50 entered in Google Drive
+
+
+SiteName        Kaanapali Shores        Kaanapali Shores , FIXED in webexport
+Location        RKS     RKS
+Date    8/9/16  8/9/16
+Time    7:45    07:45
+Temp    25.8    25.9 DIFF  2 temps in chart.  Decision: A for ease
+
+
+SiteName        Pohaku  Pohaku , FIXED in webexport
+Location        RPO     RPO
+Date    8/9/16  8/9/16
+Time    7:20    07:20
+Temp    26.5    26.6 DIFF two temps in chart. Decision: A for ease
+
+
+SiteName        Wahikuli Beach  Wahikuli , FIXED in webexport
+Location        RWA     RWA
+Date    3/28/17 3/28/17
+Time    9:21    09:21
+.....
+TotalN  102.96  145.39 DIFF   A is correct, B is RCB for the same day. Actually a replicate.  Decision: A
+TotalP  19.47   16.82 DIFF
+Phosphate       14.15   9.84 DIFF
+Silicate        768.90  590.57 DIFF
+NNN     37.51   81.31 DIFF
+NH4     6.85    7.74 DIFF
