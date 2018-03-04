@@ -3,20 +3,24 @@
 var util  = require('util');
 var chalk = require("chalk");
 
-var rssf  = require('./lib/readSingleSiteFiles');
+var rsf  = require('./lib/readSoestFiles');
 var rwef  = require('./lib/readWebExportFile');
 
 
-var aSites = rssf.readSiteFiles('tsv-files/single-site-files');
+var aSites = rsf.readSoestFiles('tsv-files/soest-files/west-maui');
+//console.log("aSites " + util.inspect(aSites, false, null));
 
-//var bSites = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed.tsv');
-var bSites = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed-lat-lons.tsv');
+var bSites = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed.tsv');
+//console.log("bSites " + util.inspect(bSites, false, null));
 
 var sample = null;
 
+
 // sometimes list A or B might have blank fields just to show that no samples were taken
 var isEmptySample = function(sample) {
-  return ((sample.Temp === '') && (sample.Salinity === '')) ? true : false; 
+  //console.log("checking emptiness " + util.inspect(sample, false, null));
+  return ((sample.TotalN === '') && (sample.TotalP === '')) ? true : false; 
+  //return false;  // right now don't think it applies to nutrient data
 };
 
 
@@ -50,7 +54,7 @@ var diffAB = function(sampleA, sampleB) {
         bValue = bValue.replace(/0+$/g, '').replace(/\.+$/g, '').replace(/^0+/g, '');
       }
 
-      if ((aValue !== bValue) && (param !== "SiteName")) {   // DANGER: not comparing SiteName, but may later
+      if (aValue !== bValue) {
         //console.log("found a diff for param " + param);
         diffsFound = true;
       }
@@ -77,7 +81,7 @@ var diffAB = function(sampleA, sampleB) {
         bValueStripped = bValue.replace(/0+$/g, '').replace(/\.+$/g, '').replace(/^0+/g, '');
       }
       //console.log("comparing param " + param + " with values " + aValue + " and " + bValue);
-      if ((aValueStripped !== bValueStripped) && (param !== "SiteName")){
+      if (aValueStripped !== bValueStripped){
         console.log(chalk.red(param + "\t" + aValue + "\t" + bValue + " DIFF"));
       }
       else {

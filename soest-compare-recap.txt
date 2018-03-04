@@ -1,0 +1,26 @@
+
+WARNING: found invalid ID OMM1608258-N-1 Line -> OMM1608258-N-1,14 TNC,62.23,12.75,5.12,280.11,5.63,1.66  fixed spreadsheet
+WARNING: found invalid ID OSF170329N-1 Line -> OSF170329N-1,13 TNC,77.95,12.43,6.28,147.20,5.68,14.60,,  fixed spreadsheet
+WARNING: found invalid ID OSF170510N-1 Line -> OSF170510N-1,12 TNC,73.02,8.63,5.93,94.43,4.35,2.83,,  fixed spreadsheet
+WARNING: found invalid ID OSF170531N-1 Line -> OSF170531N-1,13 TNC,66.91,6.41,4.23,70.33,8.73,3.19,,  fixed spreadsheet
+WARNING: found invalid ID OSF170712N-1 Line -> OSF170712N-1,12 TNC,65.01,11.90,4.88,125.82,9.24,2.78,,  fixed spreadsheet
+WARNING: found invalid ID RCB17059-N-1 Line -> RCB17059-N-1,5 TNC,230.57,15.60,13.62,1488.58,156.20,5.01,,  fixed spreadsheet
+
+OUP is equivalent to OUB.  It was a change in physical location at the beginning that was then called a different location code.
+ERROR: found unknown site name of OUP. from line OUP160616-N-1,TNC 12,63.47,16.77,6.34,112.01,2.64,1.79  fixed in spreadsheet
+ERROR: found unknown site name of OUP. from line OUP160630-N-1,TNC 13,76.47,12.30,4.05,113.15,0.12,2.92  fixed in spreadsheet
+ERROR: found unknown site name of OUP. from line OUP160714-N-1,TNC 14,77.70,11.77,4.37,74.21,1.87,2.19
+
+This is a site that only one collect was taken.  Will leave in as a know error
+ERROR: found unknown site name of RMO. from line RMO170622-N-1,20 TNC,123.88,10.98,8.94,1032.64,59.00,1.45
+
+
+A sample 17-02-03 @ RAB NOT FOUND in B , wrong month, fixed in spreadsheet 011017
+A sample 17-02-17 @ OSF NOT FOUND in B , wrong day, should be 15th, fixed in spreadsheet 022217
+A sample 17-06-22 @ RHL NOT FOUND in B , wrong day, should be 23rd, fixed in spreadsheet 062717
+
+
+B sample 17-01-03 @ RAB NOT FOUND in A  all from errors right above
+B sample 17-02-15 @ OSF NOT FOUND in A
+B sample 17-06-23 @ RHL NOT FOUND in A
+

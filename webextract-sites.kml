@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>webextract-sites.kml</name>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>webextract-sites</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Camp Olowalu</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.61369,20.80986</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Launiupoko</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.653035,20.84236</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Mile Marker 14</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.60661,20.80915</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Papalaua</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.57492,20.79348</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Peter Martin Hale</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.619697,20.808444</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Papalaua Pali</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.56872,20.79269</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Olowalu shore front</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.62289,20.80916</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Ukumehame Beach</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.58142,20.79448</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>505 Front Street</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.67605,20.86732</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Lindsey Hale</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.67374,20.86485</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Lahaina Town</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.67297,20.86356</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Puamana</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.669442,20.859233</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Airport Beach</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.69278,20.936669</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Canoe Beach</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.68917,20.910017</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Fleming N</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.65084,21.005</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kapalua Bay</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.66667,20.998636</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Honolua</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.63834,21.013058</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Ka'opala</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.67308,20.981967</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kaanapali Shores</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.691124,20.949331</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kahana Village</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.6630556,20.9644444</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Napili (south end)</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667417,20.994222</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Oneloa</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.65894,21.004056</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Pohaku</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.68139,20.967083</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Wahikuli</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.68593,20.90423</coordinates>
+			</Point>
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>
+

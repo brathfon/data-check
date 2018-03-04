@@ -1,0 +1,45 @@
+Kapalua
+
+webextract: <coordinates>-156.66667,20.998636</coordinates>
+Danas: <coordinates>-156.6667467667999,20.9989242021061,0</coordinates>
+will use:
+   <coordinates>-156.666746,20.998924,0</coordinates>
+
+
+Ka'opala
+webtract:  <coordinates>-156.67308,20.981967</coordinates>
+Dana's: <coordinates>-156.6733989807579,20.98207412037118,0</coordinates>
+will use
+   <coordinates>-156.673398,20.982074,0</coordinates>
+
+Kahana Village (way up the mountain)
+webextract: <coordinates>-156.6630556,20.9644444</coordinates>
+Danas: <coordinates>-156.678,20.976561,0</coordinates>
+will use
+   <coordinates>-156.678,20.976561,0</coordinates>
+
+Canoe Beach
+webextract: <coordinates>-156.68917,20.910017</coordinates>
+Dana <coordinates>-156.6893827296166,20.91034798699252,0</coordinates>
+Will use:
+   <coordinates>-156.689382,20.910347,0</coordinates>
+  
+
+Wahikuli
+webexport: <coordinates>-156.68593,20.90423</coordinates>
+Danas: <coordinates>-156.6859318719556,20.90447583338702,0</coordinates>
+will use:
+   <coordinates>-156.685931,20.904476,0</coordinates>
+
+Papalaua Beach Park
+webexport: <coordinates>-156.57492,20.79348</coordinates>
+Danas:<coordinates>-156.5752111146983,20.79380930728046,0</coordinates>
+will use:
+  <coordinates>-156.575211,20.793809,0</coordinates>
+  
+
+Papalaua Pali
+webexport: <coordinates>-156.56872,20.79269</coordinates>
+Danas: <coordinates>-156.5673255811674,20.79274667577085,0</coordinates>
+will use:
+  <coordinates>-156.567326,20.792747,0</coordinates>

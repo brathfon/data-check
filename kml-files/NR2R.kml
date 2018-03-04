@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NR2R.kmz</name>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>NR2R</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Kahana Village</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-156.6781167468629</longitude>
+				<latitude>20.97660686057528</latitude>
+				<altitude>0</altitude>
+				<heading>107.6990831592869</heading>
+				<tilt>29.49394012002454</tilt>
+				<range>212.6924541598601</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.6780000857546,20.97656148814598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kapalua Bay</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-156.6670826194609</longitude>
+				<latitude>20.99936450837312</latitude>
+				<altitude>0</altitude>
+				<heading>107.70303490772</heading>
+				<tilt>29.92341135662565</tilt>
+				<range>229.6000914777133</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.6667467667999,20.9989242021061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oneloa Bay</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-156.65929637722</longitude>
+				<latitude>21.00472282870871</latitude>
+				<altitude>0</altitude>
+				<heading>107.7058259739224</heading>
+				<tilt>29.9242710198203</tilt>
+				<range>536.9320407302858</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.6590671422344,21.00412578873899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ka&apos;opala Bay</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-156.6737513223375</longitude>
+				<latitude>20.98204407353791</latitude>
+				<altitude>0</altitude>
+				<heading>107.7006457776005</heading>
+				<tilt>29.7719706407055</tilt>
+				<range>154.837686020783</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.6733989807579,20.98207412037118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Honokahua Bay</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-156.6512541031773</longitude>
+				<latitude>21.0051066990514</latitude>
+				<altitude>0</altitude>
+				<heading>149.0076842545415</heading>
+				<tilt>31.07082074938958</tilt>
+				<range>543.0873092614564</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.650858286747,21.00509321126436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Honolua Bay</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-156.638740848316</longitude>
+				<latitude>21.01285893347635</latitude>
+				<altitude>0</altitude>
+				<heading>149.0121708509846</heading>
+				<tilt>49.85538529286492</tilt>
+				<range>343.1546504541853</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.6382550108723,21.01315912814959,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
