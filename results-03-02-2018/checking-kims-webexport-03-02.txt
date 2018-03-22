@@ -1,0 +1,26 @@
+It appears that Kim as added additional shifts to the nutrient data:
+
+grep TotalN diffs-soest-to-webexport-03-02.txt | grep DIFF | wc -l 
+result: 73 diffs
+
+grep TotalN diffs-dana-to-webexport-03-02.txt | grep DIFF | wc -l
+result: 73 diffs
+
+There are 558 entries in common for both soest and Kims data sheet, none only one or the other.
+
+
+Site Diffs
+Expecting these, though a couple are not correct
+
+
+SiteName	505 Front Street	505 Front St DIFF  <-- should be Street
+SiteName	Fleming North		DT Beach (Fleming N) DIFF
+SiteName	Fleming South		Kapalua Bay DIFF              <-- should have (Fleming S) on end
+SiteName	Honolua Bay		Honolua DIFF
+SiteName	Ka'opala Bay		Ka'opala DIFF
+SiteName	Napili south		Napili DIFF
+SiteName	Olowalu Shore Front	Olowalu shore front DIFF  <-- would like consistent changes
+SiteName	Oneloa Bay		Oneloa DIFF
+SiteName	Papalaua Beach Park	Papalaua DIFF
+SiteName	Puamana			Makila Point DIFF
+SiteName	Wahikuli Beach		Wahikuli DIFF

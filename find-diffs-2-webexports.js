@@ -3,16 +3,28 @@
 var util  = require('util');
 var chalk = require("chalk");
 
-var rssf  = require('./lib/readSingleSiteFiles');
 var rwef  = require('./lib/readWebExportFile');
 
 
-var aSites = rssf.readSiteFiles('tsv-files/single-site-files');
+//var aSamples = rwef.readWebExportFile('tsv-files/webexport_2018-03-02.tsv');
+//var aSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed.tsv');
+//var aSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed-lat-lons.tsv');
+//var aSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed-site-names-lat-lons.tsv');
+var aSamples = rwef.readWebExportFile('deliveries/hui-west-maui-thru-2017-11-17.tsv');
 
-//var bSites = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed.tsv');
-var bSites = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed-lat-lons.tsv');
+var numASamples = Object.keys(aSamples).length;
+var siteLocKey = "";
+
+//var bSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05.tsv');
+//var bSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed.tsv');
+//var bSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed-lat-lons.tsv');
+//var bSamples = rwef.readWebExportFile('tsv-files/webexport_2018-03-02.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality-data/legacy-data/west-maui-legacy-data-sessions-1-27.tsv');
+
+var numBSamples = Object.keys(bSamples).length;
 
 var sample = null;
+var i      = 0;
 
 // sometimes list A or B might have blank fields just to show that no samples were taken
 var isEmptySample = function(sample) {
@@ -50,7 +62,8 @@ var diffAB = function(sampleA, sampleB) {
         bValue = bValue.replace(/0+$/g, '').replace(/\.+$/g, '').replace(/^0+/g, '');
       }
 
-      if ((aValue !== bValue) && (param !== "SiteName")) {   // DANGER: not comparing SiteName, but may later
+      //if ((aValue !== bValue) && (param !== "SiteName")) {   // DANGER: not comparing SiteName, but may later
+      if ((aValue !== bValue)) {   // DANGER: not comparing SiteName, but may later
         //console.log("found a diff for param " + param);
         diffsFound = true;
       }
@@ -77,7 +90,8 @@ var diffAB = function(sampleA, sampleB) {
         bValueStripped = bValue.replace(/0+$/g, '').replace(/\.+$/g, '').replace(/^0+/g, '');
       }
       //console.log("comparing param " + param + " with values " + aValue + " and " + bValue);
-      if ((aValueStripped !== bValueStripped) && (param !== "SiteName")){
+      //if ((aValueStripped !== bValueStripped) && (param !== "SiteName")){
+      if (aValueStripped !== bValueStripped){
         console.log(chalk.red(param + "\t" + aValue + "\t" + bValue + " DIFF"));
       }
       else {
@@ -102,50 +116,62 @@ var fixDate = function(aDate) {
    return year + "-" + month + "-" + day;
 };
 
+console.log(numASamples + " samples found in group A");
+console.log(numBSamples + " samples found in group B");
+
+// these are lists of the keys
+var samplesInAOnly = [];
+var samplesInBOnly = [];
+var samplesInCommon = [];
+
 // first see if there anything in b that is not in a at a high level
-for (aSiteLocDate in aSites) {
+for (siteLocKey in aSamples) {
 
-  aSample = aSites[aSiteLocDate];
+  aSample = aSamples[siteLocKey];
 
-  if (isEmptySample(aSample)) {
-    console.log("A sample " + fixDate(aSample.Date) + " @ " + aSample.Location + " is empty");
+  if (bSamples[siteLocKey]) {
+    samplesInCommon.push(siteLocKey);
   }
-  else if (! bSites[aSiteLocDate]) {
+  else {
+    samplesInAOnly.push(siteLocKey);
     console.log("A sample " + fixDate(aSample.Date) + " @ " + aSample.Location + " NOT FOUND in B");
   }
 }
 
-for (bSiteLocDate in bSites) {
-  bSample = bSites[bSiteLocDate];
+for (siteLocKey in bSamples) {
 
-  if (isEmptySample(bSample)) {
-    console.log("B sample " + fixDate(bSample.Date) + " @ " + bSample.Location + " is empty");
-  }
-  else if (! aSites[bSiteLocDate]) {
-    //console.log("B sample " + bSiteLocDate + " NOT FOUND in A");
+  bSample = bSamples[siteLocKey];
+
+  // don't need to check about in common since we did that above for A vs B
+
+  if (! aSamples[siteLocKey]) {
+    //console.log("B sample " + siteLocKey + " NOT FOUND in A");
+    samplesInBOnly.push(siteLocKey);
     console.log("B sample " + fixDate(bSample.Date) + " @ " + bSample.Location + " NOT FOUND in A");
   }
 }
 
-// now diff them
-for (aSiteLocDate in aSites) {
+console.log("Samples only in A: " + samplesInAOnly.length);
+console.log("Samples only in B: " + samplesInBOnly.length);
+console.log("Samples in common: " + samplesInCommon.length);
 
-  aSample = aSites[aSiteLocDate];
+// Now loop through the common files
+for (i = 0; i < samplesInCommon.length; ++i)
+{
 
-  if (! bSites[aSiteLocDate]) {
-    console.log("Skipping " + aSiteLocDate + " because it is not in B");
+  siteLocKey = samplesInCommon[i];
+  aSample = aSamples[siteLocKey];
+  bSample = bSamples[siteLocKey];
+
+  if (isEmptySample(aSample)) {
+    console.log("A sample " + fixDate(aSample.Date) + " @ " + aSample.Location + " is empty");
   }
-  else {  // it is both a and b
-    bSample = bSites[aSiteLocDate];
-    if (isEmptySample(aSample)) {
-     console.log("Skipping " + aSiteLocDate + " in site A because it is empty");
-    }
-    else if (isEmptySample(bSample)) {
-     console.log("Skipping " + aSiteLocDate + " in site B because it is empty");
-    }
-    else {
-      diffAB(aSample, bSample);
-    }
+  else if (isEmptySample(bSample)) {
+    console.log("B sample " + fixDate(bSample.Date) + " @ " + bSample.Location + " is empty");
   }
+  else {
+    diffAB(aSample, bSample);
+  }
+
 }
 

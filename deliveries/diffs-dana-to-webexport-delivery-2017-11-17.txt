@@ -1,0 +1,2715 @@
+checking directory tsv-files/single-site-files
+checking file tsv-files/single-site-files/North_RTR_locations_RFN.tsv
+checking file tsv-files/single-site-files/North_RTR_locations_RFS.tsv
+checking file tsv-files/single-site-files/North_RTR_locations_RHL.tsv
+checking file tsv-files/single-site-files/North_RTR_locations_RKO.tsv
+checking file tsv-files/single-site-files/North_RTR_locations_RKV.tsv
+checking file tsv-files/single-site-files/North_RTR_locations_RMO.tsv
+checking file tsv-files/single-site-files/North_RTR_locations_RON.tsv
+checking file tsv-files/single-site-files/Olowalu_locations_OCO.tsv
+checking file tsv-files/single-site-files/Olowalu_locations_OMM.tsv
+checking file tsv-files/single-site-files/Olowalu_locations_OPB.tsv
+checking file tsv-files/single-site-files/Olowalu_locations_OPM.tsv
+checking file tsv-files/single-site-files/Olowalu_locations_OPP.tsv
+checking file tsv-files/single-site-files/Olowalu_locations_OUB.tsv
+checking file tsv-files/single-site-files/PLH-check.txt
+checking file tsv-files/single-site-files/Polanui_locations_OLP.tsv
+checking file tsv-files/single-site-files/Polanui_locations_OSF.tsv
+checking file tsv-files/single-site-files/Polanui_locations_PFF.tsv
+checking file tsv-files/single-site-files/Polanui_locations_PLH.tsv
+checking file tsv-files/single-site-files/Polanui_locations_PLH.tsv.backup
+checking file tsv-files/single-site-files/Polanui_locations_PLT.tsv
+checking file tsv-files/single-site-files/Polanui_locations_PPU.tsv
+checking file tsv-files/single-site-files/RTR_locations_RAB.tsv
+checking file tsv-files/single-site-files/RTR_locations_RCB.tsv
+checking file tsv-files/single-site-files/RTR_locations_RKS.tsv
+checking file tsv-files/single-site-files/RTR_locations_RNS.tsv
+checking file tsv-files/single-site-files/RTR_locations_RPO.tsv
+checking file tsv-files/single-site-files/RTR_locations_RWA.tsv
+656 samples found in group A
+558 samples found in group B
+A sample 17-12-08 @ RFN NOT FOUND in B
+A sample 17-12-22 @ RFN NOT FOUND in B
+A sample 18-01-12 @ RFN NOT FOUND in B
+A sample 17-12-08 @ RFS NOT FOUND in B
+A sample 17-12-22 @ RFS NOT FOUND in B
+A sample 18-01-12 @ RFS NOT FOUND in B
+A sample 17-12-08 @ RHL NOT FOUND in B
+A sample 17-12-22 @ RHL NOT FOUND in B
+A sample 18-01-12 @ RHL NOT FOUND in B
+A sample 17-12-08 @ RKO NOT FOUND in B
+A sample 17-12-22 @ RKO NOT FOUND in B
+A sample 18-01-12 @ RKO NOT FOUND in B
+A sample 17-06-23 @ RKV NOT FOUND in B
+A sample 17-12-08 @ RKV NOT FOUND in B
+A sample 17-12-22 @ RKV NOT FOUND in B
+A sample 18-01-12 @ RKV NOT FOUND in B
+A sample 17-12-08 @ RON NOT FOUND in B
+A sample 17-12-22 @ RON NOT FOUND in B
+A sample 18-01-12 @ RON NOT FOUND in B
+A sample 17-12-07 @ OCO NOT FOUND in B
+A sample 17-12-21 @ OCO NOT FOUND in B
+A sample 18-01-11 @ OCO NOT FOUND in B
+A sample 17-12-07 @ OMM NOT FOUND in B
+A sample 17-12-21 @ OMM NOT FOUND in B
+A sample 18-01-11 @ OMM NOT FOUND in B
+A sample 17-12-07 @ OPB NOT FOUND in B
+A sample 17-12-21 @ OPB NOT FOUND in B
+A sample 18-01-11 @ OPB NOT FOUND in B
+A sample 16-06-16 @ OPM NOT FOUND in B
+A sample 16-06-30 @ OPM NOT FOUND in B
+A sample 17-12-07 @ OPM NOT FOUND in B
+A sample 17-12-21 @ OPM NOT FOUND in B
+A sample 18-01-11 @ OPM NOT FOUND in B
+A sample 16-09-08 @ OPP NOT FOUND in B
+A sample 17-12-07 @ OPP NOT FOUND in B
+A sample 17-12-21 @ OPP NOT FOUND in B
+A sample 18-01-11 @ OPP NOT FOUND in B
+A sample 16-09-08 @ OUB NOT FOUND in B
+A sample 17-12-07 @ OUB NOT FOUND in B
+A sample 17-12-21 @ OUB NOT FOUND in B
+A sample 18-01-11 @ OUB NOT FOUND in B
+A sample 16-06-15 @ OLP NOT FOUND in B
+A sample 17-12-06 @ OLP NOT FOUND in B
+A sample 17-12-20 @ OLP NOT FOUND in B
+A sample 18-01-10 @ OLP NOT FOUND in B
+A sample 18-01-31 @ OLP NOT FOUND in B
+A sample 17-12-06 @ OSF NOT FOUND in B
+A sample 17-12-20 @ OSF NOT FOUND in B
+A sample 18-01-10 @ OSF NOT FOUND in B
+A sample 18-01-31 @ OSF NOT FOUND in B
+A sample 17-12-06 @ PFF NOT FOUND in B
+A sample 17-12-20 @ PFF NOT FOUND in B
+A sample 18-01-10 @ PFF NOT FOUND in B
+A sample 18-01-31 @ PFF NOT FOUND in B
+A sample 17-12-06 @ PLH NOT FOUND in B
+A sample 17-12-20 @ PLH NOT FOUND in B
+A sample 18-01-10 @ PLH NOT FOUND in B
+A sample 18-01-31 @ PLH NOT FOUND in B
+A sample 17-12-06 @ PLT NOT FOUND in B
+A sample 17-12-20 @ PLT NOT FOUND in B
+A sample 18-01-10 @ PLT NOT FOUND in B
+A sample 18-01-31 @ PLT NOT FOUND in B
+A sample 16-06-15 @ PPU NOT FOUND in B
+A sample 16-06-29 @ PPU NOT FOUND in B
+A sample 16-07-13 @ PPU NOT FOUND in B
+A sample 16-07-27 @ PPU NOT FOUND in B
+A sample 16-08-10 @ PPU NOT FOUND in B
+A sample 16-09-07 @ PPU NOT FOUND in B
+A sample 16-09-21 @ PPU NOT FOUND in B
+A sample 17-09-13 @ PPU NOT FOUND in B
+A sample 17-12-06 @ PPU NOT FOUND in B
+A sample 17-12-20 @ PPU NOT FOUND in B
+A sample 18-01-10 @ PPU NOT FOUND in B
+A sample 18-01-31 @ PPU NOT FOUND in B
+A sample 17-12-05 @ RAB NOT FOUND in B
+A sample 17-12-19 @ RAB NOT FOUND in B
+A sample 18-01-09 @ RAB NOT FOUND in B
+A sample 18-01-30 @ RAB NOT FOUND in B
+A sample 17-12-05 @ RCB NOT FOUND in B
+A sample 17-12-19 @ RCB NOT FOUND in B
+A sample 18-01-09 @ RCB NOT FOUND in B
+A sample 18-01-30 @ RCB NOT FOUND in B
+A sample 17-12-05 @ RKS NOT FOUND in B
+A sample 17-12-19 @ RKS NOT FOUND in B
+A sample 18-01-09 @ RKS NOT FOUND in B
+A sample 18-01-30 @ RKS NOT FOUND in B
+A sample 17-12-05 @ RNS NOT FOUND in B
+A sample 17-12-19 @ RNS NOT FOUND in B
+A sample 18-01-09 @ RNS NOT FOUND in B
+A sample 18-01-30 @ RNS NOT FOUND in B
+A sample 17-12-05 @ RPO NOT FOUND in B
+A sample 17-12-19 @ RPO NOT FOUND in B
+A sample 18-01-09 @ RPO NOT FOUND in B
+A sample 18-01-30 @ RPO NOT FOUND in B
+A sample 17-12-05 @ RWA NOT FOUND in B
+A sample 17-12-19 @ RWA NOT FOUND in B
+A sample 18-01-09 @ RWA NOT FOUND in B
+A sample 18-01-30 @ RWA NOT FOUND in B
+Samples only in A: 98
+Samples only in B: 0
+Samples in common: 558
+------------------ diffs found for RFN on 6/23/17  -----------------------
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+Location	RFN	RFN
+Date	6/23/17	6/23/17
+Time	8:40	08:40
+Temp	26.4	26.4
+Salinity	33.8	33.8
+DO	6.44	6.44
+DO%	96.8	96.8
+pH	8.13	8.13
+Turbidity	1.40	1.4
+TotalN	79.37	79.37
+TotalP	11.05	11.05
+Phosphate	6.50	6.50
+Silicate	367.12	367.12
+NNN	11.34	11.34
+NH4	3.50	3.50
+------------------ diffs found for RFN on 7/14/17  -----------------------
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+Location	RFN	RFN
+Date	7/14/17	7/14/17
+Time	8:41	08:41
+Temp	26.5	26.5
+Salinity	34.3	34.3
+DO	6.74	6.74
+DO%	101.3	101.3
+pH	8.15	8.15
+Turbidity	1.54	1.54
+TotalN	70.67	70.67
+TotalP	9.91	9.91
+Phosphate	5.50	5.50
+Silicate	311.63	311.63
+NNN	11.99	11.99
+NH4	3.15	3.15
+------------------ diffs found for RFN on 8/4/17  -----------------------
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+Location	RFN	RFN
+Date	8/4/17	8/4/17
+Time	8:49	08:49
+Temp	27.3	27.3
+Salinity	34.3	34.3
+DO	6.70	6.7
+DO%	102.0	102
+pH	8.17	8.17
+Turbidity	2.89	2.89
+TotalN	78.32	78.32
+TotalP	11.07	11.07
+Phosphate	6.47	6.47
+Silicate	202.35	202.35
+NNN	9.54	9.54
+NH4	1.86	1.86
+------------------ diffs found for RFN on 8/25/17  -----------------------
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+Location	RFN	RFN
+Date	8/25/17	8/25/17
+Time	8:34	08:34
+Temp	26.3	26.3
+Salinity	34.9	34.9
+DO	6.60	6.6
+DO%	99.5	99.5
+pH	8.12	8.12
+Turbidity	1.18	1.18
+TotalN	79.39	79.39
+TotalP	13.17	13.17
+Phosphate	5.92	5.92
+Silicate	226.64	226.64
+NNN	9.21	9.21
+NH4	2.14	2.14
+------------------ diffs found for RFN on 9/15/17  -----------------------
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+Location	RFN	RFN
+Date	9/15/17	9/15/17
+Time	8:45	08:45
+Temp	27.5	27.5
+Salinity	34.7	34.7
+DO	6.61	6.61
+DO%	101.4	101.4
+pH	8.16	8.16
+Turbidity	0.96	0.96
+TotalN	50.74	50.74
+TotalP	16.09	16.09
+Phosphate	6.24	6.24
+Silicate	210.76	210.76
+NNN	6.63	6.63
+NH4	2.39	2.39
+------------------ diffs found for RFN on 10/6/17  -----------------------
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+Location	RFN	RFN
+Date	10/6/17	10/6/17
+Time	8:40	08:40
+Temp	26.4	26.4
+Salinity	34.1	34.1
+DO	6.64	6.64
+DO%	99.9	99.9
+pH	8.16	8.16
+Turbidity	2.24	2.24
+TotalN	61.83	61.83
+TotalP	13.19	13.19
+Phosphate	7.48	7.48
+Silicate	334.06	334.06
+NNN	8.24	8.24
+NH4	4.60	4.60
+------------------ diffs found for RFN on 10/27/17  -----------------------
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+Location	RFN	RFN
+Date	10/27/17	10/27/17
+Time	8:45	08:45
+Temp	26.4	26.4
+Salinity	34.8	34.8
+DO	6.83	6.83
+DO%	103.3	103.3
+pH	8.17	8.17
+Turbidity	3.48	3.48
+TotalN	59.56	59.56
+TotalP	10.02	10.02
+Phosphate	5.39	5.39
+Silicate	139.43	139.43
+NNN	11.28	11.28
+NH4	5.21	5.21
+------------------ diffs found for RFN on 11/17/17  -----------------------
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+Location	RFN	RFN
+Date	11/17/17	11/17/17
+Time	8:40	08:40
+Temp	25.7	25.7
+Salinity	34.4	34.4
+DO	6.71	6.71
+DO%	99.7	99.7
+pH	8.15	8.15
+Turbidity	1.58	1.58
+TotalN	66.51	66.51
+TotalP	13.88	13.88
+Phosphate	5.59	5.59
+Silicate	329.25	329.25
+NNN	7.75	7.75
+NH4	3.88	3.88
+------------------ diffs found for RFS on 6/23/17  -----------------------
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+Location	RFS	RFS
+Date	6/23/17	6/23/17
+Time	9:50	09:50
+Temp	26.3	26.3
+Salinity	31.7	31.7
+DO	6.50	6.5
+DO%	96.4	96.4
+pH	8.08	8.08
+Turbidity	1.22	1.22
+TotalN	282.06	282.06
+TotalP	27.92	27.92
+Phosphate	25.09	25.09
+Silicate	2095.31	2095.31
+NNN	208.36	208.36
+NH4	5.44	5.44
+------------------ diffs found for RFS on 7/14/17  -----------------------
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+Location	RFS	RFS
+Date	7/14/17	7/14/17
+Time	9:32	09:32
+Temp	27.4	27.4
+Salinity	31.4	31.4
+DO	6.51	6.51
+DO%	97.9	97.9
+pH	8.08	8.08
+Turbidity	0.60	0.6
+TotalN	357.03	357.03
+TotalP	44.35	44.35
+Phosphate	30.05	30.05
+Silicate	2740.61	2740.61
+NNN	326.81	326.81
+NH4	5.23	5.23
+------------------ diffs found for RFS on 8/4/17  -----------------------
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+Location	RFS	RFS
+Date	8/4/17	8/4/17
+Time	9:50	09:50
+Temp	27.8	27.8
+Salinity	33.4	33.4
+DO	6.49	6.49
+DO%	99.1	99.1
+pH	8.09	8.09
+Turbidity	1.03	1.03
+TotalN	210.65	210.65
+TotalP	20.10	20.10
+Phosphate	14.61	14.61
+Silicate	926.01	926.01
+NNN	109.84	109.84
+NH4	5.05	5.05
+------------------ diffs found for RFS on 8/25/17  -----------------------
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+Location	RFS	RFS
+Date	8/25/17	8/25/17
+Time	9:38	09:38
+Temp	27.0	27
+Salinity	33.6	33.6
+DO	6.56	6.56
+DO%	99.4	99.4
+pH	8.09	8.09
+Turbidity	1.28	1.28
+TotalN	160.84	160.84
+TotalP	15.21	15.21
+Phosphate	12.62	12.62
+Silicate	840.54	840.54
+NNN	86.83	86.83
+NH4	4.96	4.96
+------------------ diffs found for RFS on 9/15/17  -----------------------
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+Location	RFS	RFS
+Date	9/15/17	9/15/17
+Time	9:55	09:55
+Temp	28.5	28.5
+Salinity	34.4	34.4
+DO	6.73	6.73
+DO%	104.9	104.9
+pH	8.15	8.15
+Turbidity	1.49	1.49
+TotalN	87.99	87.99
+TotalP	18.60	18.60
+Phosphate	11.79	11.79
+Silicate	510.07	510.07
+NNN	43.29	43.29
+NH4	6.68	6.68
+------------------ diffs found for RFS on 10/6/17  -----------------------
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+Location	RFS	RFS
+Date	10/6/17	10/6/17
+Time	9:35	09:35
+Temp	26.9	26.9
+Salinity	33.4	33.4
+DO	6.81	6.81
+DO%	103.0	103
+pH	8.16	8.16
+Turbidity	3.03	3.03
+TotalN	130.02	130.02
+TotalP	17.79	17.79
+Phosphate	15.76	15.76
+Silicate	934.61	934.61
+NNN	85.88	85.88
+NH4	5.29	5.29
+------------------ diffs found for RFS on 10/27/17  -----------------------
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+Location	RFS	RFS
+Date	10/27/17	10/27/17
+Time	9:53	09:53
+Temp	26.7	26.7
+Salinity	34.8	34.8
+DO	6.99	6.99
+DO%	106.6	106.6
+pH	8.21	8.21
+Turbidity	2.63	2.63
+TotalN	66.92	66.92
+TotalP	9.65	9.65
+Phosphate	7.06	7.06
+Silicate	151.85	151.85
+NNN	12.13	12.13
+NH4	7.41	7.41
+------------------ diffs found for RFS on 11/17/17  -----------------------
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+Location	RFS	RFS
+Date	11/17/17	11/17/17
+Time	9:50	09:50
+Temp	26.3	26.3
+Salinity	34.1	34.1
+DO	6.86	6.86
+DO%	103.1	103.1
+pH	8.16	8.16
+Turbidity	2.57	2.57
+TotalN	121.18	121.18
+TotalP	16.65	16.65
+Phosphate	12.13	12.13
+Silicate	758.32	758.32
+NNN	66.44	66.44
+NH4	4.98	4.98
+------------------ diffs found for RHL on 6/23/17  -----------------------
+SiteName	Honolua Bay	Honolua DIFF
+Location	RHL	RHL
+Date	6/23/17	6/23/17
+Time	7:25	07:25
+Temp	25.5	25.5
+Salinity	33.3	33.3
+DO	5.80	5.8
+DO%	85.6	85.6
+pH	8.08	8.08
+Turbidity	0.93	0.93
+TotalN	86.71	86.71
+TotalP	12.03	12.03
+Phosphate	7.81	7.81
+Silicate	502.80	502.80
+NNN	4.82	4.82
+NH4	5.38	5.38
+------------------ diffs found for RHL on 7/14/17  -----------------------
+SiteName	Honolua Bay	Honolua DIFF
+Location	RHL	RHL
+Date	7/14/17	7/14/17
+Time	8:00	08:00
+Temp	26.4	26.4
+Salinity	33.8	33.8
+DO	6.40	6.4
+DO%	96.2	96.2
+pH	8.13	8.13
+Turbidity	0.63	0.63
+TotalN	94.26	94.26
+TotalP	10.24	10.24
+Phosphate	4.70	4.70
+Silicate	176.09	176.09
+NNN	7.23	7.23
+NH4	3.36	3.36
+------------------ diffs found for RHL on 8/4/17  -----------------------
+SiteName	Honolua Bay	Honolua DIFF
+Location	RHL	RHL
+Date	8/4/17	8/4/17
+Time	8:05	08:05
+Temp	26.7	26.7
+Salinity	33.5	33.5
+DO	5.68	5.68
+DO%	85.2	85.2
+pH	8.09	8.09
+Turbidity	1.25	1.25
+TotalN	85.10	85.10
+TotalP	11.47	11.47
+Phosphate	6.82	6.82
+Silicate	395.00	395.00
+NNN	3.63	3.63
+NH4	6.93	6.93
+------------------ diffs found for RHL on 8/25/17  -----------------------
+SiteName	Honolua Bay	Honolua DIFF
+Location	RHL	RHL
+Date	8/25/17	8/25/17
+Time	7:53	07:53
+Temp	25.6	25.6
+Salinity	34.6	34.6
+DO	6.31	6.31
+DO%	93.9	93.9
+pH	8.12	8.12
+Turbidity	1.29	1.29
+TotalN	74.98	74.98
+TotalP	10.74	10.74
+Phosphate	6.43	6.43
+Silicate	217.96	217.96
+NNN	0.66	0.66
+NH4	3.43	3.43
+------------------ diffs found for RHL on 9/15/17  -----------------------
+SiteName	Honolua Bay	Honolua DIFF
+Location	RHL	RHL
+Date	9/15/17	9/15/17
+Time	8:00	08:00
+Temp	26.9	26.9
+Salinity	34.1	34.1
+DO	5.50	5.5
+DO%	83.4	83.4
+pH	8.07	8.07
+Turbidity	6.46	6.46
+TotalN	62.92	62.92
+TotalP	16.49	16.49
+Phosphate	7.38	7.38
+Silicate	401.49	401.49
+NNN	3.04	3.04
+NH4	5.77	5.77
+------------------ diffs found for RHL on 10/6/17  -----------------------
+SiteName	Honolua Bay	Honolua DIFF
+Location	RHL	RHL
+Date	10/6/17	10/6/17
+Time	7:56	07:56
+Temp	25.3	25.3
+Salinity	33.7	33.7
+DO	6.32	6.32
+DO%	93.2	93.2
+pH	8.10	8.1
+Turbidity	38.53	38.53
+TotalN	62.75	62.75
+TotalP	13.40	13.40
+Phosphate	10.82	10.82
+Silicate	506.63	506.63
+NNN	4.92	4.92
+NH4	5.47	5.47
+------------------ diffs found for RHL on 10/27/17  -----------------------
+SiteName	Honolua Bay	Honolua DIFF
+Location	RHL	RHL
+Date	10/27/17	10/27/17
+Time	8:05	08:05
+Temp	25.4	25.4
+Salinity	33.0	33
+DO	6.58	6.58
+DO%	96.9	96.9
+pH	8.11	8.11
+Turbidity	159.33	159.33
+TotalN	77.70	77.70
+TotalP	11.15	11.15
+Phosphate	9.43	9.43
+Silicate	566.29	566.29
+NNN	11.71	11.71
+NH4	5.94	5.94
+------------------ diffs found for RHL on 11/17/17  -----------------------
+SiteName	Honolua Bay	Honolua DIFF
+Location	RHL	RHL
+Date	11/17/17	11/17/17
+Time	7:50	7:50
+Temp	24.3	24.3
+Salinity	30.6	30.6
+DO	6.39	6.39
+DO%	90.9	90.9
+pH	8.15	8.15
+Turbidity	21.17	21.17
+TotalN	78.84	78.84
+TotalP	13.74	13.74
+Phosphate	7.08	7.08
+Silicate	394.16	394.16
+NNN	4.57	4.57
+NH4	15.58	15.58
+------------------ diffs found for RKO on 6/23/17  -----------------------
+SiteName	Ka'opala Bay	Ka'opala DIFF
+Location	RKO	RKO
+Date	6/23/17	6/23/17
+Time	10:20	10:20
+Temp	26.7	26.7
+Salinity	33.1	33.1
+DO	6.59	6.59
+DO%	99.2	99.2
+pH	8.10	8.1
+Turbidity	8.26	8.26
+TotalN	159.63	159.63
+TotalP	16.32	16.32
+Phosphate	12.27	12.27
+Silicate	948.80	948.80
+NNN	92.61	92.61
+NH4	3.73	3.73
+------------------ diffs found for RKO on 7/14/17  -----------------------
+SiteName	Ka'opala Bay	Ka'opala DIFF
+Location	RKO	RKO
+Date	7/14/17	7/14/17
+Time	9:59	09:59
+Temp	27.3	27.3
+Salinity	34.3	34.3
+DO	5.85	5.85
+DO%	89.4	89.4
+pH	8.09	8.09
+Turbidity	1.70	1.7
+TotalN	99.54	99.54
+TotalP	13.42	13.42
+Phosphate	6.54	6.54
+Silicate	315.72	315.72
+NNN	39.02	39.02
+NH4	3.14	3.14
+------------------ diffs found for RKO on 8/4/17  -----------------------
+SiteName	Ka'opala Bay	Ka'opala DIFF
+Location	RKO	RKO
+Date	8/4/17	8/4/17
+Time	10:25	10:25
+Temp	27.7	27.7
+Salinity	34.0	34
+DO	6.33	6.33
+DO%	96.8	96.8
+pH	8.12	8.12
+Turbidity	4.60	4.6
+TotalN	94.66	94.66
+TotalP	11.26	11.26
+Phosphate	7.48	7.48
+Silicate	346.36	346.36
+NNN	32.88	32.88
+NH4	2.11	2.11
+------------------ diffs found for RKO on 8/25/17  -----------------------
+SiteName	Ka'opala Bay	Ka'opala DIFF
+Location	RKO	RKO
+Date	8/25/17	8/25/17
+Time	10:10	10:10
+Temp	26.9	26.9
+Salinity	34.9	34.9
+DO	6.09	6.09
+DO%	92.8	92.8
+pH	8.09	8.09
+Turbidity	3.29	3.29
+TotalN	93.28	93.28
+TotalP	11.96	11.96
+Phosphate	8.16	8.16
+Silicate	296.65	296.65
+NNN	34.18	34.18
+NH4	1.81	1.81
+------------------ diffs found for RKO on 9/15/17  -----------------------
+SiteName	Ka'opala Bay	Ka'opala DIFF
+Location	RKO	RKO
+Date	9/15/17	9/15/17
+Time	10:27	10:27
+Temp	28.4	28.4
+Salinity	34.5	34.5
+DO	6.66	6.66
+DO%	103.6	103.6
+pH	8.14	8.14
+Turbidity	6.68	6.68
+TotalN	137.72	137.72
+TotalP	17.53	17.53
+Phosphate	10.39	10.39
+Silicate	448.89	448.89
+NNN	41.16	41.16
+NH4	9.72	9.72
+------------------ diffs found for RKO on 10/6/17  -----------------------
+SiteName	Ka'opala Bay	Ka'opala DIFF
+Location	RKO	RKO
+Date	10/6/17	10/6/17
+Time	9:55	09:55
+Temp	26.4	26.4
+Salinity	33.7	33.7
+DO	6.62	6.62
+DO%	99.5	99.5
+pH	8.11	8.11
+Turbidity	13.47	13.47
+TotalN	113.87	113.87
+TotalP	17.09	17.09
+Phosphate	15.46	15.46
+Silicate	691.32	691.32
+NNN	70.33	70.33
+NH4	3.69	3.69
+------------------ diffs found for RKO on 10/27/17  -----------------------
+SiteName	Ka'opala Bay	Ka'opala DIFF
+Location	RKO	RKO
+Date	10/27/17	10/27/17
+Time	10:23	10:23
+Temp	25.9	25.9
+Salinity	34.3	34.3
+DO	6.84	6.84
+DO%	102.6	102.6
+pH	8.13	8.13
+Turbidity	26.57	26.57
+TotalN	117.88	117.88
+TotalP	20.00	20.00
+Phosphate	15.90	15.90
+Silicate	561.32	561.32
+NNN	99.59	99.59
+NH4	6.73	6.73
+------------------ diffs found for RKO on 11/17/17  -----------------------
+SiteName	Ka'opala Bay	Ka'opala DIFF
+Location	RKO	RKO
+Date	11/17/17	11/17/17
+Time	10:15	10:15
+Temp	25.3	25.3
+Salinity	34.0	34
+DO	6.81	6.81
+DO%	100.5	100.5
+pH	8.16	8.16
+Turbidity	17.07	17.07
+TotalN	114.57	114.57
+TotalP	17.52	17.52
+Phosphate	13.53	13.53
+Silicate	638.78	638.78
+NNN	66.12	66.12
+NH4	4.23	4.23
+------------------ diffs found for RON on 6/23/17  -----------------------
+SiteName	Oneloa Bay	Oneloa DIFF
+Location	RON	RON
+Date	6/23/17	6/23/17
+Time	9:14	09:14
+Temp	26.7	26.7
+Salinity	34.2	34.2
+DO	6.72	6.72
+DO%	102.0	102
+pH	8.20	8.2
+Turbidity	0.43	0.43
+TotalN	73.24	73.24
+TotalP	13.26	13.26
+Phosphate	4.71	4.71
+Silicate	84.03	84.03
+NNN	4.31	4.31
+NH4	1.90	1.90
+------------------ diffs found for RON on 7/14/17  -----------------------
+SiteName	Oneloa Bay	Oneloa DIFF
+Location	RON	RON
+Date	7/14/17	7/14/17
+Time	9:10	09:10
+Temp	26.4	26.4
+Salinity	34.6	34.6
+DO	6.73	6.73
+DO%	101.5	101.5
+pH	8.16	8.16
+Turbidity	0.89	0.89
+TotalN	66.79	66.79
+TotalP	12.74	12.74
+Phosphate	4.31	4.31
+Silicate	88.08	88.08
+NNN	8.95	8.95
+NH4	1.24	1.24
+------------------ diffs found for RON on 8/4/17  -----------------------
+SiteName	Oneloa Bay	Oneloa DIFF
+Location	RON	RON
+Date	8/4/17	8/4/17
+Time	9:22	09:22
+Temp	27.2	27.2
+Salinity	34.4	34.4
+DO	6.75	6.75
+DO%	102.7	102.7
+pH	8.16	8.16
+Turbidity	0.66	0.66
+TotalN	73.51	73.51
+TotalP	10.25	10.25
+Phosphate	4.96	4.96
+Silicate	104.47	104.47
+NNN	7.89	7.89
+NH4	1.85	1.85
+------------------ diffs found for RON on 8/25/17  -----------------------
+SiteName	Oneloa Bay	Oneloa DIFF
+Location	RON	RON
+Date	8/25/17	8/25/17
+Time	9:15	09:15
+Temp	26.5	26.5
+Salinity	35.2	35.2
+DO	6.72	6.72
+DO%	102.1	102.1
+pH	8.17	8.17
+Turbidity	1.26	1.26
+TotalN	74.42	74.42
+TotalP	11.49	11.49
+Phosphate	5.26	5.26
+Silicate	70.62	70.62
+NNN	7.66	7.66
+NH4	1.52	1.52
+------------------ diffs found for RON on 9/15/17  -----------------------
+SiteName	Oneloa Bay	Oneloa DIFF
+Location	RON	RON
+Date	9/15/17	9/15/17
+Time	9:20	09:20
+Temp	27.6	27.6
+Salinity	34.8	34.8
+DO	6.69	6.69
+DO%	103.0	103
+pH	8.17	8.17
+Turbidity	0.50	0.5
+TotalN	60.84	60.84
+TotalP	17.61	17.61
+Phosphate	5.65	5.65
+Silicate	138.85	138.85
+NNN	4.29	4.29
+NH4	5.73	5.73
+------------------ diffs found for RON on 10/6/17  -----------------------
+SiteName	Oneloa Bay	Oneloa DIFF
+Location	RON	RON
+Date	10/6/17	10/6/17
+Time	9:15	09:15
+Temp	27.0	27
+Salinity	34.6	34.6
+DO	6.60	6.6
+DO%	100.9	100.9
+pH	8.19	8.19
+Turbidity	0.64	0.64
+TotalN	82.52	82.52
+TotalP	32.54	32.54
+Phosphate	7.61	7.61
+Silicate	83.75	83.75
+NNN	2.72	2.72
+NH4	3.06	3.06
+------------------ diffs found for RON on 10/27/17  -----------------------
+SiteName	Oneloa Bay	Oneloa DIFF
+Location	RON	RON
+Date	10/27/17	10/27/17
+Time	9:20	09:20
+Temp	27.0	27
+Salinity	35.0	35
+DO	6.79	6.79
+DO%	104.1	104.1
+pH	8.18	8.18
+Turbidity	1.28	1.28
+TotalN	56.93	56.93
+TotalP	10.66	10.66
+Phosphate	4.14	4.14
+Silicate	65.74	65.74
+NNN	5.00	5.00
+NH4	5.39	5.39
+------------------ diffs found for RON on 11/17/17  -----------------------
+SiteName	Oneloa Bay	Oneloa DIFF
+Location	RON	RON
+Date	11/17/17	11/17/17
+Time	9:15	09:15
+Temp	26.0	26
+Salinity	35.0	35
+DO	6.66	6.66
+DO%	100.2	100.2
+pH	8.19	8.19
+Turbidity	0.66	0.66
+TotalN	64.87	64.87
+TotalP	14.70	14.70
+Phosphate	4.11	4.11
+Silicate	71.94	71.94
+NNN	2.55	2.55
+NH4	3.42	3.42
+------------------ diffs found for OCO on 1/5/17  -----------------------
+SiteName	Camp Olowalu	Camp Olowalu
+Location	OCO	OCO
+Date	1/5/17	1/5/17
+Time	7:15	07:15
+Temp	23.3	23.3
+Salinity	34.9	34.9
+DO	6.63	6.63
+DO%	94.5	94.5
+pH	7.87	#N/A DIFF
+Turbidity	7.99	7.99
+TotalN	77.67	77.67
+TotalP	9.54	9.54
+Phosphate	5.63	5.63
+Silicate	360.48	360.48
+NNN	12.58	12.58
+NH4	1.50	1.50
+------------------ diffs found for OMM on 1/5/17  -----------------------
+SiteName	Mile Marker 14	Mile Marker 14
+Location	OMM	OMM
+Date	1/5/17	1/5/17
+Time	7:30	07:30
+Temp	23.6	23.6
+Salinity	35.2	35.2
+DO	6.16	6.16
+DO%	88.6	88.6
+pH	7.72	#N/A DIFF
+Turbidity	5.83	5.83
+TotalN	75.42	75.42
+TotalP	9.68	9.68
+Phosphate	5.21	5.21
+Silicate	273.05	273.05
+NNN	9.83	9.83
+NH4	2.27	2.27
+------------------ diffs found for OPB on 6/16/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	6/16/16	6/16/16
+Time	9:40	9:40
+Temp	25.6	25.6
+Salinity	28.0	28
+DO	7.10	7.1
+DO%	105.2	105.2
+pH	8.08	8.08
+Turbidity	10.71	10.71
+TotalN	66.16	66.16
+TotalP	20.47	20.47
+Phosphate	5.71	5.71
+Silicate	137.90	137.90
+NNN	2.84	2.84
+NH4	1.92	1.92
+------------------ diffs found for OPB on 6/30/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	6/30/16	6/30/16
+Time	8:50	08:50
+Temp	27.4	27.4
+Salinity	29.3	29.3
+DO	6.88	6.88
+DO%	105.2	105.2
+pH	8.10	8.1
+Turbidity	3.37	3.37
+TotalN	75.58	75.58
+TotalP	12.24	12.24
+Phosphate	3.99	3.99
+Silicate	138.61	138.61
+NNN	3.41	3.41
+NH4	3.93	3.93
+------------------ diffs found for OPB on 7/14/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	7/14/16	7/14/16
+Time	9:25	09:25
+Temp	28.1	28.1
+Salinity	37.8	37.8
+DO	6.74	6.74
+DO%	106.3	106.3
+pH	8.12	8.12
+Turbidity	3.96	3.96
+TotalN	64.97	64.97
+TotalP	11.63	11.63
+Phosphate	3.26	3.26
+Silicate	111.92	111.92
+NNN	3.02	3.02
+NH4	2.43	2.43
+------------------ diffs found for OPB on 7/28/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	7/28/16	7/28/16
+Time	9:10	09:10
+Temp	26.2	26.2
+Salinity	35.6	35.6
+DO	6.99	6.99
+DO%	105.2	105.2
+pH	8.13	8.13
+Turbidity	3.74	3.74
+TotalN	72.91	72.91
+TotalP	9.33	9.33
+Phosphate	2.85	2.85
+Silicate	55.37	55.37
+NNN	1.02	1.02
+NH4	4.39	4.39
+------------------ diffs found for OPB on 8/11/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	8/11/16	8/11/16
+Time	9:15	09:15
+Temp	27.4	27.4
+Salinity	35.7	35.7
+DO	6.89	6.89
+DO%	106.0	106
+pH	8.14	8.14
+Turbidity	3.81	3.81
+TotalN	51.97	51.97
+TotalP	9.41	9.41
+Phosphate	2.49	2.49
+Silicate	61.77	61.77
+NNN	2.73	2.73
+NH4	1.50	1.50
+------------------ diffs found for OPB on 8/25/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	8/25/16	8/25/16
+Time	8:25	08:25
+Temp	27.7	27.7
+Salinity	35.9	35.9
+DO	6.60	6.6
+DO%	102.1	102.1
+pH	8.03	8.03
+Turbidity	5.75	5.75
+TotalN	83.51	83.51
+TotalP	16.05	16.05
+Phosphate	4.17	4.17
+Silicate	243.97	243.97
+NNN	5.83	5.83
+NH4	4.00	4.00
+------------------ diffs found for OPB on 9/8/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	9/8/16	9/8/16
+Time	8:28	08:28
+Temp	26.2	26.2
+Salinity	35.9	35.9
+DO	6.65	6.65
+DO%	100.4	100.4
+pH	8.18	8.18
+Turbidity	7.54	7.54
+TotalN	64.37	64.37
+TotalP	10.55	10.55
+Phosphate	3.44	3.44
+Silicate	74.29	74.29
+NNN	3.42	3.42
+NH4	1.97	1.97
+------------------ diffs found for OPB on 9/22/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	9/22/16	9/22/16
+Time	9:07	09:07
+Temp	27.5	27.5
+Salinity	36.1	36.1
+DO	6.58	6.58
+DO%	101.8	101.8
+pH	8.09	8.09
+Turbidity	14.40	14.4
+TotalN	67.81	67.81
+TotalP	13.53	13.53
+Phosphate	4.31	4.31
+Silicate	56.18	56.18
+NNN	4.01	4.01
+NH4	8.80	8.80
+------------------ diffs found for OPB on 10/6/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	10/6/16	10/6/16
+Time	9:02	09:02
+Temp	27.7	27.7
+Salinity	35.0	35
+DO	6.59	6.59
+DO%	101.3	101.3
+pH	8.11	8.11
+Turbidity	7.30	7.3
+TotalN	57.25	57.25
+TotalP	10.65	10.65
+Phosphate	3.85	3.85
+Silicate	105.42	105.42
+NNN	3.46	3.46
+NH4	3.13	3.13
+------------------ diffs found for OPB on 10/20/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	10/20/16	10/20/16
+Time	8:57	08:57
+Temp	25.7	25.7
+Salinity	37.0	37
+DO	6.59	6.59
+DO%	99.4	99.4
+pH	8.07	8.07
+Turbidity	9.50	9.5
+TotalN	68.11	68.11
+TotalP	11.95	11.95
+Phosphate	6.34	6.34
+Silicate	67.79	67.79
+NNN	4.80	4.80
+NH4	3.18	3.18
+------------------ diffs found for OPB on 11/3/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	11/3/16	11/3/16
+Time	8:45	08:45
+Temp	25.4	25.4
+Salinity	34.9	34.9
+DO	6.68	6.68
+DO%	98.8	98.8
+pH	8.16	8.16
+Turbidity	3.72	3.72
+TotalN	62.94	62.94
+TotalP	14.86	14.86
+Phosphate	4.43	4.43
+Silicate	53.15	53.15
+NNN	2.58	2.58
+NH4	3.18	3.18
+------------------ diffs found for OPB on 11/17/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	11/17/16	11/17/16
+Time	9:15	09:15
+Temp	25.8	25.8
+Salinity	34.7	34.7
+DO	6.82	6.82
+DO%	101.6	101.6
+pH	8.11	8.11
+Turbidity	2.97	2.97
+TotalN	60.45	60.45
+TotalP	7.25	7.25
+Phosphate	3.44	3.44
+Silicate	81.36	81.36
+NNN	8.09	8.09
+NH4	1.50	1.50
+------------------ diffs found for OPB on 12/1/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	12/1/16	12/1/16
+Time	8:40	08:40
+Temp	23.7	23.7
+Salinity	34.7	34.7
+DO	6.79	6.79
+DO%	97.5	97.5
+pH	8.12	8.12
+Turbidity	8.65	8.65
+TotalN	63.46	63.46
+TotalP	5.93	5.93
+Phosphate	3.97	3.97
+Silicate	219.11	219.11
+NNN	7.36	7.36
+NH4	2.14	2.14
+------------------ diffs found for OPB on 12/15/16  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	12/15/16	12/15/16
+Time	9:18	09:18
+Temp	25.1	25.1
+Salinity	35.0	35
+DO	6.94	6.94
+DO%	102.7	102.7
+pH	8.07	8.07
+Turbidity	4.05	4.05
+TotalN	62.85	62.85
+TotalP	9.89	9.89
+Phosphate	4.30	4.30
+Silicate	129.31	129.31
+NNN	18.82	18.82
+NH4	1.82	1.82
+------------------ diffs found for OPB on 1/5/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	1/5/17	1/5/17
+Time	8:00	08:00
+Temp	23.7	23.7
+Salinity	35.4	35.4
+DO	6.79	6.79
+DO%	97.8	97.8
+pH	8.05	#N/A DIFF
+Turbidity	10.10	10.1
+TotalN	76.14	76.14
+TotalP	12.57	12.57
+Phosphate	4.28	4.28
+Silicate	113.68	113.68
+NNN	6.13	6.13
+NH4	1.79	1.79
+------------------ diffs found for OPB on 1/26/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	1/26/17	1/26/17
+Time	8:55	08:55
+Temp	23.2	23.2
+Salinity	35.4	35.4
+DO	6.97	6.97
+DO%	99.3	99.3
+pH	8.07	8.07
+Turbidity	4.54	4.54
+TotalN	75.92	75.92
+TotalP	19.20	19.20
+Phosphate	6.36	6.36
+Silicate	74.87	74.87
+NNN	7.03	7.03
+NH4	4.68	4.68
+------------------ diffs found for OPB on 2/17/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	2/17/17	2/17/17
+Time	8:50	08:50
+Temp	25.6	25.6
+Salinity	35.3	35.3
+DO	6.83	6.83
+DO%	101.5	101.5
+pH	8.13	8.13
+Turbidity	14.17	14.17
+TotalN	74.08	74.08
+TotalP	9.20	9.20
+Phosphate	6.11	6.11
+Silicate	91.12	91.12
+NNN	8.47	8.47
+NH4	7.29	7.29
+------------------ diffs found for OPB on 3/9/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	3/9/17	3/9/17
+Time	8:30	08:30
+Temp	25.2	25.2
+Salinity	34.9	34.9
+DO	6.91	6.91
+DO%	101.2	101.2
+pH	8.15	8.15
+Turbidity	9.09	9.09
+TotalN	65.50	65.50
+TotalP	8.75	8.75
+Phosphate	4.74	4.74
+Silicate	59.62	59.62
+NNN	5.76	5.76
+NH4	6.13	6.13
+------------------ diffs found for OPB on 3/30/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	3/30/17	3/30/17
+Time	9:00	09:00
+Temp	26.2	26.2
+Salinity	34.3	34.3
+DO	6.92	6.92
+DO%	103.2	103.2
+pH	8.14	8.14
+Turbidity	5.91	5.91
+TotalN	71.06	71.06
+TotalP	7.38	7.38
+Phosphate	3.19	3.19
+Silicate	69.76	69.76
+NNN	3.03	3.03
+NH4	8.29	8.29
+------------------ diffs found for OPB on 4/20/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	4/20/17	4/20/17
+Time	8:20	08:20
+Temp	26.0	26
+Salinity	34.2	34.2
+DO	6.60	6.6
+DO%	98.1	98.1
+pH	8.09	8.09
+Turbidity	4.08	4.08
+TotalN	85.81	85.81
+TotalP	6.78	6.78
+Phosphate	4.25	4.25
+Silicate	109.36	109.36
+NNN	3.48	3.48
+NH4	3.28	3.28
+------------------ diffs found for OPB on 5/11/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	5/11/17	5/11/17
+Time	8:42	08:42
+Temp	25.3	25.3
+Salinity	34.3	34.3
+DO	7.21	7.21
+DO%	106.3	106.3
+pH	8.20	8.2
+Turbidity	5.85	5.85
+TotalN	71.81	71.81
+TotalP	9.22	9.22
+Phosphate	4.74	4.74
+Silicate	155.91	155.91
+NNN	1.82	1.82
+NH4	1.56	1.56
+------------------ diffs found for OPB on 6/1/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	6/1/17	6/1/17
+Time	8:50	08:50
+Temp	25.9	25.9
+Salinity	34.8	34.8
+DO	7.01	7.01
+DO%	104.5	104.5
+pH	8.15	8.15
+Turbidity	4.42	4.42
+TotalN	64.32	64.32
+TotalP	7.26	7.26
+Phosphate	2.81	2.81
+Silicate	61.83	61.83
+NNN	2.19	2.19
+NH4	1.72	1.72
+------------------ diffs found for OPB on 6/22/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	6/22/17	6/22/17
+Time	8:50	8:50
+Temp	26.1	26.1
+Salinity	34.6	34.6
+DO	6.88	6.88
+DO%	103.2	103.2
+pH	8.16	8.16
+Turbidity	2.93	2.93
+TotalN	75.37	75.37
+TotalP	9.07	9.07
+Phosphate	4.85	4.85
+Silicate	112.91	112.91
+NNN	8.83	8.83
+NH4	1.33	1.33
+------------------ diffs found for OPB on 7/13/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	7/13/17	7/13/17
+Time	8:31	08:31
+Temp	27.3	27.3
+Salinity	34.5	34.5
+DO	6.91	6.91
+DO%	105.5	105.5
+pH	8.12	8.12
+Turbidity	5.88	5.88
+TotalN	62.99	62.99
+TotalP	9.49	9.49
+Phosphate	3.48	3.48
+Silicate	142.38	142.38
+NNN	8.58	8.58
+NH4	1.85	1.85
+------------------ diffs found for OPB on 8/3/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	8/3/17	8/3/17
+Time	8:40	08:40
+Temp	28.0	28
+Salinity	34.7	34.7
+DO	6.79	6.79
+DO%	105.0	105
+pH	8.12	8.12
+Turbidity	7.58	7.58
+TotalN	68.99	68.99
+TotalP	7.55	7.55
+Phosphate	4.20	4.20
+Silicate	109.59	109.59
+NNN	6.79	6.79
+NH4	1.82	1.82
+------------------ diffs found for OPB on 8/24/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	8/24/17	8/24/17
+Time	8:55	08:55
+Temp	25.8	25.8
+Salinity	35.2	35.2
+DO	6.78	6.78
+DO%	101.5	101.5
+pH	8.13	8.13
+Turbidity	8.85	8.85
+TotalN	77.22	77.22
+TotalP	7.37	7.37
+Phosphate	5.32	5.32
+Silicate	169.88	169.88
+NNN	12.97	12.97
+NH4	1.77	1.77
+------------------ diffs found for OPB on 9/14/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	9/14/17	9/14/17
+Time	8:25	08:25
+Temp	28.4	28.4
+Salinity	35.0	35
+DO	6.61	6.61
+DO%	103.2	103.2
+pH	8.09	8.09
+Turbidity	4.90	4.9
+TotalN	49.22	49.22
+TotalP	14.92	14.92
+Phosphate	3.44	3.44
+Silicate	144.43	144.43
+NNN	2.26	2.26
+NH4	3.30	3.30
+------------------ diffs found for OPB on 10/5/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	10/5/17	10/5/17
+Time	8:25	08:25
+Temp	25.9	25.9
+Salinity	34.6	34.6
+DO	6.85	6.85
+DO%	102.2	102.2
+pH	8.15	8.15
+Turbidity	7.90	7.90
+TotalN	61.10	61.10
+TotalP	11.56	11.56
+Phosphate	4.78	4.78
+Silicate	197.74	197.74
+NNN	5.71	5.71
+NH4	3.09	3.09
+------------------ diffs found for OPB on 10/26/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	10/26/17	10/26/17
+Time	8:40	08:40
+Temp	26.9	26.9
+Salinity	34.7	34.7
+DO	6.47	6.47
+DO%	98.5	98.5
+pH	8.05	8.05
+Turbidity	21.03	21.03
+TotalN	81.02	81.02
+TotalP	9.57	9.57
+Phosphate	6.01	6.01
+Silicate	156.80	156.80
+NNN	16.19	16.19
+NH4	6.35	6.35
+------------------ diffs found for OPB on 11/16/17  -----------------------
+SiteName	Papalaua Beach Park	Papalaua DIFF
+Location	OPB	OPB
+Date	11/16/17	11/16/17
+Time	8:27	08:27
+Temp	24.2	24.2
+Salinity	34.9	34.9
+DO	7.03	7.03
+DO%	102.2	102.2
+pH	8.17	8.17
+Turbidity	5.66	5.66
+TotalN	68.06	68.06
+TotalP	8.43	8.43
+Phosphate	3.81	3.81
+Silicate	201.46	201.46
+NNN	2.86	2.86
+NH4	4.28	4.28
+------------------ diffs found for OPM on 1/5/17  -----------------------
+SiteName	Peter Martin Hale	Peter Martin Hale
+Location	OPM	OPM
+Date	1/5/17	1/5/17
+Time	7:00	07:00
+Temp	22.8	22.8
+Salinity	34.8	34.8
+DO	6.34	6.34
+DO%	93.5	93.5
+pH	7.83	#N/A DIFF
+Turbidity	4.83	4.83
+TotalN	100.48	100.48
+TotalP	9.99	9.99
+Phosphate	5.66	5.66
+Silicate	208.26	208.26
+NNN	20.10	20.10
+NH4	1.50	1.50
+------------------ diffs found for OPP on 1/5/17  -----------------------
+SiteName	Papalaua Pali	Papalaua Pali
+Location	OPP	OPP
+Date	1/5/17	1/5/17
+Time	8:15	08:15
+Temp	24.3	24.3
+Salinity	35.3	35.3
+DO	8.12	8.12
+DO%	96.7	96.7
+pH	8.04	#N/A DIFF
+Turbidity	8.69	8.69
+TotalN	72.55	72.55
+TotalP	14.42	14.42
+Phosphate	5.17	5.17
+Silicate	103.37	103.37
+NNN	9.07	9.07
+NH4	1.61	1.61
+------------------ diffs found for OUB on 1/5/17  -----------------------
+SiteName	Ukumehame Beach	Ukumehame Beach
+Location	OUB	OUB
+Date	1/5/17	1/5/17
+Time	7:40	07:40
+Temp	22.9	22.9
+Salinity	35.4	35.4
+DO	6.96	6.96
+DO%	98.9	98.9
+pH	8.06	#N/A DIFF
+Turbidity	12.23	12.23
+TotalN	75.23	75.23
+TotalP	12.42	12.42
+Phosphate	5.28	5.28
+Silicate	88.84	88.84
+NNN	7.87	7.87
+NH4	1.50	1.50
+------------------ diffs found for OLP on 2/15/17  -----------------------
+SiteName	Launiupoko	Launiupoko
+Location	OLP	OLP
+Date	2/15/17	2/15/17
+Time	9:47	09:47
+Temp	25.2	25.2
+Salinity	34.9	34.9
+DO	6.79	6.79
+DO%	100.0	100 DIFF
+pH	8.13	8.13
+Turbidity	5.91	5.91
+TotalN	93.72	93.72
+TotalP	11.03	11.03
+Phosphate	6.24	6.24
+Silicate	174.42	174.42
+NNN	6.00	6.00
+NH4	6.51	6.51
+------------------ diffs found for OSF on 11/16/16  -----------------------
+SiteName	Olowalu Shore Front	Olowalu Shore Front
+Location	OSF	OSF
+Date	11/16/16	11/16/16
+Time	10:15	10:15
+Temp	26.8	26.8
+Salinity	34.7	34.7
+DO	8.60	#N/A DIFF
+DO%	106.9	106.9
+pH	8.11	8.11
+Turbidity	4.37	4.37
+TotalN	72.19	72.19
+TotalP	7.07	7.07
+Phosphate	4.33	4.33
+Silicate	140.77	140.77
+NNN	6.01	6.01
+NH4	2.66	2.66
+------------------ diffs found for PFF on 7/27/16  -----------------------
+SiteName	505 Front Street	505 Front Street
+Location	PFF	PFF
+Date	7/27/16	7/27/16
+Time	7:28	07:28
+Temp	27.4	27.4
+Salinity	34.7	34.7
+DO	5.90	5.9
+DO%	90.2	90.2
+pH	8.04	8.04
+Turbidity	5.01	#N/A DIFF
+TotalN	71.18	71.18
+TotalP	13.84	13.84
+Phosphate	9.21	9.21
+Silicate	483.78	483.78
+NNN	3.08	3.08
+NH4	9.48	9.48
+------------------ diffs found for PLT on 10/4/17  -----------------------
+SiteName	Lahaina Town	Lahaina Town
+Location	PLT	PLT
+Date	10/4/17	10/4/17
+Time	9:00	09:00
+Temp	28.3	29.3 DIFF
+Salinity	33.7	33.7
+DO	5.67	5.67
+DO%	87.7	87.7
+pH	8.05	8.05
+Turbidity	4.13	4.13
+TotalN	78.79	78.79
+TotalP	10.80	10.80
+Phosphate	7.70	7.70
+Silicate	477.59	477.59
+NNN	19.84	19.84
+NH4	4.53	4.53
+------------------ diffs found for PPU on 8/24/16  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	8/24/16	8/24/16
+Time	9:13	09:13
+Temp	28.4	28.4
+Salinity	35.5	35.5
+DO	6.44	6.44
+DO%	100.7	100.7
+pH	8.09	8.09
+Turbidity	1.33	#N/A DIFF
+TotalN	75.09	75.09
+TotalP	13.60	13.60
+Phosphate	3.70	3.70
+Silicate	267.73	267.73
+NNN	6.64	6.64
+NH4	3.45	3.45
+------------------ diffs found for PPU on 10/5/16  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	10/5/16	10/5/16
+Time	9:35	09:35
+Temp	28.3	28.3
+Salinity	36.5	36.5
+DO	6.42	6.42
+DO%	100.6	100.6
+pH	8.11	8.11
+Turbidity	2.61	2.61
+TotalN	75.60	75.60
+TotalP	8.21	8.21
+Phosphate	3.74	3.74
+Silicate	148.48	148.48
+NNN	1.88	1.88
+NH4	11.91	11.91
+------------------ diffs found for PPU on 10/19/16  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	10/19/16	10/19/16
+Time	9:40	09:40
+Temp	27.7	27.7
+Salinity	34.6	34.6
+DO	6.49	6.49
+DO%	99.7	99.7
+pH	8.15	8.15
+Turbidity	6.04	6.04
+TotalN	95.61	95.61
+TotalP	15.79	15.79
+Phosphate	5.08	5.08
+Silicate	153.70	153.70
+NNN	0.10	#N/A DIFF
+NH4	3.31	3.31
+------------------ diffs found for PPU on 11/2/16  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	11/2/16	11/2/16
+Time	9:52	09:52
+Temp	26.7	26.7
+Salinity	34.5	34.5
+DO	6.83	6.83
+DO%	103.0	103
+pH	8.17	8.17
+Turbidity	1.86	1.86
+TotalN	78.02	78.02
+TotalP	12.23	12.23
+Phosphate	5.60	5.60
+Silicate	152.39	152.39
+NNN	1.51	1.51
+NH4	4.77	4.77
+------------------ diffs found for PPU on 11/16/16  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	11/16/16	11/16/16
+Time	9:30	09:30
+Temp	26.6	26.6
+Salinity	34.4	34.4
+DO	6.73	6.73
+DO%	101.2	101.2
+pH	8.16	8.16
+Turbidity	2.04	2.04
+TotalN	64.32	64.32
+TotalP	3.53	3.53
+Phosphate	3.54	3.54
+Silicate	191.28	191.28
+NNN	4.45	4.45
+NH4	1.50	1.50
+------------------ diffs found for PPU on 11/30/16  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	11/30/16	11/30/16
+Time	9:40	09:40
+Temp	25.4	25.4
+Salinity	33.9	33.9
+DO	6.84	6.84
+DO%	100.6	100.6
+pH	8.10	8.1
+Turbidity	2.02	2.02
+TotalN	69.41	69.41
+TotalP	5.64	5.64
+Phosphate	2.39	2.39
+Silicate	332.00	332.00
+NNN	3.67	3.67
+NH4	1.84	1.84
+------------------ diffs found for PPU on 12/14/16  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	12/14/16	12/14/16
+Time	9:35	09:35
+Temp	24.9	24.9
+Salinity	34.4	34.4
+DO	6.95	6.95
+DO%	101.8	101.8
+pH	8.08	8.08
+Turbidity	2.72	2.72
+TotalN	53.38	53.38
+TotalP	9.14	9.14
+Phosphate	2.94	2.94
+Silicate	261.28	261.28
+NNN	1.56	1.56
+NH4	2.05	2.05
+------------------ diffs found for PPU on 1/4/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	1/4/17	1/4/17
+Time	9:32	09:32
+Temp	24.1	24.1
+Salinity	34.9	34.9
+DO	6.85	6.85
+DO%	99.2	99.2
+pH	8.11	8.11
+Turbidity	2.70	2.7
+TotalN	87.56	87.56
+TotalP	10.94	10.94
+Phosphate	4.16	4.16
+Silicate	136.98	136.98
+NNN	2.47	2.47
+NH4	1.55	1.55
+------------------ diffs found for PPU on 1/25/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	1/25/17	1/25/17
+Time	9:45	09:45
+Temp	24.8	24.8
+Salinity	34.9	34.9
+DO	6.79	6.79
+DO%	99.1	99.1
+pH	8.06	8.06
+Turbidity	1.92	1.92
+TotalN	77.98	77.98
+TotalP	12.72	12.72
+Phosphate	8.61	8.61
+Silicate	118.55	118.55
+NNN	1.01	1.01
+NH4	4.72	4.72
+------------------ diffs found for PPU on 2/15/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	2/15/17	2/15/17
+Time	9:30	09:30
+Temp	25.1	25.1
+Salinity	34.9	34.9
+DO	6.86	6.86
+DO%	100.8	100.8
+pH	8.19	8.19
+Turbidity	3.12	3.12
+TotalN	101.20	101.20
+TotalP	10.97	10.97
+Phosphate	5.45	5.45
+Silicate	130.64	130.64
+NNN	2.72	2.72
+NH4	6.83	6.83
+------------------ diffs found for PPU on 3/8/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	3/8/17	3/8/17
+Time	9:54	09:54
+Temp	25.2	25.2
+Salinity	34.5	34.5
+DO	6.93	6.93
+DO%	102.1	102.1
+pH	8.20	8.2
+Turbidity	2.18	2.18
+TotalN	79.27	79.27
+TotalP	9.09	9.09
+Phosphate	4.78	4.78
+Silicate	101.65	101.65
+NNN	2.55	2.55
+NH4	6.55	6.55
+------------------ diffs found for PPU on 3/29/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	3/29/17	3/29/17
+Time	9:36	09:36
+Temp	26.2	26.2
+Salinity	33.9	33.9
+DO	6.78	6.78
+DO%	100.8	100.8
+pH	8.18	8.18
+Turbidity	2.50	2.5
+TotalN	80.20	80.20
+TotalP	13.09	13.09
+Phosphate	5.51	5.51
+Silicate	150.16	150.16
+NNN	2.14	2.14
+NH4	16.26	16.26
+------------------ diffs found for PPU on 4/19/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	4/19/17	4/19/17
+Time	9:30	09:30
+Temp	26.1	26.1
+Salinity	34.1	34.1
+DO	6.63	6.63
+DO%	99.0	99
+pH	8.18	8.18
+Turbidity	1.64	1.64
+TotalN	90.76	90.76
+TotalP	8.46	8.46
+Phosphate	4.84	4.84
+Silicate	97.38	97.38
+NNN	1.25	1.25
+NH4	3.55	3.55
+------------------ diffs found for PPU on 5/10/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	5/10/17	5/10/17
+Time	9:31	09:31
+Temp	26.1	26.1
+Salinity	34.3	34.3
+DO	6.91	6.91
+DO%	103.2	103.2
+pH	8.23	8.23
+Turbidity	1.67	1.67
+TotalN	69.50	69.50
+TotalP	9.38	9.38
+Phosphate	4.86	4.86
+Silicate	222.52	222.52
+NNN	1.68	1.68
+NH4	2.05	2.05
+------------------ diffs found for PPU on 5/31/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	5/31/17	5/31/17
+Time	9:25	09:25
+Temp	26.9	26.9
+Salinity	34.6	34.6
+DO	6.73	6.73
+DO%	101.8	101.8
+pH	8.15	8.15
+Turbidity	3.10	3.1
+TotalN	63.06	63.06
+TotalP	10.43	10.43
+Phosphate	4.14	4.14
+Silicate	132.33	132.33
+NNN	4.13	4.13
+NH4	1.84	1.84
+------------------ diffs found for PPU on 6/21/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	6/21/17	6/21/17
+Time	9:30	09:30
+Temp	27.3	27.3
+Salinity	34.5	34.5
+DO	6.69	6.69
+DO%	102.2	102.2
+pH	8.17	8.17
+Turbidity	3.96	3.96
+TotalN	77.16	77.16
+TotalP	9.92	9.92
+Phosphate	5.40	5.40
+Silicate	109.23	109.23
+NNN	2.58	2.58
+NH4	1.14	1.14
+------------------ diffs found for PPU on 7/12/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	7/12/17	7/12/17
+Time	9:20	09:20
+Temp	27.6	27.6
+Salinity	34.3	34.3
+DO	6.50	6.5
+DO%	99.5	99.5
+pH	8.16	8.16
+Turbidity	1.14	1.14
+TotalN	72.58	72.58
+TotalP	8.97	8.97
+Phosphate	3.47	3.47
+Silicate	177.75	177.75
+NNN	7.89	7.89
+NH4	2.16	2.16
+------------------ diffs found for PPU on 8/2/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	8/2/17	8/2/17
+Time	9:26	09:26
+Temp	28.0	28
+Salinity	34.3	34.3
+DO	6.70	6.7
+DO%	103.6	103.6
+pH	8.18	8.18
+Turbidity	1.29	1.29
+TotalN	67.79	67.79
+TotalP	9.37	9.37
+Phosphate	5.14	5.14
+Silicate	39.53	39.53
+NNN	2.95	2.95
+NH4	1.17	1.17
+------------------ diffs found for PPU on 8/23/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	8/23/17	8/23/17
+Time	9:38	09:38
+Temp	27.4	27.4
+Salinity	34.5	34.5
+DO	6.64	6.64
+DO%	101.6	101.6
+pH	8.17	8.17
+Turbidity	5.13	5.13
+TotalN	71.43	71.43
+TotalP	15.47	15.47
+Phosphate	7.14	7.14
+Silicate	176.57	176.57
+NNN	1.94	1.94
+NH4	1.61	1.61
+------------------ diffs found for PPU on 10/4/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	10/4/17	10/4/17
+Time	9:25	09:25
+Temp	28.1	28.1
+Salinity	34.5	34.5
+DO	6.46	6.46
+DO%	100.1	100.1
+pH	8.18	8.18
+Turbidity	2.44	2.44
+TotalN	94.06	94.06
+TotalP	10.65	10.65
+Phosphate	5.29	5.29
+Silicate	214.25	214.25
+NNN	1.41	1.41
+NH4	5.88	5.88
+------------------ diffs found for PPU on 10/25/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	10/25/17	10/25/17
+Time	9:35	09:35
+Temp	27.2	27.2
+Salinity	34.7	34.7
+DO	6.65	6.65
+DO%	101.6	101.6
+pH	8.14	8.14
+Turbidity	13.47	13.47
+TotalN	66.60	66.60
+TotalP	11.08	11.08
+Phosphate	5.50	5.50
+Silicate	166.71	166.71
+NNN	6.18	6.18
+NH4	8.82	8.82
+------------------ diffs found for PPU on 11/15/17  -----------------------
+SiteName	Puamana	Makila Point DIFF
+Location	PPU	PPU
+Date	11/15/17	11/15/17
+Time	9:15	09:15
+Temp	26.7	26.7
+Salinity	34.7	34.7
+DO	6.71	6.71
+DO%	101.6	101.6
+pH	8.19	8.19
+Turbidity	1.43	1.43
+TotalN	74.56	74.56
+TotalP	11.53	11.53
+Phosphate	3.36	3.36
+Silicate	163.97	163.97
+NNN	1.36	1.36
+NH4	4.79	4.79
+------------------ diffs found for RAB on 1/24/17  -----------------------
+SiteName	Airport Beach	Airport Beach
+Location	RAB	RAB
+Date	1/24/17	1/24/17
+Time	8:29	08:29
+Temp	24.1	24.1
+Salinity	37.2	#N/A DIFF
+DO	6.46	6.46
+DO%	94.5	94.5
+pH	8.16	8.16
+Turbidity	4.08	4.08
+TotalN	79.75	79.75
+TotalP	23.24	23.24
+Phosphate	18.90	18.90
+Silicate	237.48	237.48
+NNN	13.92	13.92
+NH4	4.49	4.49
+------------------ diffs found for RAB on 8/22/17  -----------------------
+SiteName	Airport Beach	Airport Beach
+Location	RAB	RAB
+Date	8/22/17	8/22/17
+Time	9:03	9:03
+Temp	27.0	27
+Salinity	34.5	34.5
+DO	6.57	6.57
+DO%	100.0	100 DIFF
+pH	8.17	8.17
+Turbidity	0.41	0.41
+TotalN	127.71	127.71
+TotalP	15.49	15.49
+Phosphate	9.34	9.34
+Silicate	562.27	562.27
+NNN	38.24	38.24
+NH4	3.75	3.75
+------------------ diffs found for RAB on 10/3/17  -----------------------
+SiteName	Airport Beach	Airport Beach
+Location	RAB	RAB
+Date	10/3/17	10/3/17
+Time	9:16	09:16
+Temp	27.9	27.9
+Salinity	34.0	34
+DO	6.49	6.49
+DO%	100.0	100 DIFF
+pH	8.19	8.19
+Turbidity	0.65	0.65
+TotalN	82.29	82.29
+TotalP	9.52	9.52
+Phosphate	8.52	8.52
+Silicate	561.15	561.15
+NNN	26.42	26.42
+NH4	2.83	2.83
+------------------ diffs found for RCB on 10/18/16  -----------------------
+SiteName	Canoe Beach	Canoe Beach
+Location	RCB	RCB
+Date	10/18/16	10/18/16
+Time	8:40	08:40
+Temp	27.2	27.2
+Salinity	37.1	#N/A DIFF
+DO	6.22	6.22
+DO%	96.3	96.3
+pH	8.01	8.01
+Turbidity	0.93	0.93
+TotalN	84.95	84.95
+TotalP	23.40	23.40
+Phosphate	6.50	6.50
+Silicate	270.97	270.97
+NNN	15.75	15.75
+NH4	12.04	12.04
+------------------ diffs found for RCB on 1/24/17  -----------------------
+SiteName	Canoe Beach	Canoe Beach
+Location	RCB	RCB
+Date	1/24/17	1/24/17
+Time	8:50	08:50
+Temp	24.5	24.5
+Salinity	36.5	#N/A DIFF
+DO	6.57	6.57
+DO%	96.3	96.3
+pH	8.18	8.18
+Turbidity	0.80	0.8
+TotalN	113.22	113.22
+TotalP	19.74	19.74
+Phosphate	16.74	16.74
+Silicate	327.23	327.23
+NNN	46.28	46.28
+NH4	7.68	7.68
+------------------ diffs found for RNS on 2/14/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	2/14/17	2/14/17
+Time	7:52	07:52
+Temp	24.2	24.2
+Salinity	34.90	34.9
+DO	6.80	6.8
+DO%	98.7	98.7
+pH	8.15	8.15
+Turbidity	0.84	0.84
+TotalN	80.51	80.51
+TotalP	11.10	11.10
+Phosphate	6.75	6.75
+Silicate	205.37	205.37
+NNN	12.88	12.88
+NH4	6.65	6.65
+------------------ diffs found for RNS on 3/7/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	3/7/17	3/7/17
+Time	7:40	07:40
+Temp	24.2	24.2
+Salinity	34.50	34.5
+DO	6.75	6.75
+DO%	97.9	97.9
+pH	8.16	8.16
+Turbidity	1.80	1.8
+TotalN	224.47	224.47
+TotalP	15.19	15.19
+Phosphate	9.21	9.21
+Silicate	171.59	171.59
+NNN	16.23	16.23
+NH4	15.98	15.98
+------------------ diffs found for RNS on 3/28/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	3/28/17	3/28/17
+Time	7:41	07:41
+Temp	24.4	24.4
+Salinity	34.40	34.4
+DO	6.75	6.75
+DO%	97.6	97.6
+pH	8.11	8.11
+Turbidity	0.84	0.84
+TotalN	109.54	109.54
+TotalP	14.07	14.07
+Phosphate	8.81	8.81
+Silicate	326.90	326.90
+NNN	26.32	26.32
+NH4	9.00	9.00
+------------------ diffs found for RNS on 4/18/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	4/18/17	4/18/17
+Time	7:48	07:48
+Temp	24.8	24.8
+Salinity	34.00	34
+DO	6.84	6.84
+DO%	99.5	99.5
+pH	8.15	8.15
+Turbidity	1.00	1
+TotalN	161.44	161.44
+TotalP	13.29	13.29
+Phosphate	9.28	9.28
+Silicate	437.66	437.66
+NNN	20.27	20.27
+NH4	6.27	6.27
+------------------ diffs found for RNS on 5/9/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	5/9/17	5/9/17
+Time	7:35	07:35
+Temp	25.3	25.3
+Salinity	33.20	33.2
+DO	7.20	7.2
+DO%	102.6	102.6
+pH	8.12	8.12
+Turbidity	0.75	0.75
+TotalN	137.54	137.54
+TotalP	17.93	17.93
+Phosphate	13.54	13.54
+Silicate	1088.85	1088.85
+NNN	56.57	56.57
+NH4	5.10	5.10
+------------------ diffs found for RNS on 5/30/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	5/30/17	5/30/17
+Time	7:40	07:40
+Temp	25.7	25.7
+Salinity	33.90	33.9
+DO	6.92	6.92
+DO%	102.2	102.2
+pH	8.09	8.09
+Turbidity	1.07	1.07
+TotalN	102.75	102.75
+TotalP	11.34	11.34
+Phosphate	8.89	8.89
+Silicate	692.06	692.06
+NNN	36.12	36.12
+NH4	4.31	4.31
+------------------ diffs found for RNS on 6/20/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	6/20/17	6/20/17
+Time	7:41	07:41
+Temp	26.2	26.2
+Salinity	33.60	33.6
+DO	6.90	6.9
+DO%	102.9	102.9
+pH	8.10	8.1
+Turbidity	1.94	1.94
+TotalN	121.24	121.24
+TotalP	21.68	21.68
+Phosphate	11.42	11.42
+Silicate	749.69	749.69
+NNN	43.88	43.88
+NH4	3.03	3.03
+------------------ diffs found for RNS on 7/11/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	7/11/17	7/11/17
+Time	7:55	07:55
+Temp	26.6	26.6
+Salinity	32.80	32.8
+DO	6.60	6.6
+DO%	98.6	98.6
+pH	8.08	8.08
+Turbidity	0.83	0.83
+TotalN	142.77	142.77
+TotalP	17.73	17.73
+Phosphate	13.49	13.49
+Silicate	1216.76	1216.76
+NNN	83.53	83.53
+NH4	7.87	7.87
+------------------ diffs found for RNS on 8/1/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	8/1/17	8/1/17
+Time	8:00	08:00
+Temp	26.9	26.9
+Salinity	32.90	32.9
+DO	6.75	6.75
+DO%	101.4	101.4
+pH	8.09	8.09
+Turbidity	0.74	0.74
+TotalN	161.70	161.70
+TotalP	23.25	23.25
+Phosphate	14.27	14.27
+Silicate	907.91	907.91
+NNN	64.75	64.75
+NH4	5.73	5.73
+------------------ diffs found for RNS on 8/22/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	8/22/17	8/22/17
+Time	7:55	07:55
+Temp	26.4	26.4
+Salinity	33.60	33.6
+DO	6.61	6.61
+DO%	99.0	99
+pH	8.04	8.04
+Turbidity	1.52	1.52
+TotalN	149.64	149.64
+TotalP	16.31	16.31
+Phosphate	12.25	12.25
+Silicate	784.04	784.04
+NNN	48.67	48.67
+NH4	5.90	5.90
+------------------ diffs found for RNS on 9/12/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	9/12/17	9/12/17
+Time	7:56	07:56
+Temp	27.1	27.1
+Salinity	34.40	34.4
+DO	6.31	6.31
+DO%	96.5	96.5
+pH	8.08	8.08
+Turbidity	1.20	1.2
+TotalN	73.31	73.31
+TotalP	16.52	16.52
+Phosphate	7.37	7.37
+Silicate	407.56	407.56
+NNN	17.93	17.93
+NH4	8.81	8.81
+------------------ diffs found for RNS on 10/3/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	10/3/17	10/3/17
+Time	8:14	08:14
+Temp	27.0	27
+Salinity	33.70	33.7
+DO	6.59	6.59
+DO%	101.0	101
+pH	8.14	8.14
+Turbidity	2.44	2.44
+TotalN	117.08	117.08
+TotalP	13.06	13.06
+Phosphate	10.70	10.70
+Silicate	608.57	608.57
+NNN	37.65	37.65
+NH4	7.10	7.10
+------------------ diffs found for RNS on 10/24/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	10/24/17	10/24/17
+Time	8:24	08:24
+Temp	26.3	26.3
+Salinity	33.50	33.5
+DO	6.31	6.31
+DO%	94.8	94.8
+pH	8.10	8.1
+Turbidity	16.73	16.73
+TotalN	78.71	78.71
+TotalP	13.59	13.59
+Phosphate	12.43	12.43
+Silicate	205.27	205.27
+NNN	21.68	21.68
+NH4	8.31	8.31
+------------------ diffs found for RNS on 11/14/17  -----------------------
+SiteName	Napili south	Napili DIFF
+Location	RNS	RNS
+Date	11/14/17	11/14/17
+Time	8:16	08:16
+Temp	26.0	26
+Salinity	34.90	34.9
+DO	6.71	6.71
+DO%	100.8	100.8
+pH	8.16	8.16
+Turbidity	1.14	1.14
+TotalN	77.52	77.52
+TotalP	12.09	12.09
+Phosphate	8.87	8.87
+Silicate	281.77	281.77
+NNN	14.03	14.03
+NH4	5.81	5.81
+------------------ diffs found for RPO on 6/28/16  -----------------------
+SiteName	Pohaku	Pohaku
+Location	RPO	RPO
+Date	6/28/16	6/28/16
+Time	7:25	07:25
+Temp	25.7	25.7
+Salinity	26.4	26.4
+DO	6.71	6.71
+DO%	100.0	100 DIFF
+pH	8.09	8.09
+Turbidity	11.73	11.73
+TotalN	332.98	332.98
+TotalP	24.80	24.80
+Phosphate	18.29	18.29
+Silicate	1621.15	1621.15
+NNN	259.15	259.15
+NH4	5.43	5.43
+------------------ diffs found for RPO on 1/24/17  -----------------------
+SiteName	Pohaku	Pohaku
+Location	RPO	RPO
+Date	1/24/17	1/24/17
+Time	7:38	07:38
+Temp	23.5	23.5
+Salinity	34.3	34.3
+DO	8.23	#N/A DIFF
+DO%	96.4	96.4
+pH	8.14	8.14
+Turbidity	12.07	12.07
+TotalN	367.08	367.08
+TotalP	40.74	40.74
+Phosphate	36.70	36.70
+Silicate	1085.08	1085.08
+NNN	327.13	327.13
+NH4	5.14	5.14
+------------------ diffs found for RWA on 6/14/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	6/14/16	6/14/16
+Time	10:24	10:24
+Temp	27.3	27.3
+Salinity	34.6	34.6
+DO	6.66	6.66
+DO%	101.8	101.8
+pH	8.15	8.15
+Turbidity	3.47	3.47
+TotalN	84.60	84.60
+TotalP	24.07	24.07
+Phosphate	12.38	12.38
+Silicate	822.08	822.08
+NNN	21.35	21.35
+NH4	1.50	1.50
+------------------ diffs found for RWA on 6/28/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	6/28/16	6/28/16
+Time	9:06	09:06
+Temp	26.9	26.9
+Salinity	27.9	27.9
+DO	6.77	6.77
+DO%	103.0	103
+pH	8.13	8.13
+Turbidity	3.13	3.13
+TotalN	83.60	83.60
+TotalP	20.43	20.43
+Phosphate	10.91	10.91
+Silicate	633.71	633.71
+NNN	15.03	15.03
+NH4	3.34	3.34
+------------------ diffs found for RWA on 7/12/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	7/12/16	7/12/16
+Time	9:02	09:02
+Temp	27.4	27.4
+Salinity	35.7	35.7
+DO	6.66	6.66
+DO%	102.7	102.7
+pH	8.16	8.16
+Turbidity	3.41	3.41
+TotalN	83.07	83.07
+TotalP	19.36	19.36
+Phosphate	10.40	10.40
+Silicate	617.54	617.54
+NNN	15.74	15.74
+NH4	1.50	1.50
+------------------ diffs found for RWA on 7/26/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	7/26/16	7/26/16
+Time	8:59	08:59
+Temp	27.4	27.4
+Salinity	34.8	34.8
+DO	6.51	6.51
+DO%	99.8	99.8
+pH	8.15	8.15
+Turbidity	3.22	3.22
+TotalN	87.81	87.81
+TotalP	15.67	15.67
+Phosphate	9.77	9.77
+Silicate	467.63	467.63
+NNN	13.19	13.19
+NH4	4.55	4.55
+------------------ diffs found for RWA on 8/9/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	8/9/16	8/9/16
+Time	8:52	08:52
+Temp	27.2	27.2
+Salinity	35.3	35.3
+DO	6.58	6.58
+DO%	100.6	100.6
+pH	8.16	8.16
+Turbidity	0.73	0.73
+TotalN	63.27	63.27
+TotalP	14.74	14.74
+Phosphate	6.01	6.01
+Silicate	268.63	268.63
+NNN	7.89	7.89
+NH4	4.72	4.72
+------------------ diffs found for RWA on 8/23/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	8/23/16	8/23/16
+Time	8:47	08:47
+Temp	28.0	28
+Salinity	35.7	35.7
+DO	6.23	6.23
+DO%	97.4	97.4
+pH	8.06	8.06
+Turbidity	0.63	0.63
+TotalN	71.25	71.25
+TotalP	14.83	14.83
+Phosphate	6.20	6.20
+Silicate	224.59	224.59
+NNN	10.41	10.41
+NH4	1.50	1.50
+------------------ diffs found for RWA on 9/6/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	9/6/16	9/6/16
+Time	8:54	08:54
+Temp	27.8	27.8
+Salinity	35.4	35.4
+DO	6.42	6.42
+DO%	99.3	99.3
+pH	8.23	8.23
+Turbidity	3.24	3.24
+TotalN	68.40	68.40
+TotalP	21.59	21.59
+Phosphate	9.15	9.15
+Silicate	355.63	355.63
+NNN	9.97	9.97
+NH4	1.50	1.50
+------------------ diffs found for RWA on 9/20/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	9/20/16	9/20/16
+Time	8:30	08:30
+Temp	27.4	27.4
+Salinity	36.7	36.7
+DO	6.33	6.33
+DO%	98.0	98
+pH	8.05	8.05
+Turbidity	3.19	3.19
+TotalN	149.80	149.80
+TotalP	17.62	17.62
+Phosphate	7.24	7.24
+Silicate	385.18	385.18
+NNN	10.43	10.43
+NH4	7.07	7.07
+------------------ diffs found for RWA on 10/4/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	10/4/16	10/4/16
+Time	8:53	08:53
+Temp	27.8	27.8
+Salinity	34.6	34.6
+DO	6.35	6.35
+DO%	97.9	97.9
+pH	8.17	8.17
+Turbidity	1.84	1.84
+TotalN	67.41	67.41
+TotalP	13.09	13.09
+Phosphate	6.05	6.05
+Silicate	319.78	319.78
+NNN	10.07	10.07
+NH4	1.76	1.76
+------------------ diffs found for RWA on 10/18/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	10/18/16	10/18/16
+Time	8:57	08:57
+Temp	27.3	27.3
+Salinity	36.6	36.6
+DO	6.20	6.2
+DO%	95.9	95.9
+pH	8.09	8.09
+Turbidity	0.90	0.9
+TotalN	78.88	78.88
+TotalP	20.54	20.54
+Phosphate	9.62	9.62
+Silicate	489.05	489.05
+NNN	12.57	12.57
+NH4	11.06	11.06
+------------------ diffs found for RWA on 11/1/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	11/1/16	11/1/16
+Time	8:55	08:55
+Temp	26.4	26.4
+Salinity	34.4	34.4
+DO	6.38	6.38
+DO%	95.4	95.4
+pH	8.15	8.15
+Turbidity	0.91	0.91
+TotalN	79.04	79.04
+TotalP	21.10	21.10
+Phosphate	7.87	7.87
+Silicate	448.87	448.87
+NNN	14.07	14.07
+NH4	3.14	3.14
+------------------ diffs found for RWA on 11/15/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	11/15/16	11/15/16
+Time	9:05	09:05
+Temp	26.4	26.4
+Salinity	33.3	33.3
+DO	6.45	6.45
+DO%	96.2	96.2
+pH	8.12	8.12
+Turbidity	1.42	1.42
+TotalN	88.51	88.51
+TotalP	16.74	16.74
+Phosphate	15.59	15.59
+Silicate	1415.00	1415.00
+NNN	43.33	43.33
+NH4	1.50	1.50
+------------------ diffs found for RWA on 11/29/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	11/29/16	11/29/16
+Time	8:59	08:59
+Temp	25.4	25.4
+Salinity	33.6	33.6
+DO	6.49	6.49
+DO%	95.0	95
+pH	8.13	8.13
+Turbidity	1.49	1.49
+TotalN	94.79	94.79
+TotalP	10.29	10.29
+Phosphate	8.92	8.92
+Silicate	908.64	908.64
+NNN	37.28	37.28
+NH4	1.50	1.50
+------------------ diffs found for RWA on 12/13/16  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	12/13/16	12/13/16
+Time	9:03	09:03
+Temp	25.3	25.3
+Salinity	34.1	34.1
+DO	6.59	6.59
+DO%	97.2	97.2
+pH	8.11	8.11
+Turbidity	0.97	0.97
+TotalN	74.45	74.45
+TotalP	14.71	14.71
+Phosphate	8.36	8.36
+Silicate	760.93	760.93
+NNN	28.97	28.97
+NH4	2.36	2.36
+------------------ diffs found for RWA on 1/3/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	1/3/17	1/3/17
+Time	10:15	10:15
+Temp	24.8	24.8
+Salinity	34.9	34.9
+DO	6.49	6.49
+DO%	95.3	95.3
+pH	8.20	8.2
+Turbidity	0.93	0.93
+TotalN	85.84	85.84
+TotalP	11.24	11.24
+Phosphate	5.84	5.84
+Silicate	223.38	223.38
+NNN	10.13	10.13
+NH4	1.50	1.50
+------------------ diffs found for RWA on 1/24/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	1/24/17	1/24/17
+Time	9:07	09:07
+Temp	24.5	24.5
+Salinity	34.7	34.7
+DO	6.69	6.69
+DO%	97.3	97.3
+pH	8.20	8.2
+Turbidity	1.15	1.15
+TotalN	117.23	117.23
+TotalP	34.70	34.70
+Phosphate	30.64	30.64
+Silicate	953.96	953.96
+NNN	56.58	56.58
+NH4	4.25	4.25
+------------------ diffs found for RWA on 2/14/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	2/14/17	2/14/17
+Time	10:00	10:00
+Temp	24.7	24.7
+Salinity	33.9	33.9
+DO	6.78	6.78
+DO%	98.7	98.7
+pH	8.20	8.2
+Turbidity	1.04	1.04
+TotalN	95.60	95.60
+TotalP	15.08	15.08
+Phosphate	10.84	10.84
+Silicate	490.89	490.89
+NNN	29.92	29.92
+NH4	5.61	5.61
+------------------ diffs found for RWA on 3/7/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	3/7/17	3/7/17
+Time	9:25	09:25
+Temp	24.9	24.9
+Salinity	32.9	32.9
+DO	6.79	6.79
+DO%	98.6	98.6
+pH	8.19	8.19
+Turbidity	2.11	2.11
+TotalN	99.98	99.98
+TotalP	18.30	18.30
+Phosphate	14.53	14.53
+Silicate	742.36	742.36
+NNN	37.20	37.20
+NH4	5.24	5.24
+------------------ diffs found for RWA on 3/28/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	3/28/17	3/28/17
+Time	9:21	09:21
+Temp	25.4	25.4
+Salinity	32.9	32.9
+DO	6.77	6.77
+DO%	98.8	98.8
+pH	8.19	8.19
+Turbidity	0.63	0.63
+TotalN	102.96	102.96
+TotalP	19.47	19.47
+Phosphate	14.15	14.15
+Silicate	768.90	768.90
+NNN	37.51	37.51
+NH4	6.85	6.85
+------------------ diffs found for RWA on 4/18/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	4/18/17	4/18/17
+Time	9:26	09:26
+Temp	25.9	25.9
+Salinity	33.0	33
+DO	6.57	6.57
+DO%	96.8	96.8
+pH	8.18	8.18
+Turbidity	0.92	0.92
+TotalN	131.32	131.32
+TotalP	18.46	18.46
+Phosphate	15.75	15.75
+Silicate	1191.85	1191.85
+NNN	40.97	40.97
+NH4	2.46	2.46
+------------------ diffs found for RWA on 5/9/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	5/9/17	5/9/17
+Time	9:20	09:20
+Temp	26.0	26
+Salinity	33.0	33
+DO	6.86	6.86
+DO%	101.5	101.5
+pH	8.21	8.21
+Turbidity	0.78	0.78
+TotalN	113.94	113.94
+TotalP	14.22	14.22
+Phosphate	12.10	12.10
+Silicate	983.76	983.76
+NNN	35.72	35.72
+NH4	4.87	4.87
+------------------ diffs found for RWA on 5/30/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	5/30/17	5/30/17
+Time	9:20	09:20
+Temp	26.4	26.4
+Salinity	33.8	33.8
+DO	6.78	6.78
+DO%	101.4	101.4
+pH	8.16	8.16
+Turbidity	3.10	3.1
+TotalN	91.95	91.95
+TotalP	15.19	15.19
+Phosphate	12.60	12.60
+Silicate	1009.81	1009.81
+NNN	34.86	34.86
+NH4	2.93	2.93
+------------------ diffs found for RWA on 6/20/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	6/20/17	6/20/17
+Time	9:22	09:22
+Temp	26.9	26.9
+Salinity	33.9	33.9
+DO	6.76	6.76
+DO%	102.2	102.2
+pH	8.17	8.17
+Turbidity	4.98	4.98
+TotalN	81.95	81.95
+TotalP	20.60	20.60
+Phosphate	14.97	14.97
+Silicate	689.49	689.49
+NNN	19.33	19.33
+NH4	0.43	0.43
+------------------ diffs found for RWA on 7/11/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	7/11/17	7/11/17
+Time	9:44	09:44
+Temp	27.3	27.3
+Salinity	34.1	34.1
+DO	6.33	6.33
+DO%	96.3	96.3
+pH	8.18	8.18
+Turbidity	0.67	0.67
+TotalN	78.21	78.21
+TotalP	12.88	12.88
+Phosphate	7.07	7.07
+Silicate	528.03	528.03
+NNN	22.21	22.21
+NH4	0.86	0.86
+------------------ diffs found for RWA on 8/1/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	8/1/17	8/1/17
+Time	9:58	09:58
+Temp	27.6	27.6
+Salinity	34.2	34.2
+DO	6.63	6.63
+DO%	101.5	101.5
+pH	8.18	8.18
+Turbidity	0.56	0.56
+TotalN	82.82	82.82
+TotalP	14.50	14.50
+Phosphate	9.15	9.15
+Silicate	315.35	315.35
+NNN	11.79	11.79
+NH4	3.31	3.31
+------------------ diffs found for RWA on 8/22/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	8/22/17	8/22/17
+Time	9:46	09:46
+Temp	27.1	27.1
+Salinity	34.0	34
+DO	6.63	6.63
+DO%	100.6	100.6
+pH	8.17	8.17
+Turbidity	1.57	1.57
+TotalN	91.59	91.59
+TotalP	17.83	17.83
+Phosphate	10.73	10.73
+Silicate	677.18	677.18
+NNN	25.46	25.46
+NH4	2.48	2.48
+------------------ diffs found for RWA on 9/12/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	9/12/17	9/12/17
+Time	9:38	09:38
+Temp	28.0	28
+Salinity	34.6	34.6
+DO	6.51	6.51
+DO%	100.8	100.8
+pH	8.17	8.17
+Turbidity	1.25	1.25
+TotalN	56.85	56.85
+TotalP	18.21	18.21
+Phosphate	7.08	7.08
+Silicate	317.64	317.64
+NNN	5.87	5.87
+NH4	3.25	3.25
+------------------ diffs found for RWA on 10/3/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	10/3/17	10/3/17
+Time	9:52	09:52
+Temp	27.6	27.6
+Salinity	33.4	33.4
+DO	6.52	6.52
+DO%	99.8	99.8
+pH	8.20	8.2
+Turbidity	0.50	0.50
+TotalN	118.54	118.54
+TotalP	35.86	35.86
+Phosphate	12.56	12.56
+Silicate	759.61	759.61
+NNN	24.31	24.31
+NH4	3.49	3.49
+------------------ diffs found for RWA on 10/24/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	10/24/17	10/24/17
+Time	10:20	10:20
+Temp	26.9	26.9
+Salinity	33.1	33.1
+DO	6.67	6.67
+DO%	100.9	100.9
+pH	8.19	8.19
+Turbidity	6.59	6.59
+TotalN	82.00	82.00
+TotalP	12.90	12.90
+Phosphate	10.54	10.54
+Silicate	419.96	419.96
+NNN	17.75	17.75
+NH4	12.76	12.76
+------------------ diffs found for RWA on 11/14/17  -----------------------
+SiteName	Wahikuli Beach	Wahikuli DIFF
+Location	RWA	RWA
+Date	11/14/17	11/14/17
+Time	10:04	10:04
+Temp	27.2	27.2
+Salinity	34.5	34.5
+DO	6.50	6.5
+DO%	99.2	99.2
+pH	8.20	8.2
+Turbidity	1.21	1.21
+TotalN	75.01	75.01
+TotalP	15.35	15.35
+Phosphate	6.02	6.02
+Silicate	403.40	403.40
+NNN	12.17	12.17
+NH4	4.38	4.38

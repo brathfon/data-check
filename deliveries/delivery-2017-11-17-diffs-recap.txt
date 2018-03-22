@@ -1,0 +1,75 @@
+Diffs between Danas sheets and the data to be delivered:
+
+All but one of these is QAed out data
+
+pH	7.87	#N/A DIFF
+pH	7.72	#N/A DIFF
+pH	8.05	#N/A DIFF
+pH	7.83	#N/A DIFF
+pH	8.04	#N/A DIFF
+pH	8.06	#N/A DIFF
+DO%	100.0	100 DIFF
+DO	8.60	#N/A DIFF
+Turbidity	5.01	#N/A DIFF
+Temp	28.3	29.3 DIFF                <-- known difference where export is correct
+Turbidity	1.33	#N/A DIFF
+NNN	0.10	#N/A DIFF
+Salinity	37.2	#N/A DIFF
+DO%	100.0	100 DIFF
+DO%	100.0	100 DIFF
+Salinity	37.1	#N/A DIFF
+Salinity	36.5	#N/A DIFF
+DO%	100.0	100 DIFF
+DO	8.23	#N/A DIFF
+
+
+These are known changes to sitenames:
+
+SiteName	Fleming North	DT Beach (Fleming N) DIFF
+SiteName	Fleming South	Kapalua Bay (Fleming S) DIFF
+SiteName	Honolua Bay	Honolua DIFF
+SiteName	Ka'opala Bay	Ka'opala DIFF
+SiteName	Napili south	Napili DIFF
+SiteName	Oneloa Bay	Oneloa DIFF
+SiteName	Papalaua Beach Park	Papalaua DIFF
+SiteName	Puamana	Makila Point DIFF
+SiteName	Wahikuli Beach	Wahikuli DIFF
+
+
+Diffs between Soest data and the delivery.  All due to readings below minimum detectable level:
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+Phosphate	10	10.00 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NNN	<0.1	#N/A DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF
+NH4	<1.5	1.50 DIFF

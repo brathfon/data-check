@@ -1,0 +1,494 @@
+checking directory tsv-files/soest-files/west-maui
+checking file tsv-files/soest-files/west-maui/.DS_Store
+checking file tsv-files/soest-files/west-maui/TNC_011017_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_011017_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_013117_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_022217_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_022217_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_031417_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_040417_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_040417_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_042317_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_051717_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_051717_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_060617_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_060617_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_061616_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_061616_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_062717_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_062717_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_063016_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_063016_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_071416_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_071416_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_071817_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_071817_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_072616_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_080817_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_081716_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_082817_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_083016_W.Maui.csv.orig
+checking file tsv-files/soest-files/west-maui/TNC_083016_W.Maui.fixed.csv
+checking file tsv-files/soest-files/west-maui/TNC_091516_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_091917_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_092716_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_101116_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_101317_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_102616_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_103117_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_111016_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_112117_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_112216_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_120616_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/TNC_122016_W.Maui.csv
+checking file tsv-files/soest-files/west-maui/convert.sh
+checking file tsv-files/soest-files/west-maui/orig-tsvs
+checking file tsv-files/soest-files/west-maui/tsv-to-csv.pl
+Soest file: tsv-files/soest-files/west-maui/TNC_011017_W.Maui.fixed.csv
+replicate sample, skipping. siteCode: RAB sampleData: 170103 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_013117_W.Maui.csv
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_022217_W.Maui.fixed.csv
+replicate sample, skipping. siteCode: OSF sampleData: 170215 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_031417_W.Maui.csv
+replicate sample, skipping. siteCode: OUB sampleData: 170309 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_040417_W.Maui.fixed.csv
+replicate sample, skipping. siteCode: RCB sampleData: 170328 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_042317_W.Maui.csv
+replicate sample, skipping. siteCode: PPU sampleData: 170419 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_051717_W.Maui.fixed.csv
+replicate sample, skipping. siteCode: OPB sampleData: 170511 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_060617_W.Maui.fixed.csv
+replicate sample, skipping. siteCode: RWA sampleData: 170530 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_061616_W.Maui.fixed.csv
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,110,16,,,3.5,2
+Soest file: tsv-files/soest-files/west-maui/TNC_062717_W.Maui.fixed.csv
+ERROR: found unknown site name of RMO. from line RMO170623-N-1,20 TNC,123.88,10.98,8.94,1032.64,59.00,1.45
+Soest file: tsv-files/soest-files/west-maui/TNC_063016_W.Maui.fixed.csv
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,110,16,,,3.5,2
+Soest file: tsv-files/soest-files/west-maui/TNC_071416_W.Maui.fixed.csv
+Soest file: tsv-files/soest-files/west-maui/TNC_071817_W.Maui.fixed.csv
+Soest file: tsv-files/soest-files/west-maui/TNC_072616_W.Maui.csv
+Soest file: tsv-files/soest-files/west-maui/TNC_080817_W.Maui.csv
+replicate sample, skipping. siteCode: RFS sampleData: 170804 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_081716_W.Maui.csv
+replicate sample, skipping. siteCode: RPO sampleData: 160809 sampleID: N-2
+replicate sample, skipping. siteCode: OPM sampleData: 160811 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_082817_W.Maui.csv
+replicate sample, skipping. siteCode: RFS sampleData: 170825 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_083016_W.Maui.fixed.csv
+Soest file: tsv-files/soest-files/west-maui/TNC_091516_W.Maui.csv
+replicate sample, skipping. siteCode: PFF sampleData: 160907 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_091917_W.Maui.csv
+replicate sample, skipping. siteCode: RKO sampleData: 170915 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_092716_W.Maui.csv
+replicate sample, skipping. siteCode: OPM sampleData: 160922 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_101116_W.Maui.csv
+replicate sample, skipping. siteCode: RPO sampleData: 161004 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_101317_W.Maui.csv
+replicate sample, skipping. siteCode: RKV sampleData: 171006 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_102616_W.Maui.csv
+Soest file: tsv-files/soest-files/west-maui/TNC_103117_W.Maui.csv
+replicate sample, skipping. siteCode: RHL sampleData: 171027 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_111016_W.Maui.csv
+replicate sample, skipping. siteCode: PLH sampleData: 161102 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_112117_W.Maui.csv
+replicate sample, skipping. siteCode: RFS sampleData: 171117 sampleID: N-2
+Soest file: tsv-files/soest-files/west-maui/TNC_112216_W.Maui.csv
+replicate sample, skipping. siteCode: OCO sampleData: 161117 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_120616_W.Maui.csv
+replicate sample, skipping. siteCode: RKS sampleData: 161129 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,
+Soest file: tsv-files/soest-files/west-maui/TNC_122016_W.Maui.csv
+replicate sample, skipping. siteCode: PLT sampleData: 161214 sampleID: N-2
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> 
+WARNING: found invalid ID  Line -> ,,,,
+558 samples found in group A
+558 samples found in group B
+Samples only in A: 0
+Samples only in B: 0
+Samples in common: 558
+------------------ diffs found for RWA on 1/3/17  -----------------------
+SampleID	RWA170103	RWA170103
+Location	RWA	RWA
+Date	1/3/17	1/3/17
+TotalN	85.84	85.84
+TotalP	11.24	11.24
+Phosphate	5.84	5.84
+Silicate	223.38	223.38
+NNN	10.13	10.13
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OLP on 1/4/17  -----------------------
+SampleID	OLP170104	OLP170104
+Location	OLP	OLP
+Date	1/4/17	1/4/17
+TotalN	76.98	76.98
+TotalP	8.58	8.58
+Phosphate	3.25	3.25
+Silicate	117.30	117.30
+NNN	2.59	2.59
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPM on 1/5/17  -----------------------
+SampleID	OPM170105	OPM170105
+Location	OPM	OPM
+Date	1/5/17	1/5/17
+TotalN	100.48	100.48
+TotalP	9.99	9.99
+Phosphate	5.66	5.66
+Silicate	208.26	208.26
+NNN	20.10	20.10
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OCO on 1/5/17  -----------------------
+SampleID	OCO170105	OCO170105
+Location	OCO	OCO
+Date	1/5/17	1/5/17
+TotalN	77.67	77.67
+TotalP	9.54	9.54
+Phosphate	5.63	5.63
+Silicate	360.48	360.48
+NNN	12.58	12.58
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OUB on 1/5/17  -----------------------
+SampleID	OUB170105	OUB170105
+Location	OUB	OUB
+Date	1/5/17	1/5/17
+TotalN	75.23	75.23
+TotalP	12.42	12.42
+Phosphate	5.28	5.28
+Silicate	88.84	88.84
+NNN	7.87	7.87
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for RPO on 2/14/17  -----------------------
+SampleID	RPO170214	RPO170214
+Location	RPO	RPO
+Date	2/14/17	2/14/17
+TotalN	103.87	103.87
+TotalP	14.35	14.35
+Phosphate	10	10.00 DIFF
+Silicate	316.93	316.93
+NNN	36.3	36.30
+NH4	6.51	6.51
+------------------ diffs found for RWA on 6/14/16  -----------------------
+SampleID	RWA160614	RWA160614
+Location	RWA	RWA
+Date	6/14/16	6/14/16
+TotalN	84.60	84.60
+TotalP	24.07	24.07
+Phosphate	12.38	12.38
+Silicate	822.08	822.08
+NNN	21.35	21.35
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for RWA on 7/12/16  -----------------------
+SampleID	RWA160712	RWA160712
+Location	RWA	RWA
+Date	7/12/16	7/12/16
+TotalN	83.07	83.07
+TotalP	19.36	19.36
+Phosphate	10.40	10.40
+Silicate	617.54	617.54
+NNN	15.74	15.74
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for PFF on 7/13/16  -----------------------
+SampleID	PFF160713	PFF160713
+Location	PFF	PFF
+Date	7/13/16	7/13/16
+TotalN	69.41	69.41
+TotalP	17.38	17.38
+Phosphate	8.43	8.43
+Silicate	405.40	405.40
+NNN	3.10	3.10
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OCO on 7/14/16  -----------------------
+SampleID	OCO160714	OCO160714
+Location	OCO	OCO
+Date	7/14/16	7/14/16
+TotalN	67.22	67.22
+TotalP	14.86	14.86
+Phosphate	7.36	7.36
+Silicate	595.45	595.45
+NNN	1.49	1.49
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for PFF on 8/10/16  -----------------------
+SampleID	PFF160810	PFF160810
+Location	PFF	PFF
+Date	8/10/16	8/10/16
+TotalN	50.94	50.94
+TotalP	13.33	13.33
+Phosphate	6.11	6.11
+Silicate	258.54	258.54
+NNN	4.44	4.44
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OLP on 8/10/16  -----------------------
+SampleID	OLP160810	OLP160810
+Location	OLP	OLP
+Date	8/10/16	8/10/16
+TotalN	55.04	55.04
+TotalP	11.77	11.77
+Phosphate	4.62	4.62
+Silicate	116.02	116.02
+NNN	3.03	3.03
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPB on 8/11/16  -----------------------
+SampleID	OPB160811	OPB160811
+Location	OPB	OPB
+Date	8/11/16	8/11/16
+TotalN	51.97	51.97
+TotalP	9.41	9.41
+Phosphate	2.49	2.49
+Silicate	61.77	61.77
+NNN	2.73	2.73
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPP on 8/11/16  -----------------------
+SampleID	OPP160811	OPP160811
+Location	OPP	OPP
+Date	8/11/16	8/11/16
+TotalN	50.55	50.55
+TotalP	8.52	8.52
+Phosphate	4.06	4.06
+Silicate	180.81	180.81
+NNN	3.06	3.06
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for RWA on 8/23/16  -----------------------
+SampleID	RWA160823	RWA160823
+Location	RWA	RWA
+Date	8/23/16	8/23/16
+TotalN	71.25	71.25
+TotalP	14.83	14.83
+Phosphate	6.20	6.20
+Silicate	224.59	224.59
+NNN	10.41	10.41
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OCO on 8/25/16  -----------------------
+SampleID	OCO160825	OCO160825
+Location	OCO	OCO
+Date	8/25/16	8/25/16
+TotalN	66.51	66.51
+TotalP	13.81	13.81
+Phosphate	4.95	4.95
+Silicate	238.92	238.92
+NNN	5.16	5.16
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OUB on 8/25/16  -----------------------
+SampleID	OUB160825	OUB160825
+Location	OUB	OUB
+Date	8/25/16	8/25/16
+TotalN	67.52	67.52
+TotalP	14.74	14.74
+Phosphate	3.78	3.78
+Silicate	90.14	90.14
+NNN	4.40	4.40
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPP on 8/25/16  -----------------------
+SampleID	OPP160825	OPP160825
+Location	OPP	OPP
+Date	8/25/16	8/25/16
+TotalN	59.46	59.46
+TotalP	12.41	12.41
+Phosphate	4.08	4.08
+Silicate	164.99	164.99
+NNN	4.22	4.22
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for RAB on 9/6/16  -----------------------
+SampleID	RAB160906	RAB160906
+Location	RAB	RAB
+Date	9/6/16	9/6/16
+TotalN	81.25	81.25
+TotalP	15.44	15.44
+Phosphate	7.41	7.41
+Silicate	368.38	368.38
+NNN	26.83	26.83
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for RWA on 9/6/16  -----------------------
+SampleID	RWA160906	RWA160906
+Location	RWA	RWA
+Date	9/6/16	9/6/16
+TotalN	68.40	68.40
+TotalP	21.59	21.59
+Phosphate	9.15	9.15
+Silicate	355.63	355.63
+NNN	9.97	9.97
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPM on 9/8/16  -----------------------
+SampleID	OPM160908	OPM160908
+Location	OPM	OPM
+Date	9/8/16	9/8/16
+TotalN	63.84	63.84
+TotalP	13.04	13.04
+Phosphate	4.22	4.22
+Silicate	150.76	150.76
+NNN	4.74	4.74
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for PPU on 10/19/16  -----------------------
+SampleID	PPU161019	PPU161019
+Location	PPU	PPU
+Date	10/19/16	10/19/16
+TotalN	95.61	95.61
+TotalP	15.79	15.79
+Phosphate	5.08	5.08
+Silicate	153.70	153.70
+NNN	<0.1	#N/A DIFF
+NH4	3.31	3.31
+------------------ diffs found for RAB on 11/15/16  -----------------------
+SampleID	RAB161115	RAB161115
+Location	RAB	RAB
+Date	11/15/16	11/15/16
+TotalN	67.22	67.22
+TotalP	8.36	8.36
+Phosphate	5.88	5.88
+Silicate	349.27	349.27
+NNN	15.11	15.11
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for RWA on 11/15/16  -----------------------
+SampleID	RWA161115	RWA161115
+Location	RWA	RWA
+Date	11/15/16	11/15/16
+TotalN	88.51	88.51
+TotalP	16.74	16.74
+Phosphate	15.59	15.59
+Silicate	1415.00	1415.00
+NNN	43.33	43.33
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for PFF on 11/16/16  -----------------------
+SampleID	PFF161116	PFF161116
+Location	PFF	PFF
+Date	11/16/16	11/16/16
+TotalN	70.63	70.63
+TotalP	9.91	9.91
+Phosphate	8.01	8.01
+Silicate	732.59	732.59
+NNN	7.16	7.16
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for PPU on 11/16/16  -----------------------
+SampleID	PPU161116	PPU161116
+Location	PPU	PPU
+Date	11/16/16	11/16/16
+TotalN	64.32	64.32
+TotalP	3.53	3.53
+Phosphate	3.54	3.54
+Silicate	191.28	191.28
+NNN	4.45	4.45
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OLP on 11/16/16  -----------------------
+SampleID	OLP161116	OLP161116
+Location	OLP	OLP
+Date	11/16/16	11/16/16
+TotalN	58.70	58.70
+TotalP	3.95	3.95
+Phosphate	3.06	3.06
+Silicate	165.01	165.01
+NNN	1.89	1.89
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPM on 11/17/16  -----------------------
+SampleID	OPM161117	OPM161117
+Location	OPM	OPM
+Date	11/17/16	11/17/16
+TotalN	62.87	62.87
+TotalP	5.05	5.05
+Phosphate	4.16	4.16
+Silicate	140.57	140.57
+NNN	6.77	6.77
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OMM on 11/17/16  -----------------------
+SampleID	OMM161117	OMM161117
+Location	OMM	OMM
+Date	11/17/16	11/17/16
+TotalN	58.76	58.76
+TotalP	4.58	4.58
+Phosphate	3.62	3.62
+Silicate	365.31	365.31
+NNN	7.98	7.98
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OUB on 11/17/16  -----------------------
+SampleID	OUB161117	OUB161117
+Location	OUB	OUB
+Date	11/17/16	11/17/16
+TotalN	58.01	58.01
+TotalP	4.10	4.10
+Phosphate	3.36	3.36
+Silicate	110.15	110.15
+NNN	5.78	5.78
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPB on 11/17/16  -----------------------
+SampleID	OPB161117	OPB161117
+Location	OPB	OPB
+Date	11/17/16	11/17/16
+TotalN	60.45	60.45
+TotalP	7.25	7.25
+Phosphate	3.44	3.44
+Silicate	81.36	81.36
+NNN	8.09	8.09
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPP on 11/17/16  -----------------------
+SampleID	OPP161117	OPP161117
+Location	OPP	OPP
+Date	11/17/16	11/17/16
+TotalN	59.46	59.46
+TotalP	3.95	3.95
+Phosphate	3.35	3.35
+Silicate	165.43	165.43
+NNN	6.71	6.71
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for RWA on 11/29/16  -----------------------
+SampleID	RWA161129	RWA161129
+Location	RWA	RWA
+Date	11/29/16	11/29/16
+TotalN	94.79	94.79
+TotalP	10.29	10.29
+Phosphate	8.92	8.92
+Silicate	908.64	908.64
+NNN	37.28	37.28
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPM on 12/1/16  -----------------------
+SampleID	OPM161201	OPM161201
+Location	OPM	OPM
+Date	12/1/16	12/1/16
+TotalN	65.59	65.59
+TotalP	8.15	8.15
+Phosphate	2.42	2.42
+Silicate	226.30	226.30
+NNN	4.35	4.35
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for OPP on 12/1/16  -----------------------
+SampleID	OPP161201	OPP161201
+Location	OPP	OPP
+Date	12/1/16	12/1/16
+TotalN	57.89	57.89
+TotalP	3.82	3.82
+Phosphate	2.51	2.51
+Silicate	171.20	171.20
+NNN	2.60	2.60
+NH4	<1.5	1.50 DIFF
+------------------ diffs found for RAB on 12/13/16  -----------------------
+SampleID	RAB161213	RAB161213
+Location	RAB	RAB
+Date	12/13/16	12/13/16
+TotalN	62.36	62.36
+TotalP	13.42	13.42
+Phosphate	4.78	4.78
+Silicate	343.80	343.80
+NNN	18.57	18.57
+NH4	<1.5	1.50 DIFF

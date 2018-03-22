@@ -1,0 +1,21 @@
+Replaced some of the logic to handle samples only in one file and not in another and empty samples, which are
+when the row is empty. This would allow me to get high level counts. It would also only compare
+the ones in common after reporting the high level information and then when comparing the ones in common,
+report if either is empty. So looks good:
+
+A is Dana's data, B is fixed webexport-2-5-2018
+
+A: 656 entries
+B: 642 entries
+
+20: A only    636 in common    6: B only
+
+Comparing results: did not report as many empties because all empties were in Dana's data, so not in common.
+
+
+Another check: original webexport data, no fixes, from 2-5
+
+
+45: A only   611 in common   31: B only
+
+Same diffs.
