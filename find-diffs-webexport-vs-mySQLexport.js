@@ -9,20 +9,13 @@ var rwef  = require('./lib/readWebExportFile');
 var rsql  = require('./lib/readMySQLExportFile');
 
 
-//var aSamples = rwef.readWebExportFile('tsv-files/webexport_2018-03-02.tsv');
-//var aSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed.tsv');
-//var aSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed-lat-lons.tsv');
-//var aSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed-site-names-lat-lons.tsv');
 var aSamples = rwef.readWebExportFile('./deliveries//hui-west-maui-thru-2017-11-17-2.tsv');
 
 var numASamples = Object.keys(aSamples).length;
 var siteLocKey = "";
 
-//var bSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05.tsv');
-//var bSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed.tsv');
-//var bSamples = rwef.readWebExportFile('tsv-files/webexport_2018-02-05-fixed-lat-lons.tsv');
-//var bSamples = rwef.readWebExportFile('tsv-files/webexport_2018-03-02.tsv');
-var bSamples = rsql.readWebExportFile('/Users/bill/Development/water-quality/db/reports/first-export-from-db.tsv');
+//var bSamples = rsql.readWebExportFile('/Users/bill/Development/water-quality/db/reports/first-export-from-db.tsv');
+var bSamples = rsql.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-18-01-09.tsv');
 
 var numBSamples = Object.keys(bSamples).length;
 
