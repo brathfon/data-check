@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>webextract-sites.kml</name>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>webextract-sites</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Waipuilani Park</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.459602,20.755056</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kihei South (Lipoa)</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.457881,20.747334</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kalama Park</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.45372,20.730973</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Cove Park</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.450077,20.727434</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kamaole Beach I</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.448183,20.721985</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kamaole Beach III</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.446596,20.712908</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Makena Landing</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.441174,20.653913</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Maluaka Beach</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.443859,20.645598</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Oneuli</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.447406,20.639866</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Makena Beach Shoreline</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.446183,20.63061</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Ahihi North</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.437572,20.618366</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Ahihi South</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.436853,20.6138</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Haycraft Park</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.503198,20.796414</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kealia Pond</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.485587,20.794936</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Sugar Beach</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.466463,20.784204</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kihei Canoe Club</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.463176,20.781403</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Mai Poina 'Oe Ia'u</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.460776,20.774894</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kalepolepo North</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.459344,20.765132</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Kilohana Dr</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.445921,20.702214</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Keawekapu Beach</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.444632,20.695939</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Ulua Beach</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.444201,20.69112</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Wailea Beach</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.443524,20.68156</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Palauea</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.442907,20.669565</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Poolenalena (Chang's Beach)</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.441968,20.66339</coordinates>
+			</Point>
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>
+
