@@ -24,8 +24,15 @@ var rwef  = require('./lib/readModernWebExportFile');
 //var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-03-16.0.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-05-18.0.tsv');
 
-var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-04-06.0.tsv');
-var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-06-01.0.tsv');
+//var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-04-06.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-06-01.0.tsv');
+
+// comparison for web export on 2018-11-20  results: no diffs, only new data
+//var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-05-18.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-10-12.0.tsv');
+
+var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-06-01.0.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-10-05.0.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 //console.log("bSamples " + util.inspect(bSamples, false, null));
