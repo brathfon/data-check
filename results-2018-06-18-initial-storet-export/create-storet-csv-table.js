@@ -5,7 +5,7 @@
 var util  = require('util');
 var chalk = require("chalk");
 
-var rspc  = require('./lib/readStoretPhysicalChemical');
+var rspc  = require('../lib/readStoretPhysicalChemical');
 
 
 
@@ -45,7 +45,7 @@ var sortThem = function(a,b) {
 };
 
 
-var samples = rspc.readStoretFile('/Users/bill/Development/water-quality-data/storet/physical-chemical.csv');
+var samples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/physical-chemical.csv');
 
 //console.log("samples " + util.inspect(samples, false, null));
 var numBSamples = Object.keys(samples).length;

@@ -12,15 +12,16 @@ var rsql  = require('./lib/readMySQLExportFile');
 
 var siteLocKey = "";
 
-//var aSamples = rsql.readWebExportFile('/Users/bill/Development/water-quality/db/reports/first-export-from-db.tsv');
-var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2018-01-09.tsv');
+
+// first check done back in june of 2018
+var aSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/physical-chemical.csv');
 console.log("aSamples " + util.inspect(aSamples, false, null));
 var numASamples = Object.keys(aSamples).length;
 
-// first check done back in june of 2018
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/physical-chemical.csv');
+console.log("");
+console.error("");
 
-// second check after finding that the storet data had not been deleted, but appeared to have some updates from last pull in June of 2018
+// second check after finding that the storet data had not been deleted
 var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2019-04-30/physical-chemical-2019-04-30.csv');
 console.log("bSamples " + util.inspect(bSamples, false, null));
 var numBSamples = Object.keys(bSamples).length;
