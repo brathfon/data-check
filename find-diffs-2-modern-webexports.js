@@ -41,13 +41,19 @@ var rwef  = require('./lib/readModernWebExportFile');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-soest-branch/db/reports/hui-west-maui-thru-2018-10-12.0.tsv');
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-soest-branch/db/reports/hui-west-maui-thru-2018-12-14.0.tsv');
 
-
 // comparison between end of 2018 and first quarter of 2019
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-west-maui-thru-2018-12-14.0.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-west-maui-thru-2019-1st-quarter.0.tsv');
 
-var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-south-maui-thru-2018-12-21.0.tsv');
-var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-south-maui-thru-2019-1st-quarter.0.tsv');
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-south-maui-thru-2018-12-21.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-south-maui-thru-2019-1st-quarter.0.tsv');
+
+// diffing two first quarter reports, a reports have empty nutrient samples for samples not received yet, b goes back to old way of not reporting if no nutrient data
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-south-maui-thru-2019-1st-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-south-maui-thru-2019-1st-quarter.1.tsv');
+
+var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-west-maui-thru-2019-1st-quarter.0.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-west-maui-thru-2019-1st-quarter.1.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 //console.log("bSamples " + util.inspect(bSamples, false, null));
