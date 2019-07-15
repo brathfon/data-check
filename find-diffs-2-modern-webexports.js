@@ -52,8 +52,15 @@ var rwef  = require('./lib/readModernWebExportFile');
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-south-maui-thru-2019-1st-quarter.0.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-south-maui-thru-2019-1st-quarter.1.tsv');
 
-var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-west-maui-thru-2019-1st-quarter.0.tsv');
-var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-west-maui-thru-2019-1st-quarter.1.tsv');
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-west-maui-thru-2019-1st-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-west-maui-thru-2019-1st-quarter.1.tsv');
+
+// 7/14/19, 2nd quarter release
+var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-west-maui-thru-2019-1st-quarter.1.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-west-maui-thru-2019-2nd-quarter.0.tsv');
+
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-south-maui-thru-2019-1st-quarter.1.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-south-maui-thru-2019-2nd-quarter.0.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 //console.log("bSamples " + util.inspect(bSamples, false, null));
