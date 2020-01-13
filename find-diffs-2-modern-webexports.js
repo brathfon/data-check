@@ -62,12 +62,20 @@ var rwef  = require('./lib/readModernWebExportFile');
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-south-maui-thru-2019-1st-quarter.1.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-south-maui-thru-2019-2nd-quarter.0.tsv');
 
-// 10/07/19, 3nd quarter release
+// 10/07/19, 3rd quarter release
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-2nd-quarter.0.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-3rd-quarter.0.tsv');
 
-var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-2nd-quarter.0.tsv');
-var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-3rd-quarter.0.tsv');
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-2nd-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-3rd-quarter.0.tsv');
+
+
+//1/11/20, 4th quarter release for 2019
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-south-maui-thru-2019-3rd-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-south-maui-thru-2019-4th-quarter.0.tsv');
+
+var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-west-maui-thru-2019-3rd-quarter.0.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-west-maui-thru-2019-4th-quarter.0.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 //console.log("bSamples " + util.inspect(bSamples, false, null));
