@@ -74,8 +74,15 @@ var rwef  = require('./lib/readModernWebExportFile');
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-south-maui-thru-2019-3rd-quarter.0.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-south-maui-thru-2019-4th-quarter.0.tsv');
 
-var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-west-maui-thru-2019-3rd-quarter.0.tsv');
-var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-west-maui-thru-2019-4th-quarter.0.tsv');
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-west-maui-thru-2019-3rd-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-west-maui-thru-2019-4th-quarter.0.tsv');
+
+// 2/10/20, checking 4th quarter nutrient completed release
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-4th-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-4th-quarter.1.tsv');
+
+var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-4th-quarter.0.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-4th-quarter.1.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 //console.log("bSamples " + util.inspect(bSamples, false, null));
@@ -94,6 +101,62 @@ var isEmptySample = function(sample) {
   return ((sample.Temp === '') && (sample.Salinity === '')) ? true : false; 
 };
 
+/* *************************************************************************************
+This function is called when there are differences detected to see if these differences
+might be just blank nutrient values that now have values.  This happens quite often
+because nutrient data must be sent to the lab and sometimes web exports are sent out
+before the nutrient data is available and the collect only has insitu data.  If this
+appears to be the case, a string is returned that states that it is probable that
+this data is just an update of nutrient data, else it returns a blank ("").
+************************************************************************************* */
+
+var checkForUpdatedNutrients = function(param, valueA, valueB) {
+
+  let returnStr = "";
+
+  //console.log(`DEBUG param = |${param}| valueA = |${valueA}| valueB = |${valueB}|`);
+
+  /*
+  First case: nutrient data is pending and now is not in the QaIssues field, so
+  return the warning string
+
+  Lat     20.669565       20.669565
+  Long    -156.442907     -156.442907
+  QaIssues        nutrient data pending    DIFF
+  ------------------ diffs found for WPO on 12/13/19  -----------------------
+  SampleID        WPO191213       WPO191213
+  ........
+
+  Second case: for the various nutrient parameters, the old value was blank
+  and the new value is the received nutrient data.
+
+  pH      8.18    8.18
+  Turbidity       0.40    0.40
+  TotalN          100.21 DIFF
+  TotalP          7.92 DIFF
+  Phosphate               4.11 DIFF
+  ......
+  */
+
+  if ((param == "QaIssues") && (valueA == 'nutrient data pending') && (valueB == '')) {
+    returnStr = ` (Probably pending nutrients updated)`;
+  }
+  else if ( (param == "TotalN") ||
+       (param == "TotalP") ||
+       (param == "Phosphate") ||
+       (param == "Silicate") ||
+       (param == "NNN") ||
+       (param == "NH4") ) {
+
+    if ((valueA == '') && (valueB != '')) {
+       //returnStr = `valueA = |${valueA}| valueB = |${valueB}|`;
+       returnStr = ` (Probably pending nutrients updated)`;
+    }
+  }
+
+  return returnStr;
+
+};
 
 var diffAB = function(sampleA, sampleB) {
 
@@ -155,7 +218,8 @@ var diffAB = function(sampleA, sampleB) {
       //console.log("comparing param " + param + " with values " + aValue + " and " + bValue);
       //if ((aValueStripped !== bValueStripped) && (param !== "SiteName")){
       if (aValueStripped !== bValueStripped){
-        console.log(chalk.red(param + "\t" + aValue + "\t" + bValue + " DIFF"));
+        //console.log(chalk.red(param + "\t" + aValue + "\t" + bValue + " DIFF"));
+        console.log(chalk.red(`${param}\t${aValue}\t${bValue} DIFF ${checkForUpdatedNutrients(param, aValue, bValue)}`));
       }
       else {
         console.log(param + "\t" + aValue + "\t" + bValue);
