@@ -1,0 +1,1684 @@
+In getWQXWebSiteData
+{
+  HBW: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'HBW',
+    Monitoring_Location_Name: 'Hana Bay Wharf',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.75577222',
+    Longitude: '-155.9820944',
+    Last_Changed: '05-23-2017 12:11:12 AM'
+  },
+  HHC: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'HHC',
+    Monitoring_Location_Name: 'Helene Hall Cesspool Discharge',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.75529167',
+    Longitude: '-155.9833694',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  HIW: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'HIW',
+    Monitoring_Location_Name: 'Holoinawawae Stream',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.76151667',
+    Longitude: '-155.9859083',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  HKC: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'HKC',
+    Monitoring_Location_Name: 'Hana Kai Condo',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.75966389',
+    Longitude: '-155.9866278',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  HLD: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'HLD',
+    Monitoring_Location_Name: 'Hana Landfill Discharge',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.76807778',
+    Longitude: '-155.9842778',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  HPV: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'HPV',
+    Monitoring_Location_Name: 'Pavilion',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.75533889',
+    Longitude: '-155.9837333',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  HRR: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'HRR',
+    Monitoring_Location_Name: 'Ranch/Residential Runoff',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.75610278',
+    Longitude: '-155.9845722',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  KKE: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'KKE',
+    Monitoring_Location_Name: 'Kealia',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.791179',
+    Longitude: '-156.477859',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  KKR: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'KKR',
+    Monitoring_Location_Name: 'Kealia river mouth',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.795668',
+    Longitude: '-156.488647',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  KSB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'KSB',
+    Monitoring_Location_Name: 'Sugar Beach',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.785885',
+    Longitude: '-156.468678',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  KWF: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'KWF',
+    Monitoring_Location_Name: 'Waterfront',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.79203',
+    Longitude: '-156.509604',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  KWH: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'KWH',
+    Monitoring_Location_Name: 'Waiohuli',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.782492',
+    Longitude: '-156.464369',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  NBR: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NBR',
+    Monitoring_Location_Name: 'Boat ramp',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.896339',
+    Longitude: '-156.477878',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NDH: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NDH',
+    Monitoring_Location_Name: 'DOH site 2',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.891308',
+    Longitude: '-156.471494',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NHA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NHA',
+    Monitoring_Location_Name: 'Kahului Harbor Pier 2 stream',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.894046',
+    Longitude: '-156.467804',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NHB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NHB',
+    Monitoring_Location_Name: 'Kahului Harbor Pier1 and Pier 2',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.895767',
+    Longitude: '-156.465103',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NHL: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NHL',
+    Monitoring_Location_Name: 'Harbor lights DOH site',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.891374',
+    Longitude: '-156.473608',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NKA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NKA',
+    Monitoring_Location_Name: 'Kaa point',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.898254',
+    Longitude: '-156.44728',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  NKC: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NKC',
+    Monitoring_Location_Name: 'Kahului Harbor Canoe Hale',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.892119',
+    Longitude: '-156.469484',
+    Last_Changed: '05-23-2017 12:11:14 AM'
+  },
+  NKN: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NKN',
+    Monitoring_Location_Name: 'Kailua nui',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.913837',
+    Longitude: '-156.393691',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  NKW: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NKW',
+    Monitoring_Location_Name: 'Kahului WWRF',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.897078',
+    Longitude: '-156.456264',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NME: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NME',
+    Monitoring_Location_Name: 'MECO',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.797023',
+    Longitude: '-156.494285',
+    Last_Changed: '05-23-2017 12:11:14 AM'
+  },
+  NMG: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NMG',
+    Monitoring_Location_Name: 'McGregor Point',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.777306',
+    Longitude: '-156.522318',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  NPA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NPA',
+    Monitoring_Location_Name: 'Papaula',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.908397',
+    Longitude: '-156.427644',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  NSB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NSB',
+    Monitoring_Location_Name: 'Beach',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.785001',
+    Longitude: '-156.516267',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  NSC: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NSC',
+    Monitoring_Location_Name: 'Sugar Cove',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.909365',
+    Longitude: '-156.409301',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  NWA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NWA',
+    Monitoring_Location_Name: 'Wawau',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.91271',
+    Longitude: '-156.40314',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  NWG: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NWG',
+    Monitoring_Location_Name: 'Waiehu Golf course',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.927878',
+    Longitude: '-156.495496',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NWI: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NWI',
+    Monitoring_Location_Name: 'Wailuku stream',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.910498',
+    Longitude: '-156.484707',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NWK: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NWK',
+    Monitoring_Location_Name: 'Waihee Kalepa',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.933892',
+    Longitude: '-156.503223',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  NWS: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'NWS',
+    Monitoring_Location_Name: 'Waiehu stream',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.918357',
+    Longitude: '-156.491816',
+    Last_Changed: '05-23-2017 12:11:15 AM'
+  },
+  OBR: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OBR',
+    Monitoring_Location_Name: 'Ukumehame Bridge',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.79983',
+    Longitude: '-156.59244',
+    Last_Changed: '05-23-2017 12:11:18 AM'
+  },
+  OCO: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OCO',
+    Monitoring_Location_Name: 'Camp Olowalu',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.80986',
+    Longitude: '-156.61369',
+    Last_Changed: '05-23-2017 12:11:17 AM'
+  },
+  OLP: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OLP',
+    Monitoring_Location_Name: 'Launiupoko',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.84236',
+    Longitude: '-156.653035',
+    Last_Changed: '05-23-2017 12:11:18 AM'
+  },
+  OMM: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OMM',
+    Monitoring_Location_Name: 'Mile Marker 14',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.80915',
+    Longitude: '-156.60661',
+    Last_Changed: '05-23-2017 12:11:18 AM'
+  },
+  OPB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OPB',
+    Monitoring_Location_Name: 'Papalaua',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.79348',
+    Longitude: '-156.57492',
+    Last_Changed: '05-23-2017 12:11:18 AM'
+  },
+  OPM: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OPM',
+    Monitoring_Location_Name: 'Peter Martin Hale',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.808444',
+    Longitude: '-156.619697',
+    Last_Changed: '05-23-2017 12:11:18 AM'
+  },
+  OPP: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OPP',
+    Monitoring_Location_Name: 'Papalaua Pali',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.79269',
+    Longitude: '-156.56872',
+    Last_Changed: '05-23-2017 12:11:18 AM'
+  },
+  OSB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OSB',
+    Monitoring_Location_Name: 'Olowalu surf break',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.82378',
+    Longitude: '-156.6315',
+    Last_Changed: '05-23-2017 12:11:17 AM'
+  },
+  OSF: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OSF',
+    Monitoring_Location_Name: 'Olowalu shore front',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.80916',
+    Longitude: '-156.62289',
+    Last_Changed: '05-23-2017 12:11:17 AM'
+  },
+  OTC: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OTC',
+    Monitoring_Location_Name: 'Teen Challenge',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.81005',
+    Longitude: '-156.6089',
+    Last_Changed: '05-23-2017 12:11:18 AM'
+  },
+  OUB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'OUB',
+    Monitoring_Location_Name: 'Ukumehame Beach',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.79448',
+    Longitude: '-156.58142',
+    Last_Changed: '05-23-2017 12:11:18 AM'
+  },
+  PFF: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'PFF',
+    Monitoring_Location_Name: '505 Front Street',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.86732',
+    Longitude: '-156.67605',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  PLH: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'PLH',
+    Monitoring_Location_Name: 'Lindsey Hale',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.86485',
+    Longitude: '-156.67374',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  PLT: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'PLT',
+    Monitoring_Location_Name: 'Lahaina Town',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.86356',
+    Longitude: '-156.67297',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  PMA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'PMA',
+    Monitoring_Location_Name: 'Makila Point',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.85884',
+    Longitude: '-156.66933',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  PPU: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'PPU',
+    Monitoring_Location_Name: 'Puamana',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.859233',
+    Longitude: '-156.669442',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  RAB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RAB',
+    Monitoring_Location_Name: 'Airport Beach',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.936669',
+    Longitude: '-156.69278',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RAP: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RAP',
+    Monitoring_Location_Name: 'Airport2',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.941269',
+    Longitude: '-156.692439',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RBR: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RBR',
+    Monitoring_Location_Name: 'Black Rock',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.929589',
+    Longitude: '-156.69395',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RCB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RCB',
+    Monitoring_Location_Name: 'Canoe Beach',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.910017',
+    Longitude: '-156.68917',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RFN: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RFN',
+    Monitoring_Location_Name: 'FlemingNorth DT beach park',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '21.005',
+    Longitude: '-156.65084',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  RFS: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RFS',
+    Monitoring_Location_Name: 'FlemingSouth Kapalua Bay',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.998636',
+    Longitude: '-156.66667',
+    Last_Changed: '05-23-2017 12:11:17 AM'
+  },
+  RHL: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RHL',
+    Monitoring_Location_Name: 'Honolua',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '21.013058',
+    Longitude: '-156.63834',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  RHO: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RHO',
+    Monitoring_Location_Name: 'Honokowai',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.955278',
+    Longitude: '-156.686472',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RKA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RKA',
+    Monitoring_Location_Name: 'South seep (Kahekili 4)',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.938304',
+    Longitude: '-156.692792',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RKN: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RKN',
+    Monitoring_Location_Name: 'North seep (Kehekili 3)',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.940004',
+    Longitude: '-156.692586',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RKO: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RKO',
+    Monitoring_Location_Name: "Ka'opala",
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.981967',
+    Longitude: '-156.67308',
+    Last_Changed: '05-23-2017 12:11:17 AM'
+  },
+  RKS: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RKS',
+    Monitoring_Location_Name: 'Kaanapali Shores',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.949331',
+    Longitude: '-156.691124',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  RKV: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RKV',
+    Monitoring_Location_Name: 'Kahana Village',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.976561',
+    Longitude: '-156.678',
+    Last_Changed: '11-01-2017 10:16:57 PM'
+  },
+  RLO: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RLO',
+    Monitoring_Location_Name: 'Lokelani',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.960256',
+    Longitude: '-156.68436',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RMO: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RMO',
+    Monitoring_Location_Name: 'Mokuleia',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '21.011111',
+    Longitude: '-156.64256',
+    Last_Changed: '05-23-2017 12:11:16 AM'
+  },
+  RNN: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RNN',
+    Monitoring_Location_Name: 'Napili (north end)',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.99658',
+    Longitude: '-156.66614',
+    Last_Changed: '05-23-2017 12:11:17 AM'
+  },
+  RNS: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RNS',
+    Monitoring_Location_Name: 'Napili (south end)',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.994222',
+    Longitude: '-156.667417',
+    Last_Changed: '05-23-2017 12:11:17 AM'
+  },
+  RON: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RON',
+    Monitoring_Location_Name: 'Oneloa',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '21.004056',
+    Longitude: '-156.65894',
+    Last_Changed: '05-23-2017 12:11:17 AM'
+  },
+  RPA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RPA',
+    Monitoring_Location_Name: 'Papakea',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.950738',
+    Longitude: '-156.690333',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RPO: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RPO',
+    Monitoring_Location_Name: 'Pohaku',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.967083',
+    Longitude: '-156.68139',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RPU: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RPU',
+    Monitoring_Location_Name: 'Pohaku 2',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.968376',
+    Longitude: '-156.681003',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  RSK: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RSK',
+    Monitoring_Location_Name: "Sheraton Ka'anapali",
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.92495',
+    Longitude: '-156.69527',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  RWA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'RWA',
+    Monitoring_Location_Name: 'Wahikuli',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.90423',
+    Longitude: '-156.68593',
+    Last_Changed: '05-23-2017 12:11:20 AM'
+  },
+  SAK: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SAK',
+    Monitoring_Location_Name: "Ahihi Kina'u",
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.61845',
+    Longitude: '-156.43748',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  SBA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SBA',
+    Monitoring_Location_Name: 'Baby Beach',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.912772',
+    Longitude: '-156.402925',
+    Last_Changed: '05-23-2017 12:11:14 AM'
+  },
+  SBB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SBB',
+    Monitoring_Location_Name: 'Baldwin�Beach',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.913989',
+    Longitude: '-156.393739',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SHE: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SHE',
+    Monitoring_Location_Name: 'Hookipa Beach Park E',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.934069',
+    Longitude: '-156.356622',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SHP: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SHP',
+    Monitoring_Location_Name: 'Haycraft Park',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.79657',
+    Longitude: '-156.50173',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  SHW: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SHW',
+    Monitoring_Location_Name: 'Hookipa Beach Park W',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.933519',
+    Longitude: '-156.357594',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SKA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SKA',
+    Monitoring_Location_Name: 'Kanaha Beach',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.903278',
+    Longitude: '-156.435917',
+    Last_Changed: '05-23-2017 12:11:14 AM'
+  },
+  SKB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SKB',
+    Monitoring_Location_Name: 'K Bay',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.942239',
+    Longitude: '-156.318086',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SKH: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SKH',
+    Monitoring_Location_Name: 'Kahului Harbor',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.891192',
+    Longitude: '-156.473478',
+    Last_Changed: '05-23-2017 12:11:14 AM'
+  },
+  SKI: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SKI',
+    Monitoring_Location_Name: 'Kihei Pier',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.78115',
+    Longitude: '-156.46283',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  SKO: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SKO',
+    Monitoring_Location_Name: "K_'ie'ie Fishpond",
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.76387',
+    Longitude: '-156.45908',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  SKP: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SKP',
+    Monitoring_Location_Name: 'Kalama Park',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.73122',
+    Longitude: '-156.45388',
+    Last_Changed: '05-23-2017 12:11:19 AM'
+  },
+  SKU: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SKU',
+    Monitoring_Location_Name: 'Kuau Bay',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.922344',
+    Longitude: '-156.374183',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SMA: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SMA',
+    Monitoring_Location_Name: "Mama's Beach",
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.929565',
+    Longitude: '-156.367104',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SMB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SMB',
+    Monitoring_Location_Name: 'Maliko Bay',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.936194',
+    Longitude: '-156.339161',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SPB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SPB',
+    Monitoring_Location_Name: 'Paia Bay',
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.915669',
+    Longitude: '-156.385783',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SPE: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SPE',
+    Monitoring_Location_Name: "Pe'ahi shoreline",
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.940953',
+    Longitude: '-156.299172',
+    Last_Changed: '05-23-2017 12:11:13 AM'
+  },
+  SWB: {
+    Organization_ID: 'HUIWAIOLA_WQX',
+    Monitoring_Location_ID: 'SWB',
+    Monitoring_Location_Name: "Waihe'e�Beach Park",
+    Monitoring_Location_Type: 'Ocean',
+    Latitude: '20.932534',
+    Longitude: '-156.498876',
+    Last_Changed: '05-23-2017 12:11:14 AM'
+  }
+}
+In readSiteGdriveData
+{
+  PFF: {
+    Hui_ID: 'PFF',
+    Status: 'Active',
+    Area: 'Polanui',
+    Site_Name: '505 Front Street',
+    Station_Name: '',
+    Display_Name: '505 Front St',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.86732',
+    Long: '-156.67605',
+    Dates_Sampled: ''
+  },
+  MAS: {
+    Hui_ID: 'MAS',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Ahihi South',
+    Station_Name: '',
+    Display_Name: 'ʻĀhihi Kīnaʻu South',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.6138',
+    Long: '-156.436853',
+    Dates_Sampled: ''
+  },
+  OCO: {
+    Hui_ID: 'OCO',
+    Status: 'Active',
+    Area: 'Olowalu to Pali',
+    Site_Name: 'Camp Olowalu',
+    Station_Name: '',
+    Display_Name: 'Camp Olowalu',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.80986',
+    Long: '-156.61369',
+    Dates_Sampled: ''
+  },
+  RKV: {
+    Hui_ID: 'RKV',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Kahana Village',
+    Station_Name: '',
+    Display_Name: 'Kahana Village',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.976561',
+    Long: '-156.678',
+    Dates_Sampled: ''
+  },
+  NKN: {
+    Hui_ID: 'NKN',
+    Status: 'Active',
+    Area: 'Kīhei',
+    Site_Name: 'Kalepolepo North',
+    Station_Name: '',
+    Display_Name: 'Kalepolepo Park',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.765132',
+    Long: '-156.459344',
+    Dates_Sampled: ''
+  },
+  RKO: {
+    Hui_ID: 'RKO',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: "Ka'opala",
+    Station_Name: '',
+    Display_Name: 'Kaʻopala Bay',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.982074',
+    Long: '-156.673398',
+    Dates_Sampled: ''
+  },
+  NKC: {
+    Hui_ID: 'NKC',
+    Status: 'Active',
+    Area: 'Kīhei',
+    Site_Name: 'Kihei Canoe Club',
+    Station_Name: '',
+    Display_Name: 'Kīhei Canoe Club',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.781403',
+    Long: '-156.463176',
+    Dates_Sampled: ''
+  },
+  PLH: {
+    Hui_ID: 'PLH',
+    Status: 'Active',
+    Area: 'Polanui',
+    Site_Name: 'Lindsey Hale',
+    Station_Name: '',
+    Display_Name: 'Polanui-Uhailio',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.86485',
+    Long: '-156.67374',
+    Dates_Sampled: ''
+  },
+  NMC: {
+    Hui_ID: 'NMC',
+    Status: 'Active',
+    Area: 'Māʻalaea',
+    Site_Name: 'Maalaea Condos',
+    Station_Name: '',
+    Display_Name: 'Māʻalaea Condos',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.794917',
+    Long: '-156.506735',
+    Dates_Sampled: ''
+  },
+  NMH: {
+    Hui_ID: 'NMH',
+    Status: 'Active',
+    Area: 'Māʻalaea',
+    Site_Name: 'Maalaea Harbor',
+    Station_Name: '',
+    Display_Name: 'Māʻalaea Harbor',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.790305',
+    Long: '-156.510825',
+    Dates_Sampled: ''
+  },
+  NMP: {
+    Hui_ID: 'NMP',
+    Status: 'Active',
+    Area: 'Kīhei',
+    Site_Name: "Mai Poina 'Oe Ia'u",
+    Station_Name: '',
+    Display_Name: 'Mai Poina Park',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.774894',
+    Long: '-156.460776',
+    Dates_Sampled: ''
+  },
+  MMB: {
+    Hui_ID: 'MMB',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Maluaka Beach',
+    Station_Name: '',
+    Display_Name: 'Maluaka Beach',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.645598',
+    Long: '-156.443859',
+    Dates_Sampled: ''
+  },
+  MON: {
+    Hui_ID: 'MON',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Oneuli',
+    Station_Name: '',
+    Display_Name: "One'uli Beach",
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.639866',
+    Long: '-156.447406',
+    Dates_Sampled: ''
+  },
+  OPP: {
+    Hui_ID: 'OPP',
+    Status: 'Active',
+    Area: 'Olowalu to Pali',
+    Site_Name: 'Papalaua Pali',
+    Station_Name: '',
+    Display_Name: 'Pāpalaua Pali',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.792747',
+    Long: '-156.567326',
+    Dates_Sampled: ''
+  },
+  OPM: {
+    Hui_ID: 'OPM',
+    Status: 'Active',
+    Area: 'Olowalu to Pali',
+    Site_Name: 'Peter Martin Hale',
+    Station_Name: '',
+    Display_Name: 'Olowalu Point',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.808444',
+    Long: '-156.619697',
+    Dates_Sampled: ''
+  },
+  RPO: {
+    Hui_ID: 'RPO',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Pohaku',
+    Station_Name: '',
+    Display_Name: 'Pōhaku Park',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.967083',
+    Long: '-156.68139',
+    Dates_Sampled: ''
+  },
+  NSB: {
+    Hui_ID: 'NSB',
+    Status: 'Active',
+    Area: 'Kīhei',
+    Site_Name: 'Sugar Beach',
+    Station_Name: '',
+    Display_Name: 'Sugar Beach',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.784204',
+    Long: '-156.466463',
+    Dates_Sampled: ''
+  },
+  HHP: {
+    Hui_ID: 'HHP',
+    Status: 'Inactive',
+    Area: 'Hāna',
+    Site_Name: 'Hana Pier',
+    Station_Name: '',
+    Display_Name: 'Hāna Pier',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.756083',
+    Long: '-155.982167',
+    Dates_Sampled: ''
+  },
+  HHH: {
+    Hui_ID: 'HHH',
+    Status: 'Inactive',
+    Area: 'Hāna',
+    Site_Name: 'Helene Hall',
+    Station_Name: '',
+    Display_Name: 'Helene Hall',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.755472',
+    Long: '-155.983222',
+    Dates_Sampled: ''
+  },
+  PPU: {
+    Hui_ID: 'PPU',
+    Status: 'Inactive',
+    Area: 'Polanui',
+    Site_Name: 'Makila Point',
+    Station_Name: '',
+    Display_Name: 'Makila Point',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.859233',
+    Long: '-156.669442',
+    Dates_Sampled: ''
+  },
+  HMB: {
+    Hui_ID: 'HMB',
+    Status: 'Inactive',
+    Area: 'Hāna',
+    Site_Name: 'Mid Bay 2',
+    Station_Name: '',
+    Display_Name: 'Hāna Kai Resort',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.759806',
+    Long: '-155.986611',
+    Dates_Sampled: ''
+  },
+  OMM: {
+    Hui_ID: 'OMM',
+    Status: 'Inactive',
+    Area: 'Olowalu to Pali',
+    Site_Name: 'Mile Marker 14',
+    Station_Name: '',
+    Display_Name: 'Mile Marker 14',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.80915',
+    Long: '-156.60661',
+    Dates_Sampled: ''
+  },
+  HWB: {
+    Hui_ID: 'HWB',
+    Status: 'Inactive',
+    Area: 'Hāna',
+    Site_Name: 'Waikoloa Beach',
+    Station_Name: '',
+    Display_Name: 'Waikoloa Beach',
+    DOH_ID: '',
+    Surfrider_ID: '',
+    Lat: '20.761306',
+    Long: '-155.985889',
+    Dates_Sampled: ''
+  },
+  MAN: {
+    Hui_ID: 'MAN',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Ahihi North',
+    Station_Name: 'Ahihi Cove',
+    Display_Name: 'ʻĀhihi Kīnaʻu North',
+    DOH_ID: '740',
+    Surfrider_ID: '',
+    Lat: '20.618366',
+    Long: '-156.437572',
+    Dates_Sampled: ''
+  },
+  RFS: {
+    Hui_ID: 'RFS',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Kapalua Bay (Fleming S)',
+    Station_Name: 'Fleming Beach (South)',
+    Display_Name: 'Kapalua Bay',
+    DOH_ID: '650',
+    Surfrider_ID: '',
+    Lat: '20.998924',
+    Long: '-156.666746',
+    Dates_Sampled: ''
+  },
+  RCB: {
+    Hui_ID: 'RCB',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Canoe Beach',
+    Station_Name: 'Hanakaoo',
+    Display_Name: 'Hanakaʻōʻō',
+    DOH_ID: '693',
+    Surfrider_ID: '',
+    Lat: '20.910347',
+    Long: '-156.689382',
+    Dates_Sampled: ''
+  },
+  RHL: {
+    Hui_ID: 'RHL',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Honolua',
+    Station_Name: 'Honolua Bay',
+    Display_Name: 'Honolua Bay',
+    DOH_ID: '707',
+    Surfrider_ID: '',
+    Lat: '21.013058',
+    Long: '-156.63834',
+    Dates_Sampled: ''
+  },
+  KKP: {
+    Hui_ID: 'KKP',
+    Status: 'Active',
+    Area: 'Kīhei',
+    Site_Name: 'Kalama Park',
+    Station_Name: 'Kalama Beach',
+    Display_Name: 'Kalama Park',
+    DOH_ID: '679',
+    Surfrider_ID: '',
+    Lat: '20.730973',
+    Long: '-156.45372',
+    Dates_Sampled: ''
+  },
+  WKB: {
+    Hui_ID: 'WKB',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Keawekapu Beach',
+    Station_Name: 'Keawekapu Beach',
+    Display_Name: 'Keawekapu Beach',
+    DOH_ID: '685',
+    Surfrider_ID: '',
+    Lat: '20.695939',
+    Long: '-156.444632',
+    Dates_Sampled: ''
+  },
+  PLT: {
+    Hui_ID: 'PLT',
+    Status: 'Active',
+    Area: 'Polanui',
+    Site_Name: 'Lahaina Town',
+    Station_Name: 'Lahaina Town (#202)',
+    Display_Name: "Kaua'ula Road",
+    DOH_ID: '726',
+    Surfrider_ID: '',
+    Lat: '20.86356',
+    Long: '-156.67297',
+    Dates_Sampled: ''
+  },
+  NHP: {
+    Hui_ID: 'NHP',
+    Status: 'Active',
+    Area: 'Māʻalaea',
+    Site_Name: 'Haycraft Park',
+    Station_Name: 'Maalaea Condos',
+    Display_Name: 'Haycraft Park',
+    DOH_ID: '687',
+    Surfrider_ID: '',
+    Lat: '20.796414',
+    Long: '-156.503198',
+    Dates_Sampled: ''
+  },
+  MML: {
+    Hui_ID: 'MML',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Makena Landing',
+    Station_Name: 'Makena Landing',
+    Display_Name: 'Mākena Landing',
+    DOH_ID: '717',
+    Surfrider_ID: '',
+    Lat: '20.653913',
+    Long: '-156.441174',
+    Dates_Sampled: ''
+  },
+  RNS: {
+    Hui_ID: 'RNS',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Napili',
+    Station_Name: 'Napili',
+    Display_Name: 'Napili Bay',
+    DOH_ID: '723',
+    Surfrider_ID: '',
+    Lat: '20.994222',
+    Long: '-156.667417',
+    Dates_Sampled: ''
+  },
+  OSF: {
+    Hui_ID: 'OSF',
+    Status: 'Active',
+    Area: 'Olowalu to Pali',
+    Site_Name: 'Olowalu Shore Front',
+    Station_Name: 'Olowalu Shore Front',
+    Display_Name: 'Olowalu Landing',
+    DOH_ID: '663',
+    Surfrider_ID: '',
+    Lat: '20.80916',
+    Long: '-156.62289',
+    Dates_Sampled: ''
+  },
+  RON: {
+    Hui_ID: 'RON',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Oneloa',
+    Station_Name: 'Oneloa',
+    Display_Name: 'Oneloa Bay',
+    DOH_ID: '722',
+    Surfrider_ID: '',
+    Lat: '21.004056',
+    Long: '-156.65894',
+    Dates_Sampled: ''
+  },
+  WPL: {
+    Hui_ID: 'WPL',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Palauea',
+    Station_Name: 'Palauea',
+    Display_Name: 'Palauea Beach',
+    DOH_ID: '715',
+    Surfrider_ID: '',
+    Lat: '20.669565',
+    Long: '-156.442907',
+    Dates_Sampled: ''
+  },
+  OPB: {
+    Hui_ID: 'OPB',
+    Status: 'Active',
+    Area: 'Olowalu to Pali',
+    Site_Name: 'Papalaua',
+    Station_Name: 'Papalaua',
+    Display_Name: 'Pāpalaua Park',
+    DOH_ID: '728',
+    Surfrider_ID: '',
+    Lat: '20.793809',
+    Long: '-156.575211',
+    Dates_Sampled: ''
+  },
+  WPO: {
+    Hui_ID: 'WPO',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: "Poolenalena (Chang's Beach)",
+    Station_Name: 'Poolenalena',
+    Display_Name: "Po'olenalena Park",
+    DOH_ID: '716',
+    Surfrider_ID: '',
+    Lat: '20.66339',
+    Long: '-156.441968',
+    Dates_Sampled: ''
+  },
+  RKS: {
+    Hui_ID: 'RKS',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Kaanapali Shores',
+    Station_Name: 'Sheraton Kaanapali Shoreline',
+    Display_Name: 'Kā‘anapali Shores',
+    DOH_ID: '666',
+    Surfrider_ID: '',
+    Lat: '20.949331',
+    Long: '-156.691124',
+    Dates_Sampled: ''
+  },
+  OUB: {
+    Hui_ID: 'OUB',
+    Status: 'Active',
+    Area: 'Olowalu to Pali',
+    Site_Name: 'Ukumehame Beach',
+    Station_Name: 'Ukumehame',
+    Display_Name: 'Ukumehame Park',
+    DOH_ID: '698',
+    Surfrider_ID: '',
+    Lat: '20.79448',
+    Long: '-156.58142',
+    Dates_Sampled: ''
+  },
+  WUL: {
+    Hui_ID: 'WUL',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Ulua Beach',
+    Station_Name: 'Ulua Beach',
+    Display_Name: 'Ulua Park',
+    DOH_ID: '686',
+    Surfrider_ID: '',
+    Lat: '20.69112',
+    Long: '-156.444201',
+    Dates_Sampled: ''
+  },
+  RWA: {
+    Hui_ID: 'RWA',
+    Status: 'Active',
+    Area: 'Polanui',
+    Site_Name: 'Wahikuli',
+    Station_Name: 'Wahikuli Beach',
+    Display_Name: 'Wahikuli Park',
+    DOH_ID: '678',
+    Surfrider_ID: '',
+    Lat: '20.904476',
+    Long: '-156.685931',
+    Dates_Sampled: ''
+  },
+  KWP: {
+    Hui_ID: 'KWP',
+    Status: 'Active',
+    Area: 'Kīhei',
+    Site_Name: 'Waipuilani Park',
+    Station_Name: 'Waipuilani',
+    Display_Name: 'Waipuilani Park',
+    DOH_ID: '713',
+    Surfrider_ID: '',
+    Lat: '20.755056',
+    Long: '-156.459602',
+    Dates_Sampled: ''
+  },
+  KKS: {
+    Hui_ID: 'KKS',
+    Status: 'Active',
+    Area: 'Kīhei',
+    Site_Name: 'Kihei South (Lipoa)',
+    Station_Name: 'Kihei (South)',
+    Display_Name: 'West Lipoa Street',
+    DOH_ID: '676',
+    Surfrider_ID: '',
+    Lat: '20.747334',
+    Long: '-156.457881',
+    Dates_Sampled: ''
+  },
+  RFN: {
+    Hui_ID: 'RFN',
+    Status: 'Inactive',
+    Area: 'Ridge to Reef',
+    Site_Name: 'DT Beach (Fleming N)',
+    Station_Name: 'Fleming Beach (North)',
+    Display_Name: 'DT Fleming Park',
+    DOH_ID: '674',
+    Surfrider_ID: '',
+    Lat: '21.005',
+    Long: '-156.65084',
+    Dates_Sampled: ''
+  },
+  HBP: {
+    Hui_ID: 'HBP',
+    Status: 'Inactive',
+    Area: 'Hāna',
+    Site_Name: 'Hana Beach Park',
+    Station_Name: 'Hana Bay Shoreline',
+    Display_Name: 'Hāna Beach Park',
+    DOH_ID: '652',
+    Surfrider_ID: '',
+    Lat: '20.75575',
+    Long: '-155.984667',
+    Dates_Sampled: ''
+  },
+  KKO: {
+    Hui_ID: 'KKO',
+    Status: 'Inactive',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Kamaole Beach I',
+    Station_Name: 'Kamaole Beach #1 (LG Tower)',
+    Display_Name: 'Kamaʻole Park I',
+    DOH_ID: '746',
+    Surfrider_ID: '',
+    Lat: '20.721985',
+    Long: '-156.448183',
+    Dates_Sampled: ''
+  },
+  KKT: {
+    Hui_ID: 'KKT',
+    Status: 'Inactive',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Kamaole Beach III',
+    Station_Name: 'Kamaole Beach #3',
+    Display_Name: 'Kamaʻole Park III',
+    DOH_ID: '683',
+    Surfrider_ID: '',
+    Lat: '20.712908',
+    Long: '-156.446596',
+    Dates_Sampled: ''
+  },
+  OLP: {
+    Hui_ID: 'OLP',
+    Status: 'Inactive',
+    Area: 'Polanui',
+    Site_Name: 'Launiupoko',
+    Station_Name: 'Launiupoko',
+    Display_Name: 'Launiupoko Park',
+    DOH_ID: '694',
+    Surfrider_ID: '',
+    Lat: '20.84236',
+    Long: '-156.653035',
+    Dates_Sampled: ''
+  },
+  RMO: {
+    Hui_ID: 'RMO',
+    Status: 'Inactive',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Mokuleia',
+    Station_Name: 'Mokuleia',
+    Display_Name: 'Mokuleʻia Bay',
+    DOH_ID: '721',
+    Surfrider_ID: '',
+    Lat: '21.011352',
+    Long: '-156.64227',
+    Dates_Sampled: ''
+  },
+  WWA: {
+    Hui_ID: 'WWA',
+    Status: 'Inactive',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Wailea Beach',
+    Station_Name: 'Wailea Beach',
+    Display_Name: 'Wailea Park',
+    DOH_ID: '691',
+    Surfrider_ID: '',
+    Lat: '20.68156',
+    Long: '-156.443524',
+    Dates_Sampled: ''
+  },
+  MBS: {
+    Hui_ID: 'MBS',
+    Status: 'Inactive',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Makena Beach Shoreline',
+    Station_Name: 'Makena Beach Shoreline',
+    Display_Name: 'Mākena State Park',
+    DOH_ID: '661',
+    Surfrider_ID: '',
+    Lat: '20.63061',
+    Long: '-156.446183',
+    Dates_Sampled: ''
+  },
+  NKP: {
+    Hui_ID: 'NKP',
+    Status: 'Active',
+    Area: 'Māʻalaea',
+    Site_Name: 'Kealia Pond',
+    Station_Name: 'Kealia Pond',
+    Display_Name: 'Keālia Pond',
+    DOH_ID: '711',
+    Surfrider_ID: '',
+    Lat: '20.794936',
+    Long: '-156.485587',
+    Dates_Sampled: ''
+  },
+  KCP: {
+    Hui_ID: 'KCP',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Cove Park',
+    Station_Name: 'Cove Park',
+    Display_Name: 'Cove Park',
+    DOH_ID: '703',
+    Surfrider_ID: '',
+    Lat: '20.727434',
+    Long: '-156.450077',
+    Dates_Sampled: ''
+  },
+  WKD: {
+    Hui_ID: 'WKD',
+    Status: 'Active',
+    Area: 'Wailea-Mākena',
+    Site_Name: 'Kilohana Dr',
+    Station_Name: 'Keawakapu (2)',
+    Display_Name: 'Kilohana Drive',
+    DOH_ID: '704',
+    Surfrider_ID: '',
+    Lat: '20.702214',
+    Long: '-156.445921',
+    Dates_Sampled: ''
+  },
+  RAB: {
+    Hui_ID: 'RAB',
+    Status: 'Inactive',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Airport Beach',
+    Station_Name: 'Airport (Kahekili) Beach',
+    Display_Name: 'Kahekili Park',
+    DOH_ID: '695',
+    Surfrider_ID: '',
+    Lat: '20.936669',
+    Long: '-156.69278',
+    Dates_Sampled: ''
+  },
+  RKT: {
+    Hui_ID: 'RKT',
+    Status: 'Active',
+    Area: 'Ridge to Reef',
+    Site_Name: 'Kahekili Two',
+    Station_Name: 'Kahekili/Airport 2',
+    Display_Name: 'Kahekili Two',
+    DOH_ID: '733',
+    Surfrider_ID: '',
+    Lat: '20.941269',
+    Long: '-156.692439',
+    Dates_Sampled: ''
+  }
+}
+In findDiffs
+Number of key IDs in WQX:         88
+Number of key IDs in gDriveSites: 57
+
+Sites to delete:
+site HBW missing from gDrive sites
+site HHC missing from gDrive sites
+site HIW missing from gDrive sites
+site HKC missing from gDrive sites
+site HLD missing from gDrive sites
+site HPV missing from gDrive sites
+site HRR missing from gDrive sites
+site KKE missing from gDrive sites
+site KKR missing from gDrive sites
+site KSB missing from gDrive sites
+site KWF missing from gDrive sites
+site KWH missing from gDrive sites
+site NBR missing from gDrive sites
+site NDH missing from gDrive sites
+site NHA missing from gDrive sites
+site NHB missing from gDrive sites
+site NHL missing from gDrive sites
+site NKA missing from gDrive sites
+site NKW missing from gDrive sites
+site NME missing from gDrive sites
+site NMG missing from gDrive sites
+site NPA missing from gDrive sites
+site NSC missing from gDrive sites
+site NWA missing from gDrive sites
+site NWG missing from gDrive sites
+site NWI missing from gDrive sites
+site NWK missing from gDrive sites
+site NWS missing from gDrive sites
+site OBR missing from gDrive sites
+site OSB missing from gDrive sites
+site OTC missing from gDrive sites
+site PMA missing from gDrive sites
+site RAP missing from gDrive sites
+site RBR missing from gDrive sites
+site RHO missing from gDrive sites
+site RKA missing from gDrive sites
+site RKN missing from gDrive sites
+site RLO missing from gDrive sites
+site RNN missing from gDrive sites
+site RPA missing from gDrive sites
+site RPU missing from gDrive sites
+site RSK missing from gDrive sites
+site SAK missing from gDrive sites
+site SBA missing from gDrive sites
+site SBB missing from gDrive sites
+site SHE missing from gDrive sites
+site SHP missing from gDrive sites
+site SHW missing from gDrive sites
+site SKA missing from gDrive sites
+site SKB missing from gDrive sites
+site SKH missing from gDrive sites
+site SKI missing from gDrive sites
+site SKO missing from gDrive sites
+site SKP missing from gDrive sites
+site SKU missing from gDrive sites
+site SMA missing from gDrive sites
+site SMB missing from gDrive sites
+site SPB missing from gDrive sites
+site SPE missing from gDrive sites
+site SWB missing from gDrive sites
+
+Sites to add:
+site MAS missing from WQX sites Ahihi South
+site NMC missing from WQX sites Maalaea Condos
+site NMH missing from WQX sites Maalaea Harbor
+site NMP missing from WQX sites Mai Poina 'Oe Ia'u
+site MMB missing from WQX sites Maluaka Beach
+site MON missing from WQX sites Oneuli
+site HHP missing from WQX sites Hana Pier
+site HHH missing from WQX sites Helene Hall
+site HMB missing from WQX sites Mid Bay 2
+site HWB missing from WQX sites Waikoloa Beach
+site MAN missing from WQX sites Ahihi North
+site KKP missing from WQX sites Kalama Park
+site WKB missing from WQX sites Keawekapu Beach
+site NHP missing from WQX sites Haycraft Park
+site MML missing from WQX sites Makena Landing
+site WPL missing from WQX sites Palauea
+site WPO missing from WQX sites Poolenalena (Chang's Beach)
+site WUL missing from WQX sites Ulua Beach
+site KWP missing from WQX sites Waipuilani Park
+site KKS missing from WQX sites Kihei South (Lipoa)
+site HBP missing from WQX sites Hana Beach Park
+site KKO missing from WQX sites Kamaole Beach I
+site KKT missing from WQX sites Kamaole Beach III
+site WWA missing from WQX sites Wailea Beach
+site MBS missing from WQX sites Makena Beach Shoreline
+site NKP missing from WQX sites Kealia Pond
+site KCP missing from WQX sites Cove Park
+site WKD missing from WQX sites Kilohana Dr
+site RKT missing from WQX sites Kahekili Two
+
+Sites to update (Kim speculated that these would be used before south was added, so they are not accurate)
+
+totally different location
+NKC names do not match. WQX: Kahului Harbor Canoe Hale gDrive: Kihei Canoe Club
+NKC latitudes do not match. WQX: 20.892119 gDrive: 20.781403
+NKC longitudes do not match. WQX: -156.469484 gDrive: -156.463176
+
+totally different location
+NKN names do not match. WQX: Kailua nui gDrive: Kalepolepo North
+NKN latitudes do not match. WQX: 20.913837 gDrive: 20.765132
+NKN longitudes do not match. WQX: -156.393691 gDrive: -156.459344
+
+totally different location
+NSB names do not match. WQX: Beach gDrive: Sugar Beach
+NSB latitudes do not match. WQX: 20.785001 gDrive: 20.784204
+NSB longitudes do not match. WQX: -156.516267 gDrive: -156.466463
+
+one in water, one on beach
+OPB latitudes do not match. WQX: 20.79348 gDrive: 20.793809
+OPB longitudes do not match. WQX: -156.57492 gDrive: -156.575211
+
+one in water, one on beach
+OPP latitudes do not match. WQX: 20.79269 gDrive: 20.792747
+OPP longitudes do not match. WQX: -156.56872 gDrive: -156.567326
+
+OSF names do not match. WQX: Olowalu shore front gDrive: Olowalu Shore Front
+
+PPU names do not match. WQX: Puamana gDrive: Makila Point
+
+RCB latitudes do not match. WQX: 20.910017 gDrive: 20.910347
+RCB longitudes do not match. WQX: -156.68917 gDrive: -156.689382
+
+RFN names do not match. WQX: FlemingNorth DT beach park gDrive: DT Beach (Fleming N)
+
+RFS names do not match. WQX: FlemingSouth Kapalua Bay gDrive: Kapalua Bay (Fleming S)
+RFS latitudes do not match. WQX: 20.998636 gDrive: 20.998924
+RFS longitudes do not match. WQX: -156.66667 gDrive: -156.666746
+
+RKO latitudes do not match. WQX: 20.981967 gDrive: 20.982074
+RKO longitudes do not match. WQX: -156.67308 gDrive: -156.673398
+
+RMO latitudes do not match. WQX: 21.011111 gDrive: 21.011352
+RMO longitudes do not match. WQX: -156.64256 gDrive: -156.64227
+
+RNS names do not match. WQX: Napili (south end) gDrive: Napili
+
+RWA latitudes do not match. WQX: 20.90423 gDrive: 20.904476
+RWA longitudes do not match. WQX: -156.68593 gDrive: -156.685931

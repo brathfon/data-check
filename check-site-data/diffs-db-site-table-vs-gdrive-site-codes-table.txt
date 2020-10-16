@@ -1,0 +1,14 @@
+These have been fixed:
+OPP Papalaua Pali latitudes do not match. db: 20.792747 gDrive: 20.85884
+OPP Papalaua Pali longitudes do not match. db: -156.567326 gDrive: -156.66933
+MON Oneuli longitudes do not match. db: -156.447406 gDrive: -156.44741
+
+Storet codes:
+RPO Pohaku storet_codes do not match. db: 724 gDrive: 
+RKO Ka'opala storet_codes do not match. db: 692 gDrive: 
+KKO Kamaole Beach I storet_codes do not match. db: 681 gDrive: 746
+NKC Kihei Canoe Club storet_codes do not match. db: 671 gDrive: 
+NMP Mai Poina 'Oe Ia'u storet_codes do not match. db: 702 gDrive: 
+
+
+

@@ -13,96 +13,19 @@ var chalk = require("chalk");
 var rwef  = require('./lib/readModernWebExportFile');
 
 
-// comparisons for web export on 2018-06-19  results: no diffs, only new data
-//var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-01-09.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-03-16.0.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-01-24.2.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-04-06.0.tsv');
-
-// comparison for web export on 2018-08-17  results: no diffs, only new data
-//var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-03-16.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-05-18.0.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-04-06.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-06-01.0.tsv');
-
-// comparison for web export on 2018-11-20  results: no diffs, only new data
-//var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-05-18.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-west-maui-thru-2018-10-12.0.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-06-01.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/Development/water-quality/db/reports/hui-south-maui-thru-2018-10-05.0.tsv');
-
-// comparison for web export on 2019-04-02  results: no diffs on old data, only new data
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-soest-branch/db/reports/hui-south-maui-thru-2018-10-05.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-soest-branch/db/reports/hui-south-maui-thru-2018-12-21.0.tsv');
-
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-soest-branch/db/reports/hui-west-maui-thru-2018-10-12.0.tsv');
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-soest-branch/db/reports/hui-west-maui-thru-2018-12-14.0.tsv');
-
-// comparison between end of 2018 and first quarter of 2019
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-west-maui-thru-2018-12-14.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-west-maui-thru-2019-1st-quarter.0.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-south-maui-thru-2018-12-21.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/change-no-nut-recording/db/reports/hui-south-maui-thru-2019-1st-quarter.0.tsv');
-
-// diffing two first quarter reports, a reports have empty nutrient samples for samples not received yet, b goes back to old way of not reporting if no nutrient data
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-south-maui-thru-2019-1st-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-south-maui-thru-2019-1st-quarter.1.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-west-maui-thru-2019-1st-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-nutrient-w53-s28-29/db/reports/hui-west-maui-thru-2019-1st-quarter.1.tsv');
-
-// 7/14/19, 2nd quarter release
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-west-maui-thru-2019-1st-quarter.1.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-west-maui-thru-2019-2nd-quarter.0.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-south-maui-thru-2019-1st-quarter.1.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-insitu-58w-34s-nutrient-31-s/db/reports/hui-south-maui-thru-2019-2nd-quarter.0.tsv');
-
-// 10/07/19, 3rd quarter release
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-2nd-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-3rd-quarter.0.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-2nd-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-3rd-quarter.0.tsv');
-
-
-//1/11/20, 4th quarter release for 2019
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-south-maui-thru-2019-3rd-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-south-maui-thru-2019-4th-quarter.0.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-west-maui-thru-2019-3rd-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/add-sessions-66w-42s/db/reports/hui-west-maui-thru-2019-4th-quarter.0.tsv');
-
-// 2/10/20, checking 4th quarter nutrient completed release
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-4th-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-4th-quarter.1.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-4th-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-4th-quarter.1.tsv');
-
-// checking 1st quarter release for 2020
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2019-4th-quarter.1.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-1st-quarter.0.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2019-4th-quarter.1.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2020-1st-quarter.0.tsv');
-
-// checking 1st quarter release for 2020, second set
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-1st-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-1st-quarter.1.tsv');
-
-//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2020-1st-quarter.0.tsv');
-//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2020-1st-quarter.1.tsv');
-
-var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-1st-quarter.1.tsv');
-var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-2nd-quarter.0.tsv');
+// check 2nd quarter 2020
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-1st-quarter.1.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-2nd-quarter.0.tsv');
 
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2020-1st-quarter.1.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2020-2nd-quarter.0.tsv');
+
+// check 3rd quarter 2020
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-2nd-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2020-3rd-quarter.0.tsv');
+
+var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2020-2nd-quarter.0.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2020-3rd-quarter.0.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 //console.log("bSamples " + util.inspect(bSamples, false, null));
