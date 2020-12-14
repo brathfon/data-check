@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // copied from find-diffs-mySQLexport-vs-storet.js on 7/6/2020
-// This script will be used to check against web export files and the data dumped down from storet
+// This script will be used to check against web export files and the data dumped down from store / WQX
 
 "use strict";
 
@@ -30,9 +30,13 @@ var siteLocKey = "";
 
 
 // ran these against each other, not expecting to see any differences, but I did.
-var aSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2019-04-30/physical-chemical-2019-04-30.csv');
-var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2020-07-04/csv-data/physical-chemical.csv');
+//var aSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2019-04-30/physical-chemical-2019-04-30.csv');
+//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2020-07-04/csv-data/physical-chemical.csv');
 
+// 2021213 diffing latest web export again WQP (Storet) files after initial population of WQP
+//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2019-4th-quarter.1.all-labs.tsv');
+var aSamples = rsql.readWebExportFile('/tmp/2019-4th-quarter.1.all-labs.tsv');  // this was a file with errors added in for testing
+var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20201213-wqp-post-load-session-1-19w/result.tsv')
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 var numASamples = Object.keys(aSamples).length;
