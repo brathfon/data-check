@@ -34,9 +34,13 @@ var siteLocKey = "";
 //var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2020-07-04/csv-data/physical-chemical.csv');
 
 // 2021213 diffing latest web export again WQP (Storet) files after initial population of WQP
-var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2019-4th-quarter.1.all-labs.tsv');
+//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2019-4th-quarter.1.all-labs.tsv');
 //var aSamples = rsql.readWebExportFile('/tmp/2019-4th-quarter.1.all-labs.tsv');  // this was a file with errors added in for testing
-var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20201213-wqp-post-load-session-1-19w/result.tsv')
+//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20201213-wqp-post-load-session-1-19w/result.tsv')
+
+// final check of the reloaded data for storet that includes 2020 3rd quarter data
+var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2020-3rd-quarter.1.all-areas.tsv');
+var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20201221-wqp-post-load-cdx-transfer/result.tsv')
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 var numASamples = Object.keys(aSamples).length;
