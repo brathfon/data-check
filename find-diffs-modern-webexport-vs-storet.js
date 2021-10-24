@@ -51,13 +51,17 @@ var siteLocKey = "";
 //var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20210719-wqp-1st-quarter-2021-post-load/result.tsv')
 
 // 2nd quarter 2021 check
-var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-2nd-quarter.0.all-areas.tsv');
+//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-2nd-quarter.0.all-areas.tsv');
 
 // check before EPABEACH update
 //var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20210806-wqp-2nd-quarter-2021-post-load/result.tsv')
 
 // check after EPABEACH update
-var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20210814-wqp-2nd-quarter-2021-post-epabeach-update/result.tsv')
+//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20210814-wqp-2nd-quarter-2021-post-epabeach-update/result.tsv')
+
+// 3rd quarter 2021 check after first load
+var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-3rd-quarter.0.all-areas.tsv');
+var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20211021a-wqp-3rd-quarter-2021-post-first-load/result.tsv')
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 var numASamples = Object.keys(aSamples).length;
