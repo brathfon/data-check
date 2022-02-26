@@ -1,0 +1,126 @@
+0	OrganizationIdentifier
+1	OrganizationFormalName
+2	ActivityIdentifier
+3	ActivityTypeCode
+4	ActivityMediaName
+5	ActivityMediaSubdivisionName
+6	ActivityStartDate
+7	ActivityStartTime/Time
+8	ActivityStartTime/TimeZoneCode
+9	ActivityEndDate
+10	ActivityEndTime/Time
+11	ActivityEndTime/TimeZoneCode
+12	ActivityDepthHeightMeasure/MeasureValue
+13	ActivityDepthHeightMeasure/MeasureUnitCode
+14	ActivityDepthAltitudeReferencePointText
+15	ActivityTopDepthHeightMeasure/MeasureValue
+16	ActivityTopDepthHeightMeasure/MeasureUnitCode
+17	ActivityBottomDepthHeightMeasure/MeasureValue
+18	ActivityBottomDepthHeightMeasure/MeasureUnitCode
+19	ProjectIdentifier
+20	ActivityConductingOrganizationText
+21	MonitoringLocationIdentifier
+22	ActivityCommentText
+23	SampleAquifer
+24	HydrologicCondition
+25	HydrologicEvent
+26	SampleCollectionMethod/MethodIdentifier
+27	SampleCollectionMethod/MethodIdentifierContext
+28	SampleCollectionMethod/MethodName
+29	SampleCollectionEquipmentName
+30	ResultDetectionConditionText
+31	CharacteristicName
+32	ResultSampleFractionText
+33	ResultMeasureValue
+34	ResultMeasure/MeasureUnitCode
+35	MeasureQualifierCode
+36	ResultStatusIdentifier
+37	StatisticalBaseCode
+38	ResultValueTypeName
+39	ResultWeightBasisText
+40	ResultTimeBasisText
+41	ResultTemperatureBasisText
+42	ResultParticleSizeBasisText
+43	PrecisionValue
+44	ResultCommentText
+45	USGSPCode
+46	ResultDepthHeightMeasure/MeasureValue
+47	ResultDepthHeightMeasure/MeasureUnitCode
+48	ResultDepthAltitudeReferencePointText
+49	SubjectTaxonomicName
+50	SampleTissueAnatomyName
+51	ResultAnalyticalMethod/MethodIdentifier
+52	ResultAnalyticalMethod/MethodIdentifierContext
+53	ResultAnalyticalMethod/MethodName
+54	MethodDescriptionText
+55	LaboratoryName
+56	AnalysisStartDate
+57	ResultLaboratoryCommentText
+58	DetectionQuantitationLimitTypeName
+59	DetectionQuantitationLimitMeasure/MeasureValue
+60	DetectionQuantitationLimitMeasure/MeasureUnitCode
+61	PreparationStartDate
+62	ProviderName
+0	HUIWAIOLA_WQX
+1	The Nature Conservancy - Honolulu(Volunteer)*
+2	HUIWAIOLA_WQX-OPM160908:FM:PS:TS:
+3	Field Msr/Obs
+4	Water
+5	
+6	2016-09-08
+7	07:10:00
+8	HAST
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	EPABEACH;HUI_PCHEM
+20	
+21	HUIWAIOLA_WQX-OPM
+22	
+23	
+24	
+25	
+26	1002
+27	HUIWAIOLA_WQX
+28	Knee Deep Grab Sample
+29	Probe/Sensor
+30	
+31	Temperature, water
+32	
+33	26.7
+34	deg C
+35	
+36	Final
+37	
+38	Actual
+39	
+40	
+41	
+42	
+43	
+44	
+45	
+46	
+47	
+48	
+49	
+50	
+51	2550
+52	APHA
+53	Temperature of Water by Thermometer
+54	
+55	
+56	
+57	
+58	
+59	
+60	
+61	
+62	STORET

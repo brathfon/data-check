@@ -1,0 +1,162 @@
+0	OrganizationIdentifier
+1	OrganizationFormalName
+2	ActivityIdentifier
+3	ActivityTypeCode
+4	ActivityMediaName
+5	ActivityMediaSubdivisionName
+6	ActivityStartDate
+7	ActivityStartTime/Time
+8	ActivityStartTime/TimeZoneCode
+9	ActivityEndDate
+10	ActivityEndTime/Time
+11	ActivityEndTime/TimeZoneCode
+12	ActivityRelativeDepthName
+13	ActivityDepthHeightMeasure/MeasureValue
+14	ActivityDepthHeightMeasure/MeasureUnitCode
+15	ActivityDepthAltitudeReferencePointText
+16	ActivityTopDepthHeightMeasure/MeasureValue
+17	ActivityTopDepthHeightMeasure/MeasureUnitCode
+18	ActivityBottomDepthHeightMeasure/MeasureValue
+19	ActivityBottomDepthHeightMeasure/MeasureUnitCode
+20	ProjectIdentifier
+21	ProjectName
+22	ActivityConductingOrganizationText
+23	MonitoringLocationIdentifier
+24	MonitoringLocationName
+25	ActivityCommentText
+26	SampleAquifer
+27	HydrologicCondition
+28	HydrologicEvent
+29	ActivityLocation/LatitudeMeasure
+30	ActivityLocation/LongitudeMeasure
+31	SampleCollectionMethod/MethodIdentifier
+32	SampleCollectionMethod/MethodIdentifierContext
+33	SampleCollectionMethod/MethodName
+34	SampleCollectionMethod/MethodDescriptionText
+35	SampleCollectionEquipmentName
+36	ResultIdentifier
+37	ResultDetectionConditionText
+38	MethodSpeciationName
+39	CharacteristicName
+40	ResultSampleFractionText
+41	ResultMeasureValue
+42	ResultMeasure/MeasureUnitCode
+43	MeasureQualifierCode
+44	ResultStatusIdentifier
+45	StatisticalBaseCode
+46	ResultValueTypeName
+47	ResultWeightBasisText
+48	ResultTimeBasisText
+49	ResultTemperatureBasisText
+50	ResultParticleSizeBasisText
+51	DataQuality/PrecisionValue
+52	DataQuality/BiasValue
+53	DataQuality/ConfidenceIntervalValue
+54	DataQuality/UpperConfidenceLimitValue
+55	DataQuality/LowerConfidenceLimitValue
+56	ResultCommentText
+57	USGSPCode
+58	ResultDepthHeightMeasure/MeasureValue
+59	ResultDepthHeightMeasure/MeasureUnitCode
+60	ResultDepthAltitudeReferencePointText
+61	SubjectTaxonomicName
+62	SampleTissueAnatomyName
+63	BinaryObjectFileName
+64	BinaryObjectFileTypeCode
+65	ResultFileUrl
+66	ResultAnalyticalMethod/MethodIdentifier
+67	ResultAnalyticalMethod/MethodIdentifierContext
+68	ResultAnalyticalMethod/MethodName
+69	ResultAnalyticalMethod/MethodUrl
+70	ResultAnalyticalMethod/MethodDescriptionText
+71	LaboratoryName
+72	AnalysisStartDate
+73	ResultLaboratoryCommentText
+74	ResultDetectionQuantitationLimitUrl
+75	DetectionQuantitationLimitTypeName
+76	DetectionQuantitationLimitMeasure/MeasureValue
+77	DetectionQuantitationLimitMeasure/MeasureUnitCode
+78	LabSamplePreparationUrl
+79	LastUpdated
+80	ProviderName
+0	HUIWAIOLA_WQX
+1	The Nature Conservancy - Honolulu(Volunteer)*
+2	HUIWAIOLA_WQX-OPM160908:FM:PS:TS:
+3	Field Msr/Obs
+4	Water
+5	
+6	2016-09-08
+7	07:10:00
+8	HAST
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	EPABEACH;HUI_PCHEM
+21	Project EPABEACH (system generated);Hui o Ka Wai Ola
+22	
+23	HUIWAIOLA_WQX-OPM
+24	Peter Martin Hale
+25	
+26	
+27	
+28	
+29	20.8084440000
+30	-156.6196970000
+31	1002
+32	HUIWAIOLA_WQX
+33	Knee Deep Grab Sample
+34	
+35	Probe/Sensor
+36	STORET-906862189
+37	
+38	
+39	Temperature, water
+40	
+41	26.7
+42	deg C
+43	
+44	Final
+45	
+46	Actual
+47	
+48	
+49	
+50	
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+60	
+61	
+62	
+63	
+64	
+65	
+66	2550
+67	APHA
+68	Temperature of Water by Thermometer
+69	
+70	
+71	
+72	
+73	
+74	
+75	
+76	
+77	
+78	
+79	2021-08-09 06:52:38.0
+80	STORET
