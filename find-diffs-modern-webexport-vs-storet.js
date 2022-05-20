@@ -42,9 +42,7 @@ var siteLocKey = "";
 //var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2020-3rd-quarter.1.all-areas.tsv');
 //var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20201221-wqp-post-load-cdx-transfer/result.tsv')
 
-// 4th quarter 2020 check
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2020-4th-quarter.0.all-areas.tsv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20210216-wqp-4th-quarter-2020-post-load/result.tsv')
+// 2021
 
 // 1st quarter 2021 check
 //var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-1st-quarter.0.all-areas.tsv');
@@ -68,8 +66,15 @@ var siteLocKey = "";
 //var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-3rd-quarter.1.all-areas.tsv');
 //var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20211029a-wqp-3rd-quarter-2021-post-2nd-load/result.tsv')
 
-var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-4th-quarter.0.all-areas.tsv');
-var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220222a-wqp-4th-quarter-2021-post-load/resultphyschem.tsv');
+// 4th quarter 2021
+//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-4th-quarter.0.all-areas.tsv');
+//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220222a-wqp-4th-quarter-2021-post-load/resultphyschem.tsv');
+
+// 2022
+
+// 1st quarter 2022
+var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2022-1st-quarter.0.all-areas.tsv');
+var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220520a-wqp-1st-quarter-2022-post-load/resultphyschem.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 var numASamples = Object.keys(aSamples).length;
