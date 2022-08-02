@@ -76,6 +76,10 @@ var siteLocKey = "";
 var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2022-1st-quarter.0.all-areas.tsv');
 var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220520a-wqp-1st-quarter-2022-post-load/resultphyschem.tsv');
 
+// 2nd quarter 2022
+var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2022-2nd-quarter.0.all-areas.tsv');
+var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220801a-wqp-2nd-quarter-2022-post-load/resultphyschem.tsv');
+
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 var numASamples = Object.keys(aSamples).length;
 //console.log("bSamples " + util.inspect(bSamples, false, null));
