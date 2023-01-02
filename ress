@@ -1,0 +1,409 @@
+1396 samples found in group A
+1448 samples found in group B
+B sample 07/12/22 @ NKN NOT FOUND in A
+B sample 07/12/22 @ KWP NOT FOUND in A
+B sample 07/12/22 @ KKS NOT FOUND in A
+B sample 07/12/22 @ KKP NOT FOUND in A
+B sample 07/13/22 @ KCP NOT FOUND in A
+B sample 07/13/22 @ MMB NOT FOUND in A
+B sample 07/13/22 @ MAN NOT FOUND in A
+B sample 07/13/22 @ MAS NOT FOUND in A
+B sample 07/14/22 @ NMH NOT FOUND in A
+B sample 07/14/22 @ NMC NOT FOUND in A
+B sample 07/14/22 @ NHP NOT FOUND in A
+B sample 07/14/22 @ NKP NOT FOUND in A
+B sample 07/14/22 @ NKC NOT FOUND in A
+B sample 08/02/22 @ NKN NOT FOUND in A
+B sample 08/02/22 @ KWP NOT FOUND in A
+B sample 08/02/22 @ KKS NOT FOUND in A
+B sample 08/02/22 @ KKP NOT FOUND in A
+B sample 08/03/22 @ KCP NOT FOUND in A
+B sample 08/03/22 @ MMB NOT FOUND in A
+B sample 08/03/22 @ MAN NOT FOUND in A
+B sample 08/03/22 @ MAS NOT FOUND in A
+B sample 08/04/22 @ NMH NOT FOUND in A
+B sample 08/04/22 @ NMC NOT FOUND in A
+B sample 08/04/22 @ NHP NOT FOUND in A
+B sample 08/04/22 @ NKP NOT FOUND in A
+B sample 08/04/22 @ NKC NOT FOUND in A
+B sample 08/23/22 @ NKN NOT FOUND in A
+B sample 08/23/22 @ KWP NOT FOUND in A
+B sample 08/23/22 @ KKS NOT FOUND in A
+B sample 08/23/22 @ KKP NOT FOUND in A
+B sample 08/24/22 @ KCP NOT FOUND in A
+B sample 08/24/22 @ MMB NOT FOUND in A
+B sample 08/24/22 @ MAN NOT FOUND in A
+B sample 08/24/22 @ MAS NOT FOUND in A
+B sample 08/25/22 @ NMH NOT FOUND in A
+B sample 08/25/22 @ NMC NOT FOUND in A
+B sample 08/25/22 @ NHP NOT FOUND in A
+B sample 08/25/22 @ NKP NOT FOUND in A
+B sample 08/25/22 @ NKC NOT FOUND in A
+B sample 09/13/22 @ NKN NOT FOUND in A
+B sample 09/13/22 @ KWP NOT FOUND in A
+B sample 09/13/22 @ KKS NOT FOUND in A
+B sample 09/13/22 @ KKP NOT FOUND in A
+B sample 09/14/22 @ KCP NOT FOUND in A
+B sample 09/14/22 @ MMB NOT FOUND in A
+B sample 09/14/22 @ MAN NOT FOUND in A
+B sample 09/14/22 @ MAS NOT FOUND in A
+B sample 09/15/22 @ NMH NOT FOUND in A
+B sample 09/15/22 @ NMC NOT FOUND in A
+B sample 09/15/22 @ NHP NOT FOUND in A
+B sample 09/15/22 @ NKP NOT FOUND in A
+B sample 09/15/22 @ NKC NOT FOUND in A
+Samples only in A: 0
+Samples only in B: 52
+Samples in common: 1396
+------------------ diffs found for KCP on 09/01/20  -----------------------
+SampleID	KCP200901	KCP200901
+SiteName	Cove Park	Cove Park
+Location	KCP	KCP
+Session	51	51
+Date	09/01/20	09/01/20
+Time	09:04	09:04
+Temp	27.3	27.3
+Salinity	31.2	31.2
+DO	4.74	#N/A DIFF 
+DO%	71.4	#N/A DIFF 
+pH	7.97	7.97
+Turbidity	13.17	13.17
+TotalN	779.38	779.38
+TotalP	54.14	54.14
+Phosphate	52.24	52.24
+Silicate	3154.06	3154.06
+NNN	560.86	560.86
+NH4	171.68	171.68
+Lat	20.727434	20.727434
+Long	-156.450077	-156.450077
+QaIssues		DO QA'ed out; DO% QA'ed out DIFF 
+------------------ diffs found for MAN on 09/15/21  -----------------------
+SampleID	MAN210915	MAN210915
+SiteName	Ahihi North	Ahihi North
+Location	MAN	MAN
+Session	69	69
+Date	09/15/21	09/15/21
+Time	10:05	10:05
+Temp	26.8	26.8
+Salinity	35.5	35.5
+DO	8.63	#N/A DIFF 
+DO%	107.9	107.9
+pH	8.16	8.16
+Turbidity	1.21	1.21
+TotalN	92.25	92.25
+TotalP	9.82	9.82
+Phosphate	4.66	4.66
+Silicate	158.09	158.09
+NNN	2.63	2.63
+NH4	2.68	2.68
+Lat	20.618366	20.618366
+Long	-156.437572	-156.437572
+QaIssues		DO QA'ed out DIFF 
+------------------ diffs found for KKP on 12/14/21  -----------------------
+SampleID	KKP211214	KKP211214
+SiteName	Kalama Park	Kalama Park
+Location	KKP	KKP
+Session	73	73
+Date	12/14/21	12/14/21
+Time	08:51	08:51
+Temp	24.9	24.9
+Salinity	35.0	35.0
+DO	5.37	#N/A DIFF 
+DO%	87.9	#N/A DIFF 
+pH	8.14	8.14
+Turbidity	4.78	4.78
+TotalN	147.35	147.35
+TotalP	11.16	11.16
+Phosphate	8.84	8.84
+Silicate	433.37	433.37
+NNN	59.77	59.77
+NH4	8.07	8.07
+Lat	20.730973	20.730973
+Long	-156.453720	-156.453720
+QaIssues		DO QA'ed out; DO% QA'ed out DIFF 
+------------------ diffs found for KCP on 06/22/22  -----------------------
+SampleID	KCP220622	KCP220622
+SiteName	Cove Park	Cove Park
+Location	KCP	KCP
+Session	82	82
+Date	06/22/22	06/22/22
+Time	08:38	08:38
+Temp	26.6	26.6
+Salinity	32.9	32.9
+DO	6.36	6.36
+DO%	95.0	95.0
+pH	8.12	8.12
+Turbidity	9.18	9.18
+TotalN		531.80 DIFF  (Probably pending nutrients updated)
+TotalP		25.44 DIFF  (Probably pending nutrients updated)
+Phosphate		23.37 DIFF  (Probably pending nutrients updated)
+Silicate		2109.23 DIFF  (Probably pending nutrients updated)
+NNN		400.84 DIFF  (Probably pending nutrients updated)
+NH4		39.27 DIFF  (Probably pending nutrients updated)
+Lat	20.727434	20.727434
+Long	-156.450077	-156.450077
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for MMB on 06/22/22  -----------------------
+SampleID	MMB220622	MMB220622
+SiteName	Maluaka Beach	Maluaka Beach
+Location	MMB	MMB
+Session	82	82
+Date	06/22/22	06/22/22
+Time	09:20	09:20
+Temp	26.7	26.7
+Salinity	35.2	35.2
+DO	6.39	6.39
+DO%	96.9	96.9
+pH	8.16	8.16
+Turbidity	3.84	3.84
+TotalN		152.09 DIFF  (Probably pending nutrients updated)
+TotalP		10.58 DIFF  (Probably pending nutrients updated)
+Phosphate		5.89 DIFF  (Probably pending nutrients updated)
+Silicate		340.38 DIFF  (Probably pending nutrients updated)
+NNN		56.94 DIFF  (Probably pending nutrients updated)
+NH4		2.92 DIFF  (Probably pending nutrients updated)
+Lat	20.645598	20.645598
+Long	-156.443859	-156.443859
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for MAN on 06/22/22  -----------------------
+SampleID	MAN220622	MAN220622
+SiteName	Ahihi North	Ahihi North
+Location	MAN	MAN
+Session	82	82
+Date	06/22/22	06/22/22
+Time	09:38	09:38
+Temp	26.1	26.1
+Salinity	35.5	35.5
+DO	6.90	6.90
+DO%	103.9	103.9
+pH	8.17	8.17
+Turbidity	1.66	1.66
+TotalN		98.44 DIFF  (Probably pending nutrients updated)
+TotalP		8.63 DIFF  (Probably pending nutrients updated)
+Phosphate		3.55 DIFF  (Probably pending nutrients updated)
+Silicate		167.70 DIFF  (Probably pending nutrients updated)
+NNN		2.15 DIFF  (Probably pending nutrients updated)
+NH4		3.32 DIFF  (Probably pending nutrients updated)
+Lat	20.618366	20.618366
+Long	-156.437572	-156.437572
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for MAS on 06/22/22  -----------------------
+SampleID	MAS220622	MAS220622
+SiteName	Ahihi South	Ahihi South
+Location	MAS	MAS
+Session	82	82
+Date	06/22/22	06/22/22
+Time	09:58	09:58
+Temp	26.6	26.6
+Salinity	35.6	35.6
+DO	6.62	6.62
+DO%	100.6	100.6
+pH	8.18	8.18
+Turbidity	1.42	1.42
+TotalN		95.89 DIFF  (Probably pending nutrients updated)
+TotalP		8.58 DIFF  (Probably pending nutrients updated)
+Phosphate		4.74 DIFF  (Probably pending nutrients updated)
+Silicate		133.08 DIFF  (Probably pending nutrients updated)
+NNN		5.32 DIFF  (Probably pending nutrients updated)
+NH4		4.05 DIFF  (Probably pending nutrients updated)
+Lat	20.613800	20.613800
+Long	-156.436853	-156.436853
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for NMH on 06/23/22  -----------------------
+SampleID	NMH220623	NMH220623
+SiteName	Maalaea Harbor	Maalaea Harbor
+Location	NMH	NMH
+Session	82	82
+Date	06/23/22	06/23/22
+Time	07:55	07:55
+Temp	25.0	25.0
+Salinity	35.0	35.0
+DO	6.13	6.13
+DO%	90.6	90.6
+pH	8.17	8.17
+Turbidity	2.31	2.31
+TotalN		139.08 DIFF  (Probably pending nutrients updated)
+TotalP		11.96 DIFF  (Probably pending nutrients updated)
+Phosphate		6.89 DIFF  (Probably pending nutrients updated)
+Silicate		489.14 DIFF  (Probably pending nutrients updated)
+NNN		56.19 DIFF  (Probably pending nutrients updated)
+NH4		7.54 DIFF  (Probably pending nutrients updated)
+Lat	20.790305	20.790305
+Long	-156.510825	-156.510825
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for NMC on 06/23/22  -----------------------
+SampleID	NMC220623	NMC220623
+SiteName	Maalaea Condos	Maalaea Condos
+Location	NMC	NMC
+Session	82	82
+Date	06/23/22	06/23/22
+Time	08:25	08:25
+Temp	25.0	25.0
+Salinity	33.4	33.4
+DO	6.81	6.81
+DO%	99.7	99.7
+pH	8.19	8.19
+Turbidity	3.20	3.20
+TotalN		288.73 DIFF  (Probably pending nutrients updated)
+TotalP		10.00 DIFF  (Probably pending nutrients updated)
+Phosphate		5.88 DIFF  (Probably pending nutrients updated)
+Silicate		976.36 DIFF  (Probably pending nutrients updated)
+NNN		192.81 DIFF  (Probably pending nutrients updated)
+NH4		7.12 DIFF  (Probably pending nutrients updated)
+Lat	20.794917	20.794917
+Long	-156.506735	-156.506735
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for NHP on 06/23/22  -----------------------
+SampleID	NHP220623	NHP220623
+SiteName	Haycraft Park	Haycraft Park
+Location	NHP	NHP
+Session	82	82
+Date	06/23/22	06/23/22
+Time	08:39	08:39
+Temp	25.6	25.6
+Salinity	35.2	35.2
+DO	6.58	6.58
+DO%	98.1	98.1
+pH	8.19	8.19
+Turbidity	14.50	14.50
+TotalN		90.61 DIFF  (Probably pending nutrients updated)
+TotalP		8.84 DIFF  (Probably pending nutrients updated)
+Phosphate		3.15 DIFF  (Probably pending nutrients updated)
+Silicate		74.74 DIFF  (Probably pending nutrients updated)
+NNN		1.85 DIFF  (Probably pending nutrients updated)
+NH4		2.73 DIFF  (Probably pending nutrients updated)
+Lat	20.796414	20.796414
+Long	-156.503198	-156.503198
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for NKP on 06/23/22  -----------------------
+SampleID	NKP220623	NKP220623
+SiteName	Kealia Pond	Kealia Pond
+Location	NKP	NKP
+Session	82	82
+Date	06/23/22	06/23/22
+Time	08:58	08:58
+Temp	25.4	25.4
+Salinity	35.7	35.7
+DO	6.46	6.46
+DO%	96.4	96.4
+pH	8.20	8.20
+Turbidity	2.24	2.24
+TotalN		137.50 DIFF  (Probably pending nutrients updated)
+TotalP		10.58 DIFF  (Probably pending nutrients updated)
+Phosphate		5.09 DIFF  (Probably pending nutrients updated)
+Silicate		287.47 DIFF  (Probably pending nutrients updated)
+NNN		48.31 DIFF  (Probably pending nutrients updated)
+NH4		3.62 DIFF  (Probably pending nutrients updated)
+Lat	20.794936	20.794936
+Long	-156.485587	-156.485587
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for NKC on 06/23/22  -----------------------
+SampleID	NKC220623	NKC220623
+SiteName	Kihei Canoe Club	Kihei Canoe Club
+Location	NKC	NKC
+Session	82	82
+Date	06/23/22	06/23/22
+Time	09:13	09:13
+Temp	26.0	26.0
+Salinity	35.1	35.1
+DO	6.49	6.49
+DO%	97.7	97.7
+pH	8.16	8.16
+Turbidity	68.23	68.23
+TotalN		199.81 DIFF  (Probably pending nutrients updated)
+TotalP		11.79 DIFF  (Probably pending nutrients updated)
+Phosphate		6.05 DIFF  (Probably pending nutrients updated)
+Silicate		452.93 DIFF  (Probably pending nutrients updated)
+NNN		113.60 DIFF  (Probably pending nutrients updated)
+NH4		1.36 DIFF  (Probably pending nutrients updated)
+Lat	20.781403	20.781403
+Long	-156.463176	-156.463176
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for NKN on 06/24/22  -----------------------
+SampleID	NKN220624	NKN220624
+SiteName	Kalepolepo North	Kalepolepo North
+Location	NKN	NKN
+Session	82	82
+Date	06/24/22	06/24/22
+Time	08:00	08:00
+Temp	25.5	25.5
+Salinity	33.5	33.5
+DO	5.75	5.75
+DO%	84.8	84.8
+pH	8.14	8.14
+Turbidity	3.39	3.39
+TotalN		210.80 DIFF  (Probably pending nutrients updated)
+TotalP		8.70 DIFF  (Probably pending nutrients updated)
+Phosphate		6.39 DIFF  (Probably pending nutrients updated)
+Silicate		1141.89 DIFF  (Probably pending nutrients updated)
+NNN		115.69 DIFF  (Probably pending nutrients updated)
+NH4		5.41 DIFF  (Probably pending nutrients updated)
+Lat	20.765132	20.765132
+Long	-156.459344	-156.459344
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for KWP on 06/24/22  -----------------------
+SampleID	KWP220624	KWP220624
+SiteName	Waipuilani Park	Waipuilani Park
+Location	KWP	KWP
+Session	82	82
+Date	06/24/22	06/24/22
+Time	08:20	08:20
+Temp	24.4	24.4
+Salinity	32.4	32.4
+DO	5.17	5.17
+DO%	74.4	74.4
+pH	8.03	8.03
+Turbidity	2.77	2.77
+TotalN		121.88 DIFF  (Probably pending nutrients updated)
+TotalP		7.33 DIFF  (Probably pending nutrients updated)
+Phosphate		5.27 DIFF  (Probably pending nutrients updated)
+Silicate		968.08 DIFF  (Probably pending nutrients updated)
+NNN		20.92 DIFF  (Probably pending nutrients updated)
+NH4		5.49 DIFF  (Probably pending nutrients updated)
+Lat	20.755056	20.755056
+Long	-156.459602	-156.459602
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for KKS on 06/24/22  -----------------------
+SampleID	KKS220624	KKS220624
+SiteName	Kihei South (Lipoa)	Kihei South (Lipoa)
+Location	KKS	KKS
+Session	82	82
+Date	06/24/22	06/24/22
+Time	08:40	08:40
+Temp	25.9	25.9
+Salinity	33.5	33.5
+DO	5.82	5.82
+DO%	86.4	86.4
+pH	8.13	8.13
+Turbidity	4.52	4.52
+TotalN		165.81 DIFF  (Probably pending nutrients updated)
+TotalP		7.97 DIFF  (Probably pending nutrients updated)
+Phosphate		5.26 DIFF  (Probably pending nutrients updated)
+Silicate		888.05 DIFF  (Probably pending nutrients updated)
+NNN		63.41 DIFF  (Probably pending nutrients updated)
+NH4		7.65 DIFF  (Probably pending nutrients updated)
+Lat	20.747334	20.747334
+Long	-156.457881	-156.457881
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)
+------------------ diffs found for KKP on 06/24/22  -----------------------
+SampleID	KKP220624	KKP220624
+SiteName	Kalama Park	Kalama Park
+Location	KKP	KKP
+Session	82	82
+Date	06/24/22	06/24/22
+Time	08:57	08:57
+Temp	26.0	26.0
+Salinity	34.6	34.6
+DO	6.58	6.58
+DO%	98.7	98.7
+pH	8.15	8.15
+Turbidity	8.63	8.63
+TotalN		179.07 DIFF  (Probably pending nutrients updated)
+TotalP		7.99 DIFF  (Probably pending nutrients updated)
+Phosphate		5.52 DIFF  (Probably pending nutrients updated)
+Silicate		471.95 DIFF  (Probably pending nutrients updated)
+NNN		82.74 DIFF  (Probably pending nutrients updated)
+NH4		4.66 DIFF  (Probably pending nutrients updated)
+Lat	20.730973	20.730973
+Long	-156.453720	-156.453720
+QaIssues	nutrient data pending	 DIFF  (Probably pending nutrients updated)

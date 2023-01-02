@@ -66,8 +66,15 @@ var rwef  = require('./lib/readModernWebExportFile');
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2022-1st-quarter.0.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2022-2nd-quarter.0.tsv');
 
-var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2022-1st-quarter.0.tsv');
-var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2022-2nd-quarter.0.tsv');
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2022-1st-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2022-2nd-quarter.0.tsv');
+
+// check 3rd quarter 2022
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2022-2nd-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2022-3rd-quarter.2.tsv');
+
+var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2022-2nd-quarter.0.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2022-3rd-quarter.0.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 //console.log("bSamples " + util.inspect(bSamples, false, null));
