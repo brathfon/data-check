@@ -20,65 +20,19 @@ var siteLocKey = "";
 //var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/physical-chemical.csv');
 
 
-// second check after finding that the storet data had not been deleted, but appeared to have some updates from last pull in June of 2018
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2018-01-09.tsv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2019-04-30/physical-chemical-2019-04-30.csv');
-
-// results were equal, so data didn't change between dates
-//var aSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2019-04-30/physical-chemical-2019-04-30.csv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2019-12-02/physical-chemical-2019-12-02.csv');
-
-
-// ran these against each other, not expecting to see any differences, but I did.
-//var aSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2019-04-30/physical-chemical-2019-04-30.csv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/download-on-2020-07-04/csv-data/physical-chemical.csv');
-
-// 2021213 diffing latest web export again WQP (Storet) files after initial population of WQP
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2019-4th-quarter.1.all-labs.tsv');
-//var aSamples = rsql.readWebExportFile('/tmp/2019-4th-quarter.1.all-labs.tsv');  // this was a file with errors added in for testing
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20201213-wqp-post-load-session-1-19w/result.tsv')
-
-// final check of the reloaded data for storet that includes 2020 3rd quarter data
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2020-3rd-quarter.1.all-areas.tsv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20201221-wqp-post-load-cdx-transfer/result.tsv')
-
-// 2021
-
-// 1st quarter 2021 check
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-1st-quarter.0.all-areas.tsv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20210719-wqp-1st-quarter-2021-post-load/result.tsv')
-
-// 2nd quarter 2021 check
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-2nd-quarter.0.all-areas.tsv');
-
-// check before EPABEACH update
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20210806-wqp-2nd-quarter-2021-post-load/result.tsv')
-
-// check after EPABEACH update
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20210814-wqp-2nd-quarter-2021-post-epabeach-update/result.tsv')
-
-// 3rd quarter 2021 check after first load
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-3rd-quarter.0.all-areas.tsv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20211021a-wqp-3rd-quarter-2021-post-first-load/result.tsv')
-
-
-// 3rd quarter 2021 check after 2nd load, last two nutrient samples
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-3rd-quarter.1.all-areas.tsv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20211029a-wqp-3rd-quarter-2021-post-2nd-load/result.tsv')
-
-// 4th quarter 2021
-//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2021-4th-quarter.0.all-areas.tsv');
-//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220222a-wqp-4th-quarter-2021-post-load/resultphyschem.tsv');
-
 // 2022
 
 // 1st quarter 2022
-var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2022-1st-quarter.0.all-areas.tsv');
-var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220520a-wqp-1st-quarter-2022-post-load/resultphyschem.tsv');
+//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2022-1st-quarter.0.all-areas.tsv');
+//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220520a-wqp-1st-quarter-2022-post-load/resultphyschem.tsv');
 
 // 2nd quarter 2022
-var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2022-2nd-quarter.0.all-areas.tsv');
-var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220801a-wqp-2nd-quarter-2022-post-load/resultphyschem.tsv');
+//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2022-2nd-quarter.0.all-areas.tsv');
+//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20220801a-wqp-2nd-quarter-2022-post-load/resultphyschem.tsv');
+
+// 2nd quarter 2023
+var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2022-3rd-quarter.0.all-areas.tsv');
+var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20230215a-wqp-3rd-quarter-2022-post-load/resultphyschem.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 var numASamples = Object.keys(aSamples).length;
