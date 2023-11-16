@@ -41,8 +41,12 @@ var siteLocKey = "";
 //var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20230704a-wqp-1st-quarter-2023-post-load/resultphyschem.tsv');
 
 // 2nd quarter 2023
-var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-2nd-quarter.0.all-areas.tsv');
-var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20230816a-wqp-2nd-quarter-2023-post-load/resultphyschem.tsv');
+//var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-2nd-quarter.1.all-areas.tsv');
+//var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20230816a-wqp-2nd-quarter-2023-post-load/resultphyschem.tsv');
+
+// 3rd quarter 2023
+var aSamples = rsql.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-3rd-quarter.1.all-areas.tsv');
+var bSamples = rspc.readStoretFile('/Users/bill/development/water-quality/water-quality-data/storet/20231114a-wqp-3rd-quarter-2023-post-load/resultphyschem.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 var numASamples = Object.keys(aSamples).length;

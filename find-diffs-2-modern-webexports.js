@@ -64,11 +64,28 @@ var rwef  = require('./lib/readModernWebExportFile');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-1st-quarter.0.south-maui.tsv');
 
 //check 2nd quarter 2023
-var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-1st-quarter.0.west-maui.tsv');
-var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-2nd-quarter.0.west-maui.tsv');
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-1st-quarter.0.west-maui.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-2nd-quarter.0.west-maui.tsv');
 
 //var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-1st-quarter.0.south-maui.tsv');
 //var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-2nd-quarter.0.south-maui.tsv');
+
+
+//check 3rd quarter 2023
+// dev test
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2023-2nd-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-west-maui-thru-2023-3rd-quarter.0.tsv');
+
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2023-2nd-quarter.0.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/water-quality-master/db/reports/hui-south-maui-thru-2023-3rd-quarter.0.tsv');
+
+//HERE
+// HUI reports
+//var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-2nd-quarter.0.west-maui.tsv');
+//var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-3rd-quarter.1.west-maui.tsv');
+
+var aSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-2nd-quarter.0.south-maui.tsv');
+var bSamples = rwef.readWebExportFile('/Users/bill/development/water-quality/hui-reports/reports/web-export-quarterly-reports/2023-3rd-quarter.1.south-maui.tsv');
 
 //console.log("aSamples " + util.inspect(aSamples, false, null));
 //console.log("bSamples " + util.inspect(bSamples, false, null));
